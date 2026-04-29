@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-11-20T21:44:54.054+01:00</Created>
+        <LastChange>2023-11-20T21:51:36.876+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="61667291" pageNr="6" tsid="140246251" status="GT" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=OLPGNHENKCVUVWMDCYMOZGEG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=POTUUYGZRHBMGWOUQCRCMJEK" imageId="49850870" />
+    </Metadata>
+    <Page imageFilename="JUST1-734m2.jpg" imageWidth="981" imageHeight="579">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1700697993174" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="8,68 278,52 446,42 566,42 810,35 968,36 968,4 810,3 566,10 446,10 278,20 8,36" />
+                <Baseline points="8,61 278,45 446,35 566,35 810,28 968,29" />
+                <TextEquiv>
+                    <Unicode>¶ Assisa venit recognitura si Alanus le Harpur injuste etc disseisivit Herbertum le Bretun de libero tenementosuo in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_22" custom="readingOrder {index:1;}">
+                <Coords points="30,98 205,89 344,77 524,73 712,70 901,70 901,38 712,38 524,41 344,45 205,57 30,66" />
+                <Baseline points="30,91 205,82 344,70 524,66 712,63 901,63" />
+                <TextEquiv>
+                    <Unicode>Upton post primam etc. Et unde queritur quod disseisivit eum de meditate unius virgate terre etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_36" custom="readingOrder {index:2;}">
+                <Coords points="30,139 183,129 287,117 469,112 682,107 958,103 958,71 682,75 469,80 287,85 183,97 30,107" />
+                <Baseline points="30,132 183,122 287,110 469,105 682,100 958,96" />
+                <TextEquiv>
+                    <Unicode>Et Alanus venit et dicit quod predictus Herbertus injuste tulit assisam istam quia dicit quod idem Herbertus alias </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_50" custom="readingOrder {index:3;}">
+                <Coords points="33,175 154,165 349,151 513,143 652,143 836,142 970,145 970,113 836,110 652,111 513,111 349,119 154,133 33,143" />
+                <Baseline points="33,168 154,158 349,144 513,136 652,136 836,135 970,138" />
+                <TextEquiv>
+                    <Unicode>tulit assisam nove disseisine versus ipsum de eodem tenemento coram Magistro S. de Wauton justiciario ad hoc assignato per quam </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_66" custom="readingOrder {index:4;}">
+                <Coords points="32,210 215,191 475,177 688,180 980,175 980,143 688,148 475,145 215,159 32,178" />
+                <Baseline points="32,203 215,184 475,170 688,173 980,168" />
+                <TextEquiv>
+                    <Unicode>convictum fuit quod idem Herbertus villanus fuit, ita quod idem Alanus per consilium curie recessit inde quietus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_78" custom="readingOrder {index:5;}">
+                <Coords points="37,244 222,233 400,223 614,215 765,218 978,219 978,187 765,186 614,183 400,191 222,201 37,212" />
+                <Baseline points="37,237 222,226 400,216 614,208 765,211 978,212" />
+                <TextEquiv>
+                    <Unicode>et predictus Herbertus remansit in misericordia. Et predictus Herbertus hoc idem cognoscit. Ideo consideratum est quod predictus Alanus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_92" custom="readingOrder {index:6;}">
+                <Coords points="33,287 232,274 407,263 407,231 232,242 33,255" />
+                <Baseline points="33,280 232,267 407,256" />
+                <TextEquiv>
+                    <Unicode>inde quietus. Et Herbertus pauper est etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_100" custom="readingOrder {index:7;}">
+                <Coords points="13,368 168,356 341,351 574,340 753,334 911,331 979,329 979,297 911,299 753,302 574,308 341,319 168,324 13,336" />
+                <Baseline points="13,361 168,349 341,344 574,333 753,327 911,324 979,322" />
+                <TextEquiv>
+                    <Unicode>¶ Willelmus Mauduyt de Castro Halgod petit versus Priorem de Wenlok duas carucatas terre cum pertinenciis in Oxebaud</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_116" custom="readingOrder {index:8;}">
+                <Coords points="34,401 138,394 310,383 501,376 672,371 857,361 968,362 968,330 857,329 672,339 501,344 310,351 138,362 34,369" />
+                <Baseline points="34,394 138,387 310,376 501,369 672,364 857,354 968,355" />
+                <TextEquiv>
+                    <Unicode>ut jus suum etc. Et unde quidam Robertus de la More antecessor suus fuit seysitus in dominico suo ut de feodo et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_132" custom="readingOrder {index:9;}">
+                <Coords points="35,438 151,426 275,420 408,409 546,404 702,403 968,390 968,358 702,371 546,372 408,377 275,388 151,394 35,406" />
+                <Baseline points="35,431 151,419 275,413 408,402 546,397 702,396 968,383" />
+                <TextEquiv>
+                    <Unicode>jure tempore Henrici regis avi domini regis nunc capiendo inde explecia ad valenciam dimidie marce etc. Et de ipso Roberto descendit jus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_148" custom="readingOrder {index:10;}">
+                <Coords points="36,474 148,463 314,444 394,444 548,438 721,431 797,430 890,426 968,426 968,394 890,394 797,398 721,399 548,406 394,412 314,412 148,431 36,442" />
+                <Baseline points="36,467 148,456 314,437 394,437 548,431 721,424 797,423 890,419 968,419" />
+                <TextEquiv>
+                    <Unicode>terre illius cuidam Agneti ut filie et heredi. Et de ipsa Agnete cuidam Thome ut filio et heredi. Et de ipso Thoma </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_168" custom="readingOrder {index:11;}">
+                <Coords points="36,506 94,502 236,485 443,478 575,472 766,468 962,463 962,431 766,436 575,440 443,446 236,453 94,470 36,474" />
+                <Baseline points="36,499 94,495 236,478 443,471 575,465 766,461 962,456" />
+                <TextEquiv>
+                    <Unicode>cuidam Roberto ut filio et heredi. Et de ipso Roberto quia obiit sine herede de se cuidam Thome ut fratri et heredi. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_184" custom="readingOrder {index:12;}">
+                <Coords points="38,537 222,518 372,512 535,502 680,499 762,503 890,496 972,495 972,463 890,464 762,471 680,467 535,470 372,480 222,486 38,505" />
+                <Baseline points="38,530 222,511 372,505 535,495 680,492 762,496 890,489 972,488" />
+                <TextEquiv>
+                    <Unicode>Et de ipso Thoma quia obiit sine herede de se isti Willelmo qui nunc petit ut fratri et heredi. Et quod tale sit jus suum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_202" custom="readingOrder {index:13;}">
+                <Coords points="37,566 134,558 134,526 37,534" />
+                <Baseline points="37,559 134,551" />
+                <TextEquiv>
+                    <Unicode>offert etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <Coords points="987,496 5,574 5,2 978,2" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

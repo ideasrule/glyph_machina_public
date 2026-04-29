@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="https://github.com/mauvilsa/nw-page-editor">
+  <Metadata>
+    <Creator>Transkribus</Creator>
+    <Created>2023-12-31T05:17:51.889+01:00</Created>
+    <LastChange>2026-04-29T17:13:23Z</LastChange>
+    <TranskribusMetadata docId="1640070" imageId="50944712" imgUrl="https://files.transkribus.eu/Get?id=UWIUFELIIPBGEZWLJZCBFYDT&amp;fileType=view" pageId="63020762" pageNr="8" status="FINAL" tsid="144214093" userId="195295" xmlUrl="https://files.transkribus.eu/Get?id=CBHKMYGLHVKEADLVEWUMVXKQ"/>
+  </Metadata>
+  <Page imageFilename="JUST1-633m47d.jpeg" imageHeight="1935" imageWidth="1151">
+    <ReadingOrder>
+      <OrderedGroup caption="Regions reading order" id="ro_1704262309979">
+        <RegionRefIndexed index="0" regionRef="r"/>
+      </OrderedGroup>
+    </ReadingOrder>
+    <Relations/>
+    <TextRegion custom="readingOrder {index:0;}" id="r">
+      <Coords points="1136,1920 1,1920 8,3 1142,5"/>
+      <TextLine custom="readingOrder {index:0;}" id="l">
+        <Coords points="9,81 193,73 495,65 669,55 801,50 951,45 1110,40 1110,8 951,13 801,18 669,23 495,33 193,41 9,49"/>
+        <Baseline points="9,74 193,66 495,58 669,48 801,43 951,38 1110,33"/>
+        <TextEquiv>
+          <Unicode>Robertus filius Iacobi de Haselbech petit versus Adam Astel vnam virgatam terre cum pertinencis in Haselbech vt jus et heredi</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:1;}" id="l_25">
+        <Coords points="17,114 115,110 258,103 299,104 444,101 627,90 748,88 920,86 1021,83 1133,77 1133,45 1021,51 920,54 748,56 627,58 444,69 299,72 258,71 115,78 17,82"/>
+        <Baseline points="17,107 115,103 258,96 299,97 444,94 627,83 748,81 920,79 1021,73 1136,67"/>
+        <TextEquiv>
+          <Unicode>tatem suam et in quam jdem Adam non habet ingressum nisi post dimissionem quam Iohannes le Clerk de Haselbech </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:2;}" id="l_44">
+        <Coords points="17,151 180,145 352,136 509,134 695,124 814,124 915,122 965,122 1046,121 1131,119 1131,87 1046,89 965,90 915,90 814,92 695,92 509,102 352,104 180,113 17,119"/>
+        <Baseline points="17,144 180,138 352,129 509,127 695,117 814,117 915,115 965,115 1046,114 1131,112"/>
+        <TextEquiv>
+          <Unicode>auus predicti Roberti cuius heres ipse est inde fecit Willelmo de Haselbech ad terminum qui preteriit et que post terminum </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:3;}" id="l_66">
+        <Coords points="20,188 142,182 310,176 465,172 587,169 731,165 895,165 1019,160 1124,160 1124,128 1019,128 895,133 731,133 587,137 465,140 310,144 142,150 20,156"/>
+        <Baseline points="20,181 142,175 310,169 465,165 587,162 731,158 895,158 1019,153 1124,153"/>
+        <TextEquiv>
+          <Unicode>illum ad prefatum Robertum reuerti debet etc. Et vnde jdem Robertus dicit quod predictus Iohannes auus etc. de predicta </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:4;}" id="l_86">
+        <Coords points="22,225 135,220 293,214 487,209 609,206 728,205 831,206 921,201 1049,200 1129,201 1129,169 1049,168 921,169 831,174 728,173 609,174 487,177 293,182 135,188 22,193"/>
+        <Baseline points="22,218 135,213 293,207 487,202 609,199 728,198 831,199 921,194 1049,193 1129,194"/>
+        <TextEquiv>
+          <Unicode>terra fuit seisitus in dominico suo vt de feodo et jure tempore pacis tempore H. regis proaui domini regis nunc capien</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:5;}" id="l_108">
+        <Coords points="21,262 153,258 293,246 377,249 447,249 588,246 711,244 860,243 941,238 1123,241 1123,209 941,206 860,211 711,212 588,214 447,217 377,217 293,214 153,226 21,230"/>
+        <Baseline points="21,255 153,251 293,239 377,242 447,242 588,239 711,237 860,236 941,231 1123,234"/>
+        <TextEquiv>
+          <Unicode>do inde explecia ad valenciam etc. Et de predicto Iohanne descendit jus etc. cuidam Iacobo vt filio et heredi. Et de </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:6;}" id="l_130">
+        <Coords points="29,300 123,294 235,285 346,285 425,284 507,283 643,282 809,281 900,278 1044,275 1124,277 1124,245 1044,243 900,246 809,249 643,250 507,251 425,252 346,253 235,253 123,262 29,268"/>
+        <Baseline points="29,293 123,287 235,278 346,278 425,277 507,276 643,275 809,274 900,271 1044,268 1124,270"/>
+        <TextEquiv>
+          <Unicode>ipso Iacobo descendit jus etc. isti Roberto qui nunc petit vt filio et heredi etc. Et in que etc. Et inde producit </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:7;}" id="l_154">
+        <Coords points="29,337 141,330 141,298 29,305"/>
+        <Baseline points="29,330 141,323"/>
+        <TextEquiv>
+          <Unicode>sectam etc. </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:8;}" id="l_160">
+        <Coords points="29,371 167,360 251,357 424,354 560,352 685,355 861,353 978,355 1028,361 1073,364 1139,367 1139,335 1073,332 1028,329 978,323 861,321 685,323 560,320 424,322 251,325 167,328 29,339"/>
+        <Baseline points="29,364 167,353 251,350 424,347 560,345 685,348 861,346 978,348 1028,354 1073,357 1139,360"/>
+        <TextEquiv>
+          <Unicode>Et Adam venit et defendit jus suum quando etc. Et petit quod predictus Robertus ostendat Curie si quod factum habeat speciale </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:9;}" id="l_184">
+        <Coords points="29,404 101,399 216,389 302,388 447,386 499,386 499,354 447,354 302,356 216,357 101,367 29,372"/>
+        <Baseline points="29,397 101,392 216,382 302,381 447,379 499,379"/>
+        <TextEquiv>
+          <Unicode>de predicta dimissione facta ad terminum qui preteriit etc.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:10;}" id="l_198">
+        <Coords points="34,439 122,430 193,424 218,424 316,420 403,420 526,420 582,423 688,423 816,426 958,432 1125,439 1125,407 958,400 816,394 688,391 582,391 526,388 403,388 316,388 218,392 193,392 122,398 34,407"/>
+        <Baseline points="34,432 122,423 193,417 218,417 316,413 403,413 526,413 582,416 688,416 816,419 958,425 1125,432"/>
+        <TextEquiv>
+          <Unicode>Et jdem Robertus nichil inde ostendit nec aliquid aliud dicit nisi quod ipse paratus est illam dimissionem per pa</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:11;}" id="l_224">
+        <Coords points="41,470 129,467 233,461 233,429 129,435 41,438"/>
+        <Baseline points="41,463 129,460 233,454"/>
+        <TextEquiv>
+          <Unicode>triam verificare etc.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:12;}" id="l_232">
+        <Coords points="39,507 140,499 234,495 358,491 441,494 511,500 631,500 731,502 863,508 979,509 1051,508 1125,511 1125,479 1051,476 979,477 863,476 731,470 631,468 511,468 441,462 358,459 234,463 140,467 39,475"/>
+        <Baseline points="39,500 140,492 234,488 358,484 441,487 511,493 631,493 731,495 863,501 979,502 1051,501 1125,504"/>
+        <TextEquiv>
+          <Unicode>Et Adam dicit quod jdem Robertus ad aliquam verificacionem patrie in casu isto admitti non debet. quia dicit </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:13;}" id="l_118">
+        <Coords points="43,535 134,533 224,532 326,527 414,531 511,534 658,534 811,538 973,540 1057,544 1128,545 1128,513 1057,512 973,508 811,506 658,502 511,502 414,499 326,495 224,500 134,501 43,503"/>
+        <Baseline points="43,528 134,526 224,525 326,520 414,524 511,527 658,527 811,531 973,533 1057,537 1128,538"/>
+        <TextEquiv>
+          <Unicode>quod predictus Iohannes quem jdem Robertus per breue suum supponit dimissionem predictam fecisse predicto Willelmo ad terminum </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:14;}" id="l_142">
+        <Coords points="38,576 135,571 229,572 364,567 487,569 587,566 658,569 752,573 851,574 955,576 1050,576 1106,578 1106,546 1050,544 955,544 851,542 752,541 658,537 587,534 487,537 364,535 229,540 135,539 38,544"/>
+        <Baseline points="38,569 135,564 229,565 364,560 487,562 587,559 658,562 752,566 851,567 955,569 1050,569 1106,571"/>
+        <TextEquiv>
+          <Unicode>qui preteriit per cartam suam dedit predictam terram predicto Willelmo et heredibus suis in feodo tenendam imperpetuum. Et </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:15;}" id="l_168">
+        <Coords points="42,613 143,608 245,605 354,600 591,599 695,605 848,610 958,610 1108,610 1108,578 958,578 848,578 695,573 591,567 354,568 245,573 143,576 42,581"/>
+        <Baseline points="42,606 143,601 245,598 354,593 591,592 695,598 848,603 958,603 1108,603"/>
+        <TextEquiv>
+          <Unicode>profert eandem cartam que donum illud in feodo factum testatur. Et petit judicium si jdem Robertus contra factum predicti </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:16;}" id="l_188">
+        <Coords points="51,647 149,640 264,637 423,631 507,635 592,631 671,636 781,642 958,646 1055,648 1115,646 1115,614 1055,616 958,614 781,610 671,604 592,599 507,603 423,599 264,605 149,608 51,615"/>
+        <Baseline points="51,640 149,633 264,630 423,624 507,628 592,624 671,629 781,635 958,639 1055,641 1115,639"/>
+        <TextEquiv>
+          <Unicode>Iohannis aui sui cuius heres ipse est accionem habere possit etc. desicut jdem Robertus de dimissione facta ad </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:17;}" id="l_218">
+        <Coords points="52,679 171,674 311,670 459,670 619,669 681,675 829,677 911,681 1001,680 1103,683 1103,651 1001,648 911,649 829,645 681,643 619,637 459,638 311,638 171,642 52,647"/>
+        <Baseline points="50,670 173,665 319,659 461,660 622,662 686,665 830,669 915,672 1001,673 1105,675"/>
+        <TextEquiv>
+          <Unicode>terminum nichil ostendit etc. Ita quod pendente inde inter eos placito vt de die in diem vsque diem Lune </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:18;}" id="l_240">
+        <Coords points="51,713 147,710 306,702 436,702 600,703 663,706 778,707 869,711 970,716 1091,719 1129,722 1129,690 1091,687 970,684 869,679 778,675 663,674 600,671 436,670 306,670 147,678 51,681"/>
+        <Baseline points="51,706 147,703 306,695 436,695 600,696 663,699 778,700 869,704 970,709 1091,712 1129,715"/>
+        <TextEquiv>
+          <Unicode>proximam post festum Purificacionis Beate Marie veniunt partes predicte. Et jdem Robertus predictam verificacionem patrie vt prius pretendens </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:19;}" id="l_264">
+        <Coords points="59,743 166,742 297,738 378,736 545,737 684,737 813,741 932,746 1113,754 1113,722 932,714 813,709 684,705 545,705 378,704 297,706 166,710 59,711"/>
+        <Baseline points="59,736 166,735 297,731 378,729 545,730 684,730 813,734 932,739 1113,747"/>
+        <TextEquiv>
+          <Unicode>dicit vlterius quod inter predictos Iohannem et Willelmum super predicta dimissione conuenit quod idem Iohannes soluere tenebatur </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:20;}" id="l_284">
+        <Coords points="58,777 144,775 262,774 398,773 522,773 644,775 752,772 836,775 966,781 1023,784 1112,790 1112,758 1023,752 966,749 836,743 752,740 644,743 522,741 398,741 262,742 144,743 58,745"/>
+        <Baseline points="58,770 144,768 262,767 398,766 522,766 644,768 752,765 836,768 966,774 1023,777 1112,783"/>
+        <TextEquiv>
+          <Unicode>predicto Willelmo viginti et octo marcas certis terminis in quodam scripto inter eos indentato contentis soluendas pro </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:21;}" id="l_308">
+        <Coords points="61,812 174,807 303,804 443,804 596,804 735,803 897,812 1007,817 1119,823 1119,791 1007,785 897,780 735,771 596,772 443,772 303,772 174,775 61,780"/>
+        <Baseline points="61,805 174,800 303,797 443,797 596,797 735,796 897,805 1007,810 1119,816"/>
+        <TextEquiv>
+          <Unicode>quibus denaris jdem Iohannes ipsum Willelmum de predicta terra et de quibusdam alis tenementis in seisinam posuit tali condicione</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:22;}" id="l_330">
+        <Coords points="63,847 174,845 324,841 455,841 624,839 737,839 832,843 968,850 1107,855 1107,823 968,818 832,811 737,807 624,807 455,809 324,809 174,813 63,815"/>
+        <Baseline points="63,840 174,838 324,834 455,834 624,832 737,832 832,836 968,843 1107,848"/>
+        <TextEquiv>
+          <Unicode>tenendis quod si jdem Iohannes aut heredes sui soluerent predicto Willelmo aut heredibus suis predictos denarios terminis </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:23;}" id="l_350">
+        <Coords points="62,882 179,879 305,877 414,880 596,878 761,876 949,882 1106,894 1106,862 949,850 761,844 596,846 414,848 305,845 179,847 62,850"/>
+        <Baseline points="62,875 179,872 305,870 414,873 596,871 761,869 949,875 1106,887"/>
+        <TextEquiv>
+          <Unicode>prenotatis quod tota terra et tenementa predicta prefato Iohanni et heredibus suis quiete reuerterentur et quod quedam carta pro se</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:24;}" id="l_368">
+        <Coords points="64,915 181,913 231,914 365,912 494,913 585,913 700,911 775,914 912,915 933,918 1025,924 1113,931 1113,899 1025,892 933,886 912,883 775,882 700,879 585,881 494,881 365,880 231,882 181,881 64,883"/>
+        <Baseline points="64,908 181,906 231,907 365,905 494,906 585,906 700,904 775,907 912,908 933,911 1025,917 1113,924"/>
+        <TextEquiv>
+          <Unicode>curitate termini predicti inde confecta et ad manus Prioris Sancti Bartholomei London tradita custodienda prefato </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:25;}" id="l_394">
+        <Coords points="67,952 119,947 200,945 304,946 419,945 570,945 701,946 793,950 890,950 962,955 1112,968 1112,936 962,923 890,918 793,918 701,914 570,913 419,913 304,914 200,913 119,915 67,920"/>
+        <Baseline points="67,945 119,940 200,938 304,939 419,938 570,938 701,939 793,943 890,943 962,948 1112,961"/>
+        <TextEquiv>
+          <Unicode>Johanni liberaretur et si in solucione dicte peccunie ad aliquem terminum defecerit dicta terra cum pertinenciis prefato Willelmo et </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:26;}" id="l_418">
+        <Coords points="70,984 154,979 223,979 370,977 547,980 645,981 776,983 927,987 995,993 1097,998 1097,966 995,961 927,955 776,951 645,949 547,948 370,945 223,947 154,947 70,952"/>
+        <Baseline points="70,977 154,972 223,972 370,970 547,973 645,974 776,976 927,980 995,986 1097,991"/>
+        <TextEquiv>
+          <Unicode>heredibus suis imperpetuum remaneret. Et dicit quod idem Iohannes predictos denarios terminis predictis totaliter </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:27;}" id="l_443">
+        <Coords points="68,1021 176,1015 317,1011 521,1012 662,1015 786,1017 946,1024 1020,1030 1108,1030 1108,998 1020,998 946,992 786,985 662,983 521,980 317,979 176,983 68,989"/>
+        <Baseline points="68,1014 176,1008 317,1004 521,1005 662,1008 786,1010 946,1017 1020,1023 1108,1023"/>
+        <TextEquiv>
+          <Unicode>persoluebat iuxta conuencionem predictam. Et hoc paratus est verificare per patriam vt prius. Et profert parte </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:28;}" id="l_463">
+        <Coords points="70,1059 167,1054 266,1051 380,1048 462,1049 600,1048 743,1050 743,1018 600,1016 462,1017 380,1016 266,1019 167,1022 70,1027"/>
+        <Baseline points="70,1052 167,1047 266,1044 380,1041 462,1042 600,1041 743,1043"/>
+        <TextEquiv>
+          <Unicode>predicti scripti indentati que conuencionem illam testatur etc. vnde petit iudicium etc.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:29;}" id="l_479">
+        <Coords points="68,1093 161,1087 274,1083 400,1081 573,1079 655,1080 731,1085 891,1090 1029,1095 1122,1103 1122,1071 1029,1063 891,1058 731,1053 655,1048 573,1047 400,1049 274,1051 161,1055 68,1061"/>
+        <Baseline points="68,1086 161,1080 274,1076 400,1074 573,1072 655,1073 731,1078 891,1083 1029,1088 1122,1096"/>
+        <TextEquiv>
+          <Unicode>Et Adam dicit quod predictus Robertus ad illam verificacionem patrie ad presens attingere non debet quia dicit quod cum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:30;}" id="l_501">
+        <Coords points="74,1121 212,1116 407,1110 612,1111 743,1114 892,1120 1129,1134 1129,1102 892,1088 743,1082 612,1079 407,1078 212,1084 74,1089"/>
+        <Baseline points="74,1114 212,1109 407,1103 612,1104 743,1107 892,1113 1129,1127"/>
+        <TextEquiv>
+          <Unicode>quesitum fuisset ab eodem si aliquod factum dimissionem predictam ad terminum factam testificans habuisset nichil inde </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:31;}" id="l_535">
+        <Coords points="76,1138 124,1135 124,1103 76,1106"/>
+        <Baseline points="73,1130 124,1127"/>
+        <TextEquiv>
+          <Unicode>tunc</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:32;}" id="l_517">
+        <Coords points="66,1162 174,1151 329,1145 523,1144 697,1146 896,1152 1046,1161 1117,1169 1117,1137 1046,1129 896,1120 697,1114 523,1112 329,1113 174,1119 66,1130"/>
+        <Baseline points="66,1150 174,1144 329,1138 523,1137 697,1139 896,1145 1046,1154 1117,1162"/>
+        <TextEquiv>
+          <Unicode>ostendebat nisi tantum verificacionem patrie que vt premittitur contra cartam antecessoris sui de iure non fuit nec est ad</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:33;}" id="l_541">
+        <Coords points="76,1190 191,1183 327,1176 455,1179 589,1178 704,1183 810,1182 950,1187 1105,1200 1105,1168 950,1155 810,1150 704,1151 589,1146 455,1147 327,1144 191,1151 76,1158"/>
+        <Baseline points="76,1183 191,1176 327,1169 455,1172 589,1171 704,1176 810,1175 950,1180 1105,1193"/>
+        <TextEquiv>
+          <Unicode>mittenda. Et petit ex quo idem Robertus est heres sanguine predicti Iohannis quod ad cartam illam respondeat etc. </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:34;}" id="l_561">
+        <Coords points="78,1216 157,1217 275,1213 478,1212 680,1215 777,1215 897,1216 1113,1230 1113,1198 897,1184 777,1183 680,1183 478,1180 275,1181 157,1185 78,1184"/>
+        <Baseline points="78,1209 157,1210 275,1206 478,1205 680,1208 777,1208 897,1209 1113,1223"/>
+        <TextEquiv>
+          <Unicode>Et idem Robertus non dedicit predictam cartam esse factum predicti Iohannis aui etc. set dicit quod per cartam illam a verificacione </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:35;}" id="l_579">
+        <Coords points="80,1253 169,1249 281,1247 445,1245 585,1250 738,1248 860,1252 978,1258 1113,1266 1113,1234 978,1226 860,1220 738,1216 585,1218 445,1213 281,1215 169,1217 80,1221"/>
+        <Baseline points="80,1246 169,1242 281,1240 445,1238 585,1243 738,1241 860,1245 978,1251 1113,1259"/>
+        <TextEquiv>
+          <Unicode>patrie quam superius pretendebat repelli non debet. Quia dicit quod per cartam illam predictus Willelmus nuncquam aliquem </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:36;}" id="l_599">
+        <Coords points="83,1286 183,1286 348,1283 560,1284 690,1285 846,1290 990,1296 1108,1302 1108,1270 990,1264 846,1258 690,1253 560,1252 348,1251 183,1254 83,1254"/>
+        <Baseline points="83,1279 183,1279 348,1276 560,1277 690,1278 846,1283 990,1289 1108,1295"/>
+        <TextEquiv>
+          <Unicode>statum habuit in predicta terra nec seisina e inde per cartam illam vncquam extitit liberata immo ad terminum qui </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:37;}" id="l_617">
+        <Coords points="81,1325 188,1322 371,1319 538,1319 693,1323 851,1328 956,1331 996,1333 1019,1333 1019,1301 996,1301 956,1299 851,1296 693,1291 538,1287 371,1287 188,1290 81,1293"/>
+        <Baseline points="80,1317 188,1315 371,1312 538,1312 693,1316 851,1321 956,1324 996,1326 1019,1326"/>
+        <TextEquiv>
+          <Unicode>preteriit virtute predicti scripti indentati et non in feodo virtute carte predicte. Vnde petit judicium etc.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:38;}" id="l_652">
+        <Coords points="87,1354 199,1355 287,1357 396,1354 516,1357 636,1363 797,1363 955,1366 1114,1375 1114,1343 955,1334 797,1331 636,1331 516,1325 396,1322 287,1325 199,1323 87,1322"/>
+        <Baseline points="87,1347 199,1348 287,1350 396,1347 516,1350 636,1356 797,1356 955,1359 1114,1368"/>
+        <TextEquiv>
+          <Unicode>Et Adam dicit ex quo predictus Robertus superius cognouit predictam cartam de feodo esse factum predicti Iohannis aui etc. et </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:39;}" id="l_672">
+        <Coords points="92,1372 173,1375 234,1378 352,1378 470,1382 610,1383 721,1383 839,1391 921,1396 1000,1393 1101,1393 1101,1361 1000,1361 921,1364 839,1359 721,1351 610,1351 470,1350 352,1346 234,1346 173,1343 92,1340"/>
+        <Baseline points="92,1365 173,1368 234,1371 352,1371 470,1375 610,1376 721,1376 839,1384 921,1389 1000,1386 1101,1386"/>
+        <TextEquiv>
+          <Unicode>ad eandem euacuandam allegat seisinam predicte terre predicto Willelmo fuisse liberatam virtute predicti scripti indentati et </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:40;}" id="l_696">
+        <Coords points="90,1408 162,1411 193,1413 350,1409 474,1413 577,1419 700,1421 820,1427 963,1430 1123,1435 1123,1403 963,1398 820,1395 700,1389 577,1387 474,1381 350,1377 193,1381 162,1379 90,1376"/>
+        <Baseline points="90,1401 162,1404 193,1406 350,1402 474,1406 577,1412 700,1414 820,1420 963,1423 1123,1428"/>
+        <TextEquiv>
+          <Unicode>eciam quod predicti denari soluti fuerunt terminis predictis et nullam acquietanciam de solucione illa pretendit petit judicium </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:41;}" id="l_718">
+        <Coords points="344,1426 434,1428 509,1434 532,1436 632,1436 769,1444 769,1412 632,1404 532,1404 509,1402 434,1396 344,1394"/>
+        <Baseline points="344,1419 434,1421 509,1427 532,1429 632,1429 769,1437"/>
+        <TextEquiv>
+          <Unicode>que testatur solucionem predictorum denariorum fuisse factam etc. </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:42;}" id="l_732">
+        <Coords points="87,1447 227,1449 374,1448 470,1447 601,1454 652,1454 652,1422 601,1422 470,1415 374,1416 227,1417 87,1415"/>
+        <Baseline points="87,1440 227,1442 374,1441 470,1440 603,1446 652,1447"/>
+        <TextEquiv>
+          <Unicode>si ad talem allegacionem sine acquietancia admitti debeat etc.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:43;}" id="l_746">
+        <Coords points="90,1483 188,1486 387,1486 579,1485 728,1488 837,1494 963,1498 1113,1498 1113,1466 963,1466 837,1462 728,1456 579,1453 387,1454 188,1454 90,1451"/>
+        <Baseline points="90,1476 188,1479 387,1479 579,1478 728,1481 837,1487 963,1491 1113,1488"/>
+        <TextEquiv>
+          <Unicode>Et Robertus dicit quod eidem Ade qui nec est heres nec executor predicti Willelmi immo omnino extraneus non </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:44;}" id="l_764">
+        <Coords points="91,1513 174,1515 299,1515 509,1514 538,1517 615,1523 726,1526 916,1532 1120,1540 1120,1508 916,1500 726,1494 615,1491 538,1485 509,1482 299,1483 174,1483 91,1481"/>
+        <Baseline points="91,1506 174,1508 299,1508 509,1507 538,1510 615,1516 726,1519 916,1525 1120,1533"/>
+        <TextEquiv>
+          <Unicode>habet necesse aliquam acquietanciam inde ostendere cum ipse paratus sit per patriam verificare solucionem predictorum denariorum </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:45;}" id="l_784">
+        <Coords points="94,1547 176,1550 297,1549 441,1551 593,1556 695,1560 832,1565 984,1571 1102,1571 1112,1571 1112,1539 1102,1539 984,1539 832,1533 695,1528 593,1524 441,1519 297,1517 176,1518 94,1515"/>
+        <Baseline points="94,1540 176,1543 297,1542 441,1544 593,1549 695,1553 832,1558 984,1564 1102,1564 1112,1564"/>
+        <TextEquiv>
+          <Unicode>plenarie factam fuisse predicto Willelmo apud Haselbech per quod seisina predicta tunc fuit adnullata per formam </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:46;}" id="l_834">
+        <Coords points="675,1577 763,1580 763,1548 675,1545"/>
+        <Baseline points="675,1570 763,1573"/>
+        <TextEquiv>
+          <Unicode>necessario</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:47;}" id="l_826">
+        <Coords points="944,1584 1041,1587 1128,1593 1128,1561 1041,1555 944,1552"/>
+        <Baseline points="944,1577 1041,1580 1128,1586"/>
+        <TextEquiv>
+          <Unicode>recusat et petit judicium etc. </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:48;}" id="l_806">
+        <Coords points="94,1584 195,1588 341,1588 407,1587 511,1593 656,1599 798,1602 942,1605 1102,1613 1102,1581 942,1573 798,1570 656,1567 511,1561 407,1555 341,1556 195,1556 94,1552"/>
+        <Baseline points="94,1577 195,1581 341,1581 407,1580 511,1586 656,1592 798,1595 942,1598 1102,1606"/>
+        <TextEquiv>
+          <Unicode>conuencionis predicte. Vnde videtur ei quod verificacio patrie in hoc casu est admittenda quam verificacionem idem Adam admittere</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:49;}" id="l_840">
+        <Coords points="90,1624 242,1621 396,1627 534,1631 722,1639 935,1646 1114,1655 1114,1623 935,1614 722,1607 534,1599 396,1595 242,1589 90,1592"/>
+        <Baseline points="90,1617 242,1614 396,1620 534,1624 722,1632 935,1639 1114,1648"/>
+        <TextEquiv>
+          <Unicode>Et Adam dicit quod quamuis ipse sit extraneus predicto Willelmo tamen ipse est tenens predicte terre racione cuius eodem </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:50;}" id="l_856">
+        <Coords points="94,1653 220,1658 368,1660 530,1667 674,1672 852,1679 1012,1685 1126,1692 1126,1660 1012,1653 852,1647 674,1640 530,1635 368,1628 220,1626 94,1621"/>
+        <Baseline points="94,1646 220,1651 368,1653 530,1660 674,1665 852,1672 1012,1678 1126,1685"/>
+        <TextEquiv>
+          <Unicode>beneficio juris in casu isto gaudere debet quali predictus Willelmus gauderet. Set ad hoc quod predictus Iohannes dum </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:51;}" id="l_874">
+        <Coords points="97,1689 197,1694 331,1694 457,1699 612,1707 776,1713 855,1717 976,1721 1113,1726 1113,1694 976,1689 855,1685 776,1681 612,1675 457,1667 331,1662 197,1662 97,1657"/>
+        <Baseline points="97,1682 197,1687 331,1687 457,1692 612,1700 776,1706 855,1710 976,1714 1113,1719"/>
+        <TextEquiv>
+          <Unicode>vixit se monstrare poterit fore quietum versus predictum Willelmum de predicto debito oporteret ipsum acquietancias osten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:52;}" id="l_894">
+        <Coords points="94,1726 180,1729 275,1731 370,1734 482,1737 601,1740 737,1745 855,1755 980,1754 1106,1762 1106,1730 980,1722 855,1723 737,1713 601,1708 482,1705 370,1702 275,1699 180,1697 94,1694"/>
+        <Baseline points="94,1719 180,1722 275,1724 370,1727 482,1730 601,1733 737,1738 855,1748 980,1747 1106,1755"/>
+        <TextEquiv>
+          <Unicode>dere vnde petit judicium si jdem Robertus sine acquietancia ad verificacionem patrie quam pretendit contra te</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:53;}" id="l_916">
+        <Coords points="98,1765 171,1767 244,1770 361,1771 446,1772 552,1777 681,1781 807,1787 943,1791 1093,1793 1093,1761 943,1759 807,1755 681,1749 552,1745 446,1740 361,1739 244,1738 171,1735 98,1733"/>
+        <Baseline points="94,1756 171,1760 244,1763 361,1764 446,1765 552,1770 681,1774 807,1780 943,1784 1093,1786"/>
+        <TextEquiv>
+          <Unicode>norem predicti scripti indentati quod est mere obligatorium admitti debeat etc. Dies datus est eis de </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:54;}" id="l_938">
+        <Coords points="95,1796 210,1804 418,1807 577,1815 712,1821 898,1826 1026,1830 1095,1823 1095,1791 1026,1798 898,1794 712,1789 577,1783 418,1775 210,1772 95,1764"/>
+        <Baseline points="95,1789 210,1797 418,1800 577,1808 712,1814 898,1819 1026,1823 1095,1816"/>
+        <TextEquiv>
+          <Unicode>audiendo inde judicio suo hic a die Pasche in . xv. dies saluis partibus hine inde racionibus suis etc. Ad </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:55;}" id="l_956">
+        <Coords points="94,1834 188,1838 242,1840 325,1838 463,1843 603,1849 711,1854 823,1860 969,1866 1058,1869 1118,1866 1118,1834 1058,1837 969,1834 823,1828 711,1822 603,1817 463,1811 325,1806 242,1808 188,1806 94,1802"/>
+        <Baseline points="94,1827 188,1831 242,1833 325,1831 463,1836 603,1842 711,1847 823,1853 969,1859 1058,1862 1118,1859"/>
+        <TextEquiv>
+          <Unicode>quem diem venit predictus Adam et optulit se versus predictum Robertum de predicto placito. Et ipse non venit. Et fuit petens. </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:56;}" id="l_980">
+        <Coords points="93,1871 206,1876 323,1876 501,1874 636,1880 815,1894 953,1901 1040,1904 1117,1896 1117,1864 1040,1872 953,1869 815,1862 636,1848 501,1842 323,1844 206,1844 93,1839"/>
+        <Baseline points="93,1864 206,1869 323,1869 501,1867 636,1873 815,1887 953,1894 1041,1895 1117,1889"/>
+        <TextEquiv>
+          <Unicode>Ideo consideratum est quod predictus Adam eat inde sine die et predictus Robertus et plegii sui de prosequendo in misericordia. Que</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:57;}" id="l_1000">
+        <Coords points="98,1907 204,1909 258,1910 308,1908 308,1876 258,1878 204,1877 98,1875"/>
+        <Baseline points="98,1900 204,1902 258,1903 308,1901"/>
+        <TextEquiv>
+          <Unicode>rantur nomina plegiorum etc.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>nw-page-editor</Creator>
+    <Created>2025-05-08T04:06:04Z</Created>
+    <LastChange>2025-05-25T21:09:47Z</LastChange>
+  </Metadata>
+  <Page imageFilename="KB27.359.AALT.4467.jpg" imageHeight="775" imageWidth="1416">
+    <TextRegion id="r1">
+      <Coords points="8,6 1413,8 1414,769 7,770"/>
+      <TextLine id="r1_l1">
+        <Coords points="28.0908,60.469 347.695,62.4666 658.789,47.462 866.944,51.465 1089.8,45.4688 1149,45.4688 1189.07,45.4688 1292.99,46.468 1382.84,45.4696 1383.05,64.8435 1293,65.844 1188.98,64.8438 1149,64.8438 1090.07,64.8438 867.019,70.845 659.07,66.846 348.102,81.8445 27.9697,79.8437"/>
+        <Baseline points="28,75 348,77 659,62 867,66 1090,60 1149,60 1189,60 1293,61 1383,60"/>
+        <TextEquiv>
+          <Unicode>Devonia ¶ Preceptum fuit vicecomiti sicutalias quod caperet Johannem Wrey Cappellum si inventus etc et salvo etc Ita quod</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l2">
+        <Coords points="454,73.4688 495,73.4688 495,92.8438 454,92.8438"/>
+        <Baseline points="454,88 495,88"/>
+        <TextEquiv>
+          <Unicode>Rege</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l3">
+        <Coords points="145,110.469 311.64,110.469 432.174,104.492 572.38,95.4786 714.758,92.4706 1044.67,88.4717 1163.19,84.4541 1314.13,93.451 1386.4,90.481 1387.2,109.84 1313.96,112.85 1162.94,103.849 1045.11,107.843 715.081,111.843 573.207,114.84 433.275,123.836 312.12,129.844 145,129.844"/>
+        <Baseline points="145,125 312,125 433,119 573,110 715,107 1045,103 1163,99 1314,108 1387,105"/>
+        <TextEquiv>
+          <Unicode>haberet corpora eorum coram domino ad hunc diem scilicet a die Pasche in xv dies ubicumque etc ad ostendendum quare</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l4">
+        <Coords points="154.135,152.469 261.69,153.465 338.275,149.487 463.448,143.479 606.43,139.479 705.812,134.46 908.416,139.45 983.956,131.498 1087.64,127.472 1184.97,126.468 1350.09,127.469 1349.97,146.844 1185.01,145.844 1088.12,146.843 985.348,150.834 909.195,158.85 706.063,153.847 607.19,158.84 464.184,162.84 339.242,168.838 262.103,172.845 153.955,171.844"/>
+        <Baseline points="154,167 262,168 339,164 464,158 607,154 706,149 909,154 985,146 1088,142 1185,141 1350,142"/>
+        <TextEquiv>
+          <Unicode>non venit in Curia Regis coram ipso Rege in Octabis Sancti Michaelis proximo preteritis auditurus quandam juratorum patrie in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l5">
+        <Coords points="162.389,196.666 196.836,202.408 333.095,195.496 387.164,191.491 581.097,183.494 701.446,173.465 987.478,175.465 1063.28,169.481 1210.22,166.461 1269.09,169.455 1400.45,164.479 1401.18,183.84 1268.97,188.848 1209.93,185.846 1064.24,188.84 988.174,194.845 702.185,192.845 582.301,202.835 388.279,210.836 334.302,214.835 195.721,221.864 159.204,215.778"/>
+        <Baseline points="160,211 196,217 334,210 388,206 582,198 702,188 988,190 1064,184 1210,181 1269,184 1401,179"/>
+        <TextEquiv>
+          <Unicode>quam ad sectam domini Regis se posuit de placito contemptus et transgressus sicut manucaptus fuit Et ipse non</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l6">
+        <Coords points="142.713,239.472 294.451,236.477 491.306,225.485 667.767,218.467 797.926,219.468 909.819,217.47 1051.68,216.471 1158.73,212.469 1253.21,212.469 1392.42,216.475 1391.86,235.842 1252.93,231.844 1159.09,231.844 1052.11,235.843 910.06,236.843 798.025,238.844 668.078,237.844 492.231,244.838 295.183,255.841 143.096,258.843"/>
+        <Baseline points="143,254 295,251 492,240 668,233 798,234 910,232 1052,231 1159,227 1253,227 1392,231"/>
+        <TextEquiv>
+          <Unicode>venit et vicecomes retornavit quod non est inventus Ideo preceptum est vicecomiti sicut pluries quod capiat eum si etc et salvo </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l7">
+        <Coords points="159,284.469 343.372,284.469 597.401,262.466 848.781,263.468 1141.36,253.482 1178.22,251.49 1179.26,270.837 1142.21,272.839 849.073,282.844 598.2,281.845 344.209,303.844 159,303.844"/>
+        <Baseline points="159,299 344,299 598,277 849,278 1142,268 1179,266"/>
+        <TextEquiv>
+          <Unicode>etc Ita quod habeat corporus eius coram domino Rege in Octabis Sancte Trinitatis ubicumque etc</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l8">
+        <Coords points="37,463.469 273.872,463.469 500.696,459.472 830.325,451.481 1121.38,431.477 1301.02,428.466 1401.29,430.472 1400.9,449.843 1300.99,447.845 1122.21,450.841 831.225,470.84 501.101,478.843 274.043,482.844 37,482.844"/>
+        <Baseline points="37,478 274,478 501,474 831,466 1122,446 1301,443 1401,445"/>
+        <TextEquiv>
+          <Unicode>Devonia ¶ Preceptum fuit vicecomiti sicut alias quod caperet Simonus Russel si inventus et salvo etc Ita</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l9">
+        <Coords points="166.269,511.471 273.902,513.464 429.388,508.481 563.732,501.463 758.79,504.464 1006.56,493.474 1127.3,491.478 1413.84,468.515 1415.39,487.828 1128.23,510.841 1007.15,512.842 759.07,523.845 564.089,520.846 430.204,527.84 274.033,532.845 165.91,530.843"/>
+        <Baseline points="166,526 274,528 430,523 564,516 759,519 1007,508 1128,506 1415,483"/>
+        <TextEquiv>
+          <Unicode>quod haberet corporus eius coram domino Rege ad hunc diem scilicet a die Pasche in xv dies ubicumque etc </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l10">
+        <Coords points="154.395,559.474 300.908,563.461 551.579,553.474 772.461,549.476 950.329,539.484 1088.74,534.469 1243.05,534.469 1409.1,512.593 1411.63,531.802 1244.32,553.844 1089.09,553.844 951.224,558.839 773.18,568.841 552.14,572.842 301.031,582.846 153.868,578.842"/>
+        <Baseline points="154,574 301,578 552,568 773,564 951,554 1089,549 1244,549 1411,527"/>
+        <TextEquiv>
+          <Unicode>ad ostendendum quare non venit in curia Regis coram ipso Rege in Octabis Sancti Michaelis proximo preteriter auditurus </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l11">
+        <Coords points="158,607.469 309.652,607.469 455.306,600.485 581.654,594.469 708.706,594.469 856.343,588.483 1016.35,580.483 1270.87,570.502 1399.32,555.566 1401.56,574.811 1272.38,589.833 1017.22,599.839 857.219,607.839 709.098,613.844 582.115,613.844 456.231,619.838 310.116,626.844 158,626.844"/>
+        <Baseline points="158,622 310,622 456,615 582,609 709,609 857,603 1017,595 1272,585 1401,570"/>
+        <TextEquiv>
+          <Unicode>juratorum patrie in quam alias in prefata curia Regis ad sectam ipsius Regis de placito contemptus et transgressus </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l12">
+        <Coords points="153,649.469 278.715,649.469 380.715,645.469 524.674,645.469 680.615,638.471 803.62,637.471 984.294,629.486 1191.09,618.496 1357.96,606.506 1359.35,625.831 1192.3,637.835 985.235,648.838 804.127,656.843 681.128,657.843 525.109,664.844 381.095,664.844 279.095,668.844 153,668.844"/>
+        <Baseline points="153,664 279,664 381,660 525,660 681,653 804,652 985,644 1192,633 1359,621"/>
+        <TextEquiv>
+          <Unicode>se posuit sicut manucaptus fuit Et ipse non venit et vicecomes retornavit quod non est inventus etc </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l13">
+        <Coords points="150.662,703.473 322.347,699.48 427.126,692.495 594.495,683.475 914.291,678.478 1060.56,666.456 1155.45,668.454 1351.3,649.469 1405,649.469 1405,668.844 1352.23,668.844 1156.18,687.849 1061.15,685.848 915.237,697.841 595.168,702.842 428.291,711.835 323.217,718.84 151.113,722.842"/>
+        <Baseline points="151,718 323,714 428,707 595,698 915,693 1061,681 1156,683 1352,664 1405,664"/>
+        <TextEquiv>
+          <Unicode>Ideo preceptum est vicecomiti sicut pluries quod capiat eum si etc et salvo etc Ita quod habeat corporus eius coram </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l14">
+        <Coords points="147.738,741.487 206.146,744.457 335.327,740.483 545.225,727.489 723.348,719.483 724.217,738.839 546.258,746.837 336.224,759.839 205.951,763.848 146.754,760.838"/>
+        <Baseline points="147,756 206,759 336,755 546,742 724,734"/>
+        <TextEquiv>
+          <Unicode>domino Rege in Octabis Sancte Trinitate ubicumque etc</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

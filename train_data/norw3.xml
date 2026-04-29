@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-01-09T20:47:14.717+01:00</Created>
+        <LastChange>2024-01-09T20:51:07.088+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="63215312" pageNr="5" tsid="144716056" status="FINAL" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=GOWLLROLTAHWDHXGUTWGLVLD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KIYKCTEZDJDZQJEKLGBYPPJC" imageId="51117772" />
+    </Metadata>
+    <Page imageFilename="norw3.jpg" imageWidth="1118" imageHeight="230">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1708823410212" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="11,38 58,36 86,33 128,34 157,41 247,38 276,44 339,47 356,44 439,49 463,48 538,49 627,50 689,51 758,53 841,55 892,55 918,57 981,55 1002,55 1050,55 1102,57 1103,42 1050,40 1002,40 981,40 918,42 893,40 841,40 758,38 689,36 627,35 538,34 463,33 439,34 355,29 338,32 278,29 248,23 159,26 130,19 85,18 57,21 10,23" />
+                <Baseline points="11,38 58,36 86,33 128,34 157,41 247,38 276,44 339,47 356,44 439,49 463,48 538,49 627,50 689,51 758,53 841,55 892,55 918,57 981,55 1002,55 1050,55 1102,57" />
+                <TextEquiv>
+                    <Unicode>quod si bona vel catalla eiusdem Episcopi aut ecclesias Episcopatui predicto appropriatas seu terras vel tenementa de dotibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_54" custom="readingOrder {index:1;}">
+                <Coords points="20,86 89,85 150,87 202,93 284,94 303,97 407,97 460,98 485,102 546,102 626,101 663,103 714,102 787,104 850,106 935,106 1014,109 1087,106 1086,91 1014,94 935,91 850,91 787,89 714,87 663,88 626,86 546,87 486,87 461,83 407,82 304,82 285,79 203,78 151,72 89,70 20,71" />
+                <Baseline points="20,86 89,85 150,87 202,93 284,94 303,97 407,97 460,98 485,102 546,102 626,101 663,103 714,102 787,104 850,106 935,106 1014,109 1087,106" />
+                <TextEquiv>
+                    <Unicode>earundem ecclesiarum existencia aut aliqua alia ad dictum Episcopatum pertinencia preter temporalia eiusdem pro quibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_92" custom="readingOrder {index:2;}">
+                <Coords points="20,130 68,130 106,133 163,133 218,135 330,145 408,149 445,151 545,154 638,155 714,157 756,157 826,159 862,160 933,162 1010,162 1086,160 1086,145 1010,147 933,147 862,145 826,144 756,142 714,142 638,140 545,139 446,136 409,134 331,130 219,120 163,118 107,118 69,115 20,115" />
+                <Baseline points="20,130 68,130 106,133 163,133 218,135 330,145 408,149 445,151 545,154 638,155 714,157 756,157 826,159 862,160 933,162 1010,162 1086,160" />
+                <TextEquiv>
+                    <Unicode>nobis fidelitatem fecit ut predictum est pretextu mandati predicti ceperit in manum nostram tunc ea eidem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_128" custom="readingOrder {index:3;}">
+                <Coords points="20,177 107,178 206,182 270,184 322,189 414,195 499,198 578,199 683,200 756,205 831,207 936,210 1043,207 1103,199 1101,184 1042,192 936,195 831,192 757,190 684,185 578,184 499,183 415,180 323,174 271,169 207,167 107,163 20,162" />
+                <Baseline points="20,177 107,178 206,182 270,184 322,189 414,195 499,198 578,199 683,200 756,205 831,207 936,210 1043,207 1103,199" />
+                <TextEquiv>
+                    <Unicode>Episcopo vel eius in hac parte attornato una cum exitibus de dictis ecclesiis et dotibus earundem per ipsum vicecomitem perceptis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <Coords points="1109,229 3,229 3,0 1109,0" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,275 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-01-02T20:21:47.748+01:00</Created>
+        <LastChange>2024-01-02T20:50:49.173+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="63044506" pageNr="6" tsid="144281750" status="FINAL" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=EGVZZIMVUCNLTGUORDJUEFNH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JLJTBRULVPAGKFIOHKTOKORN" imageId="50964038" />
+    </Metadata>
+    <Page imageFilename="JUST1-633m31.jpeg" imageWidth="1092" imageHeight="1134">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1704262309579" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="13,48 74,49 295,51 448,51 625,53 637,57 792,64 953,62 1056,69 1056,41 953,34 792,36 637,29 625,25 448,23 295,23 74,21 13,20" />
+                <Baseline points="13,42 74,43 295,45 448,45 625,47 637,51 792,58 953,56 1056,63" />
+                <TextEquiv>
+                    <Unicode>¶ Radulfus Basset de Weldon Ricardus persona ecclesie de Cranesley et Galfridus de Stanerne de Sutton attachiati </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_29" custom="readingOrder {index:1;}">
+                <Coords points="36,80 127,80 318,79 497,81 670,87 686,89 830,93 971,93 1075,97 1075,69 971,65 830,65 686,61 670,59 497,53 318,51 127,52 36,52" />
+                <Baseline points="36,74 127,74 318,73 497,75 670,81 686,83 830,87 971,87 1075,91" />
+                <TextEquiv>
+                    <Unicode>fuerunt ad respondendum domino regi de placito quare cum dominus E. nuper rex Anglie pater domini regis nunc precepisset </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_49" custom="readingOrder {index:2;}">
+                <Coords points="38,113 152,112 336,110 353,114 533,113 653,117 838,123 965,128 1080,135 1080,107 965,100 838,95 653,89 533,85 353,86 336,82 152,84 38,85" />
+                <Baseline points="38,107 152,106 336,104 353,108 533,107 653,111 838,117 965,122 1080,129" />
+                <TextEquiv>
+                    <Unicode>tunc vicecomiti suo comitatus predicti quod omnia bona et catalla que fuerunt Walteri de Langeton nuper Couentriensis et Lychfeldensis </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_71" custom="readingOrder {index:3;}">
+                <Coords points="39,142 147,143 245,145 398,143 499,149 765,152 860,159 922,158 1068,164 1068,136 922,130 860,131 765,124 499,121 398,115 245,117 147,115 39,114" />
+                <Baseline points="39,136 147,137 245,139 398,137 499,143 765,146 860,153 922,152 1068,158" />
+                <TextEquiv>
+                    <Unicode>Episcopi die quo obiit qui in diuersis debitis prefato patri regis etc. --- de tempore quo fuit Thesaurarius domini E. quondam </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_91" custom="readingOrder {index:4;}">
+                <Coords points="40,175 142,176 300,175 464,181 510,183 610,185 743,188 869,192 1001,194 1015,197 1060,199 1060,171 1015,169 1001,166 869,164 743,160 610,157 510,155 464,153 300,147 142,148 40,147" />
+                <Baseline points="40,169 142,170 300,169 464,175 510,177 610,179 743,182 869,186 1001,188 1015,191 1060,193" />
+                <TextEquiv>
+                    <Unicode>regis Anglie aui domini regis nunc et aliis de causis tenebatur caperet in manum suam et idem vicecomes virtute man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_115" custom="readingOrder {index:5;}">
+                <Coords points="39,205 153,205 296,206 441,209 564,212 588,216 745,220 937,224 963,226 995,229 1009,231 1078,232 1078,204 1009,203 995,201 963,198 937,196 745,192 588,188 564,184 441,181 296,178 153,177 39,177" />
+                <Baseline points="39,199 153,199 296,200 441,203 564,206 588,210 745,214 937,218 963,220 995,223 1009,225 1078,226" />
+                <TextEquiv>
+                    <Unicode>dati predicti bona et catalla que fuerunt ipsius episcopi die obitus sui in manerio suo de Asshele ad valenciam trescen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_141" custom="readingOrder {index:6;}">
+                <Coords points="37,234 128,238 290,238 402,240 427,243 557,246 637,248 667,250 720,250 782,253 879,256 988,260 1068,264 1068,236 988,232 879,228 782,225 720,222 667,222 637,220 557,218 427,215 402,212 290,210 128,210 37,206" />
+                <Baseline points="37,228 128,232 290,232 402,234 427,237 557,240 637,242 667,244 720,244 782,247 879,250 988,254 1068,258" />
+                <TextEquiv>
+                    <Unicode>tarum librarum inuenta cepisset in manum ipsius patris domini regis nunc predicti Radulfus Ricardus et Galfridus simul cum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_169" custom="readingOrder {index:7;}">
+                <Coords points="44,266 193,268 343,270 490,276 675,279 805,284 894,289 921,292 1041,295 1041,267 921,264 894,261 805,256 675,251 490,248 343,242 193,240 44,238" />
+                <Baseline points="44,260 193,262 343,264 490,270 675,273 805,278 894,283 921,286 1041,289" />
+                <TextEquiv>
+                    <Unicode>Willelmo Latymere Bouchard Henrico filio Radulfi de Sutton Roberto filio Henrici de Sutton Johanne Hoggese de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_189" custom="readingOrder {index:8;}">
+                <Coords points="40,300 185,299 199,301 367,300 428,305 574,306 774,312 919,321 1056,326 1056,298 919,293 774,284 574,278 428,277 367,272 199,273 185,271 40,272" />
+                <Baseline points="40,294 185,293 199,295 367,294 428,299 574,300 774,306 919,315 1056,320" />
+                <TextEquiv>
+                    <Unicode>Weston Thoma Aungere de Weston Roberto Toppe de Weldon Ricardo Blome de Rokyngham et Thoma </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_209" custom="readingOrder {index:9;}">
+                <Coords points="43,329 159,328 259,330 428,333 625,340 662,340 766,342 876,350 984,354 1036,356 1036,328 984,326 876,322 766,314 662,312 625,312 428,305 259,302 159,300 43,301" />
+                <Baseline points="43,323 159,322 259,324 428,327 625,334 662,334 766,336 876,344 984,348 1036,350" />
+                <TextEquiv>
+                    <Unicode>Petit de Sutton bona et catalla predicta in manum ipsius patris etc. sic capta et ibidem inuenta vi et armis </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_231" custom="readingOrder {index:10;}">
+                <Coords points="43,358 146,358 358,361 488,366 650,370 833,376 935,382 1059,381 1059,353 935,354 833,348 650,342 488,338 358,333 146,330 43,330" />
+                <Baseline points="43,352 146,352 358,355 488,360 650,364 833,370 935,376 1059,375" />
+                <TextEquiv>
+                    <Unicode>ceperunt et asportauerunt in ipsius regis patris etc. et domini regis nunc preiudicium et solucionis debitorum predictorum retardacio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_251" custom="readingOrder {index:11;}">
+                <Coords points="43,390 202,389 290,388 308,391 454,396 593,399 751,402 881,412 1050,416 1050,388 881,384 751,374 593,371 454,368 308,363 290,360 202,361 43,362" />
+                <Baseline points="43,384 202,383 290,382 308,385 454,390 593,393 751,396 881,406 1050,410" />
+                <TextEquiv>
+                    <Unicode>nem. Et vnde Thomas de Tochewyk qui sequitur pro domino rege dicit --- quod cum Iohannes de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_271" custom="readingOrder {index:12;}">
+                <Coords points="45,422 142,422 288,427 429,431 588,435 760,441 916,446 1049,448 1049,420 916,418 760,413 588,407 429,403 288,399 142,394 45,394" />
+                <Baseline points="45,416 142,416 288,421 429,425 588,429 760,435 916,440 1049,442" />
+                <TextEquiv>
+                    <Unicode>Aston nuper vicecomes predicti regis patris etc. comitatus predicti per preceptum ipsius regis patris etc. die Mercurii proxima post festum Apostolorum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_291" custom="readingOrder {index:13;}">
+                <Coords points="43,454 164,457 327,458 458,464 802,472 920,477 1055,476 1055,448 920,449 802,444 458,436 327,430 164,429 43,426" />
+                <Baseline points="43,448 164,451 327,452 458,458 802,466 920,471 1055,470" />
+                <TextEquiv>
+                    <Unicode>Simonis et lude anno regni ipsius regis patris quintodecimo bona et catalla que fuerunt predicti episcopi die quo obiit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_309" custom="readingOrder {index:14;}">
+                <Coords points="47,483 173,487 361,489 488,494 679,502 746,503 864,507 986,509 1043,506 1043,478 986,481 864,479 746,475 679,474 488,466 361,461 173,459 47,455" />
+                <Baseline points="47,477 173,481 361,483 488,488 679,496 746,497 864,501 986,503 1043,500" />
+                <TextEquiv>
+                    <Unicode>qui in diuersis debitis prefato regi patri tenebatur etc. scilicet frumentum ordeum auenam pisas fabas fenum foragium </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_329" custom="readingOrder {index:15;}">
+                <Coords points="47,511 137,514 237,516 410,518 483,519 580,523 751,530 922,537 1051,539 1051,511 922,509 751,502 580,495 483,491 410,490 237,488 137,486 47,483" />
+                <Baseline points="47,505 137,508 237,510 410,512 483,513 580,517 751,524 922,531 1051,533" />
+                <TextEquiv>
+                    <Unicode>in manerio predicti episcopi de Asshele ad valenciam trescentarum librarum inuenta in manum predicti regis patris cepisset predicti </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_351" custom="readingOrder {index:16;}">
+                <Coords points="43,541 129,543 254,543 426,548 630,552 795,561 938,569 1058,572 1058,544 938,541 795,533 630,524 426,520 254,515 129,515 43,513" />
+                <Baseline points="43,535 129,537 254,537 426,542 630,546 795,555 938,563 1058,566" />
+                <TextEquiv>
+                    <Unicode>Radulfus Ricardus persona ecclesie de Cranesley et Galfridus simul etc. bona et catalla predicta in manum ipsius regis patris etc. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_369" custom="readingOrder {index:17;}">
+                <Coords points="49,568 143,571 293,571 524,576 721,584 881,593 1056,600 1056,572 881,565 721,556 524,548 293,543 143,543 49,540" />
+                <Baseline points="49,562 143,565 293,565 524,570 721,578 881,587 1056,594" />
+                <TextEquiv>
+                    <Unicode>sic capta et apud manerium predictum inuenta die Lune proxima post festum Sancti Martini proximo sequenti vi et armis </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_385" custom="readingOrder {index:18;}">
+                <Coords points="53,596 164,600 315,598 458,603 668,606 798,613 865,624 935,622 1056,627 1056,599 935,594 865,596 798,585 668,578 458,575 315,570 164,572 53,568" />
+                <Baseline points="53,590 164,594 315,592 458,597 668,600 798,607 865,618 935,616 1056,621" />
+                <TextEquiv>
+                    <Unicode>scilicet gladiis arcubus et sagittis et equis coopertis continuando de die in diem per quindecim dies proximo sequentes ceperunt </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_405" custom="readingOrder {index:19;}">
+                <Coords points="54,625 162,625 292,626 329,629 421,627 555,631 631,633 716,641 824,644 875,647 957,653 1070,654 1070,626 957,625 875,619 824,616 716,613 631,605 555,603 421,599 329,601 292,598 162,597 54,597" />
+                <Baseline points="54,619 162,619 292,620 329,623 421,621 555,625 631,627 716,635 824,638 875,641 957,647 1070,648" />
+                <TextEquiv>
+                    <Unicode>et asportauerunt in ipsius regis patris etc. et domini regis nunc preiudicium et solucionis debitorum predictorum retardacionem. Vnde dicit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_431" custom="readingOrder {index:20;}">
+                <Coords points="54,651 162,652 304,653 421,655 454,657 499,657 608,662 731,670 870,677 1010,680 1064,682 1064,654 1010,652 870,649 731,642 608,634 499,629 454,629 421,627 304,625 162,624 54,623" />
+                <Baseline points="54,645 162,646 304,647 421,649 454,651 499,651 608,656 731,664 870,671 1010,674 1064,676" />
+                <TextEquiv>
+                    <Unicode>quod dominus rex deterioratus est et dampnum habet ad valenciam mille librarum. Et hoc paratus est verificare pro rege etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_455" custom="readingOrder {index:21;}">
+                <Coords points="55,679 169,680 341,685 532,687 580,694 636,695 690,695 832,702 978,709 1059,708 1059,680 978,681 832,674 690,667 636,667 580,666 532,659 341,657 169,652 55,651" />
+                <Baseline points="55,673 169,674 341,679 532,681 580,688 636,689 690,689 832,696 978,703 1059,702" />
+                <TextEquiv>
+                    <Unicode>Et predicti Radulfus Ricardus persona ecclesie de Cranesley et Galfridus veniunt et defendunt vim et iniuriam et quiequid est in preiudicium </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_477" custom="readingOrder {index:22;}">
+                <Coords points="53,708 201,708 277,709 389,713 569,718 739,724 850,730 1059,736 1059,708 850,702 739,696 569,690 389,685 277,681 201,680 53,680" />
+                <Baseline points="53,702 201,702 277,703 389,707 569,712 739,718 850,724 1059,730" />
+                <TextEquiv>
+                    <Unicode>regis patris etc. et preiudicium domini regis nunc quando etc. Et bene defendunt quod ipsi nulla bona seu catalla in manum domini </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_495" custom="readingOrder {index:23;}">
+                <Coords points="55,737 135,738 250,740 412,741 561,745 612,749 734,750 750,751 866,756 902,758 1045,762 1045,734 902,730 866,728 750,723 734,722 612,721 561,717 412,713 250,712 135,710 55,709" />
+                <Baseline points="55,731 135,732 250,734 412,735 561,739 612,743 734,744 750,745 866,750 902,752 1045,756" />
+                <TextEquiv>
+                    <Unicode>regis patris etc. capta prout predictus Thomas qui sequitur pro rege eis imponit ceperunt nec asportauerunt in preiudicium etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_519" custom="readingOrder {index:24;}">
+                <Coords points="58,766 179,767 313,768 502,773 634,776 729,779 839,781 882,785 937,788 1052,790 1052,762 937,760 882,757 839,753 729,751 634,748 502,745 313,740 179,739 58,738" />
+                <Baseline points="58,760 179,761 313,762 502,767 634,770 729,773 839,775 882,779 937,782 1052,784" />
+                <TextEquiv>
+                    <Unicode>Et de hoc ponunt se super patriam. Et idem Thomas qui sequitur pro rege similiter. Ideo preceptum est vicecomiti quod venire faciat </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_541" custom="readingOrder {index:25;}">
+                <Coords points="62,793 165,796 269,798 418,801 439,805 498,804 615,804 737,805 759,808 882,812 917,812 933,814 1065,817 1065,789 933,786 917,784 882,784 759,780 737,777 615,776 498,776 439,777 418,773 269,770 165,768 62,765" />
+                <Baseline points="62,787 165,790 269,792 418,795 439,799 498,798 615,798 737,799 759,802 882,806 917,806 933,808 1065,811" />
+                <TextEquiv>
+                    <Unicode>hic die Martis proxima post festum Sancti Hillarii. xij. etc. per quos etc. et qui nec etc. ad recognoscendum etc. quia tam etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_569" custom="readingOrder {index:26;}">
+                <Coords points="57,822 182,825 210,829 381,834 415,838 559,842 724,839 880,846 915,847 963,846 1069,850 1069,822 963,818 915,819 880,818 724,811 559,814 415,810 381,806 210,801 182,797 57,794" />
+                <Baseline points="57,816 182,819 210,823 381,828 415,832 559,836 724,833 880,840 915,841 963,840 1069,844" />
+                <TextEquiv>
+                    <Unicode>Ad quem diem venit predictus Thomas qui sequitur pro rege etc. et similiter predicti Radulfus Ricardus et Galfridus etc. et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_593" custom="readingOrder {index:27;}">
+                <Coords points="61,853 156,853 254,857 351,863 517,871 542,876 680,876 799,875 920,881 1065,889 1065,861 920,853 799,847 680,848 542,848 517,843 351,835 254,829 156,825 61,825" />
+                <Baseline points="61,847 156,847 254,851 351,857 517,865 542,870 680,870 799,869 920,875 1065,883" />
+                <TextEquiv>
+                    <Unicode>similiter iuratores de consensu parcium electi. Qui dicunt super sacramentum suum quod idem Radulfus Ricardus et Galfridus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_615" custom="readingOrder {index:28;}">
+                <Coords points="64,883 153,882 328,893 402,896 521,904 587,908 650,913 826,912 968,915 1078,921 1078,893 968,887 826,884 650,885 587,880 521,876 402,868 328,865 153,854 64,855" />
+                <Baseline points="64,877 153,876 328,887 402,890 521,898 587,902 650,907 826,906 968,909 1078,915" />
+                <TextEquiv>
+                    <Unicode>non sunt in aliquo culpabiles de transgressione predicta. Ideo consideratum est quod iidem Radulfus Ricardus et Galfridus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_637" custom="readingOrder {index:29;}">
+                <Coords points="66,910 165,911 214,916 371,925 497,929 588,935 607,941 731,946 899,946 951,946 1081,952 1081,924 951,918 899,918 731,918 607,913 588,907 497,901 371,897 214,888 165,883 66,882" />
+                <Baseline points="66,904 165,905 214,910 371,919 497,923 588,929 607,935 731,940 899,940 951,940 1081,946" />
+                <TextEquiv>
+                    <Unicode>eant inde sine die etc. Et super hoc veniunt predicti Willelmus Henricus Robertus Tohannes Hoggese Thomas Robertus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_663" custom="readingOrder {index:30;}">
+                <Coords points="62,937 142,940 192,942 248,951 391,958 470,963 555,965 613,970 743,977 903,975 903,947 743,949 613,942 555,937 470,935 391,930 248,923 192,914 142,912 62,909" />
+                <Baseline points="62,931 142,934 192,936 248,945 391,952 470,957 555,959 613,964 743,971 903,969" />
+                <TextEquiv>
+                    <Unicode>Ricardus Blome et Thomas per magnam districcionem etc. Ideo ipsi in misericordia pro pluribus defaltis etc. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_685" custom="readingOrder {index:31;}">
+                <Coords points="63,968 217,977 354,988 499,993 632,1000 704,1006 834,1006 924,1003 946,1005 1004,1003 1037,1005 1063,1006 1063,978 1037,977 1004,975 946,977 924,975 834,978 704,978 632,972 499,965 354,960 217,949 63,940" />
+                <Baseline points="63,962 217,971 354,982 499,987 632,994 704,1000 834,1000 924,997 946,999 1004,997 1037,999 1063,1000" />
+                <TextEquiv>
+                    <Unicode>Et predictus Thomas de Tochewyk qui sequitur pro rege narrat versus eos pro rege in forma supradicta de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_711" custom="readingOrder {index:32;}">
+                <Coords points="63,998 154,1006 232,1011 307,1018 307,990 232,983 154,978 63,970" />
+                <Baseline points="63,992 154,1000 232,1005 307,1012" />
+                <TextEquiv>
+                    <Unicode>transgressione predicta etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_721" custom="readingOrder {index:33;}">
+                <Coords points="60,1029 238,1041 363,1045 480,1054 521,1057 669,1058 691,1061 817,1063 967,1057 1049,1057 1049,1029 967,1029 817,1035 691,1033 669,1030 521,1029 480,1026 363,1017 238,1013 60,1001" />
+                <Baseline points="60,1023 238,1035 363,1039 480,1048 521,1051 669,1052 691,1055 817,1057 967,1051 1049,1051" />
+                <TextEquiv>
+                    <Unicode>Et iidem Willelmus le Latymer et alii per Tohannem de Helpeston attornatum suum dicunt quod ipsi non sunt </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_743" custom="readingOrder {index:34;}">
+                <Coords points="63,1057 147,1063 254,1069 372,1075 426,1079 448,1084 557,1087 626,1090 725,1092 889,1093 978,1090 1052,1094 1052,1066 978,1062 889,1065 725,1064 626,1062 557,1059 448,1056 426,1051 372,1047 254,1041 147,1035 63,1029" />
+                <Baseline points="63,1051 147,1057 254,1063 372,1069 426,1073 448,1078 557,1081 626,1084 725,1086 889,1087 978,1084 1052,1088" />
+                <TextEquiv>
+                    <Unicode>inde culpabiles. Et de hoc ponunt se super patriam. Et predictus Thomas qui sequitur pro rege similiter. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_769" custom="readingOrder {index:35;}">
+                <Coords points="60,1089 206,1097 304,1101 443,1113 443,1085 304,1073 206,1069 60,1061" />
+                <Baseline points="60,1083 206,1091 304,1095 443,1107" />
+                <TextEquiv>
+                    <Unicode>Ideo preceptum est vicecomiti quod venire faciat hic.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <Coords points="1088,1125 6,1125 6,3 1088,3" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-01-09T20:01:35.447+01:00</Created>
+        <LastChange>2024-01-09T20:31:17.937+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="63214261" pageNr="9" tsid="144711640" status="FINAL" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=BEOOFQYHDOOULMUMDONBOJUE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OTSWVULZEGFWYAIRKMHRFVJX" imageId="51116736" />
+    </Metadata>
+    <Page imageFilename="memb1.jpg" imageWidth="800" imageHeight="600">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1708823410282" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="7,141 59,133 81,130 157,119 207,112 307,94 338,92 386,83 446,83 486,82 511,86 573,76 636,65 663,59 684,57 719,49 741,54 780,65 794,62 792,52 780,55 743,44 719,39 682,47 661,49 634,55 571,66 511,76 487,72 446,73 385,73 337,82 306,84 205,102 156,109 80,120 58,123 5,131" />
+                <Baseline points="7,141 59,133 81,130 157,119 207,112 307,94 338,92 386,83 446,83 486,82 511,86 573,76 636,65 663,59 684,57 719,49 741,54 780,65 794,62" />
+                <TextEquiv>
+                    <Unicode>Johannes de Hepwode per Henricum de Stolefeld attornatum suum optulit se iiijto quarto die versus Willelmum filium Galfridi de Heley</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_48" custom="readingOrder {index:1;}">
+                <Coords points="12,198 68,187 134,177 190,161 212,160 275,142 322,133 387,117 398,124 446,118 505,113 527,112 544,118 607,112 647,106 692,100 715,102 748,107 765,111 794,111 794,101 766,101 750,97 716,92 692,90 646,96 606,102 545,108 528,102 504,103 445,108 400,114 389,106 320,123 273,132 210,150 188,151 132,167 66,177 10,188" />
+                <Baseline points="12,198 68,187 134,177 190,161 212,160 275,142 322,133 387,117 398,124 446,118 505,113 527,112 544,118 607,112 647,106 692,100 715,102 748,107 765,111 794,111" />
+                <TextEquiv>
+                    <Unicode>Margeriam filiam Nicholai Lovetsone et Aliciam filiam eiusdem Margerie et Ceciliam sororem eiusdem Alicie de placito quare</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_90" custom="readingOrder {index:2;}">
+                <Coords points="9,252 92,233 159,220 214,207 265,192 320,181 356,175 409,165 436,164 464,169 482,168 496,163 534,156 544,159 590,156 605,157 626,151 663,149 717,146 749,149 780,153 781,143 750,139 717,136 662,139 624,141 604,147 590,146 545,149 535,146 493,153 480,158 465,159 437,154 408,155 354,165 318,171 263,182 211,197 157,210 90,223 7,242" />
+                <Baseline points="9,252 92,233 159,220 214,207 265,192 320,181 356,175 409,165 436,164 464,169 482,168 496,163 534,156 544,159 590,156 605,157 626,151 663,149 717,146 749,149 780,153" />
+                <TextEquiv>
+                    <Unicode>vi et armis arbores ipsius Johannis apud Spotlond nuper crescentes succiderunt et arbores illas ac alia bona et catalla sua ad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_134" custom="readingOrder {index:3;}">
+                <Coords points="8,298 62,288 132,272 197,259 262,246 351,221 393,213 428,213 455,209 498,203 524,201 538,202 587,197 639,190 697,189 773,186 773,176 697,179 638,180 586,187 538,192 524,191 497,193 454,199 427,203 392,203 349,211 260,236 195,249 130,262 60,278 6,288" />
+                <Baseline points="8,298 62,288 132,272 197,259 262,246 351,221 393,213 428,213 455,209 498,203 524,201 538,202 587,197 639,190 697,189 773,186" />
+                <TextEquiv>
+                    <Unicode>valenciam octo librarum ibidem inventa ceperunt et asportaverunt et herbam suam ibidem nuper crescentem ad valenciam quadraginta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_170" custom="readingOrder {index:4;}">
+                <Coords points="6,345 47,336 123,322 177,314 229,299 307,279 367,268 371,262 457,255 550,245 581,237 643,234 672,233 697,236 743,228 791,222 790,212 742,218 697,226 672,223 643,224 580,227 548,235 456,245 365,252 362,260 305,269 226,289 175,304 121,312 45,326 4,335" />
+                <Baseline points="6,345 47,336 123,322 177,314 229,299 307,279 367,268 371,262 457,255 550,245 581,237 643,234 672,233 697,236 743,228 791,222" />
+                <TextEquiv>
+                    <Unicode>solidorum cum quibusdam averiis depasti fuerunt conculcavererunt et consumpserunt et alia enormia ei intulerunt ad grave dampnum ipsius</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_206" custom="readingOrder {index:5;}">
+                <Coords points="5,393 56,381 113,374 175,358 212,356 332,319 422,308 511,296 621,279 700,275 779,269 778,259 699,265 620,269 510,286 421,298 330,309 210,346 173,348 111,364 54,371 3,383" />
+                <Baseline points="5,393 56,381 113,374 175,358 212,356 332,319 422,308 511,296 621,279 700,275 779,269" />
+                <TextEquiv>
+                    <Unicode>Johannis et contra pacem regis etc. Et ipsi non venerunt. Et predictus Willelmus fuit districtus per catalla ad valenciam trium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_232" custom="readingOrder {index:6;}">
+                <Coords points="7,440 64,429 106,428 169,410 182,413 263,389 365,358 390,358 473,344 497,346 541,345 637,322 655,331 705,321 743,318 789,313 788,303 742,308 704,311 656,321 638,312 540,335 497,336 473,334 389,348 364,348 260,380 182,403 169,400 105,418 63,419 5,430" />
+                <Baseline points="7,440 64,429 106,428 169,410 182,413 263,389 365,358 390,358 473,344 497,346 541,345 637,322 655,331 705,321 743,318 789,313" />
+                <TextEquiv>
+                    <Unicode>denariorum et manucaptus per Thomam Jakes, Willelmum Hopekyns, Ricardum Rous et Nicholaum Tracy. Ideo ipsi in misericordia. Et sicut prius preceptum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_268" custom="readingOrder {index:7;}">
+                <Coords points="6,489 103,468 176,454 251,443 324,428 394,412 464,403 508,404 573,386 634,372 683,368 745,367 792,366 792,356 745,357 683,358 632,362 571,376 507,394 463,393 392,402 322,418 249,433 174,444 101,458 4,479" />
+                <Baseline points="6,489 103,468 176,454 251,443 324,428 394,412 464,403 508,404 573,386 634,372 683,368 745,367 792,366" />
+                <TextEquiv>
+                    <Unicode>fuit vicecomiti quod distringat eum etc per omnes teras etc. et quod de exitibus etc et quod habeat corpus eius hic a die sancte Trinitatis in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_298" custom="readingOrder {index:8;}">
+                <Coords points="7,534 76,525 178,503 208,501 316,477 413,463 507,452 586,437 657,419 693,419 785,406 784,396 692,409 656,409 584,427 506,442 412,453 314,467 207,491 177,493 74,515 6,524" />
+                <Baseline points="7,534 76,525 178,503 208,501 316,477 413,463 507,452 586,437 657,419 693,419 785,406" />
+                <TextEquiv>
+                    <Unicode>xv dies et de omnibus aliis mandat vicecomes quod non sunt invente etc. Ideo sicut prius preceptum est vicecomiti quod capiat eas etc si etc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_326" custom="readingOrder {index:9;}">
+                <Coords points="9,581 66,572 182,553 294,528 369,519 433,507 431,497 367,509 292,518 180,543 64,562 7,571" />
+                <Baseline points="9,581 66,572 182,553 294,528 369,519 433,507" />
+                <TextEquiv>
+                    <Unicode>et salvo etc ita quod habeat corpora eorum hic ad prefatum terminum.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <Coords points="10,82 800,6 795,512 -1,602" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

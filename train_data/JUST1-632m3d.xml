@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-11-08T00:05:52.125+01:00</Created>
+        <LastChange>2023-11-20T23:33:49.086+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="61263410" pageNr="20" tsid="140255447" status="GT" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=QWXNVPEWMWIMWZOEIGQIOYNB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RORZEQGMHRQLNBHGCUQMWCJZ" imageId="49528094" />
+    </Metadata>
+    <Page imageFilename="JUST1-632m3d.jpeg" imageWidth="1103" imageHeight="609">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1700697996935" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="10,40 235,39 487,36 776,43 1079,43 1079,12 776,12 487,5 235,8 10,9" />
+                <Baseline points="10,33 235,32 487,29 776,36 1079,36" />
+                <TextEquiv>
+                    <Unicode> ¶ Robertus de Coleworth insultum fecit in Ricardum le Porter de Aynho in campis de Brackele et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_20" custom="readingOrder {index:1;}">
+                <Coords points="17,81 186,79 501,75 740,76 1079,82 1079,51 740,45 501,44 186,48 17,50" />
+                <Baseline points="17,74 186,72 501,68 740,69 1079,75" />
+                <TextEquiv>
+                    <Unicode>ipsum percussit cum quadam lancea vsque ad cor, quod statim inde obiit et predicts Robertus statim post</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_32" custom="readingOrder {index:2;}">
+                <Coords points="16,126 183,121 426,116 635,116 790,114 964,118 1091,121 1091,90 964,87 790,83 635,85 426,85 183,90 16,95" />
+                <Baseline points="16,119 183,114 426,109 635,109 790,107 964,111 1091,114" />
+                <TextEquiv>
+                    <Unicode>factum fugit Et postea captus fuit et in prisona castri Norhamton detentus tempore predicti Iohannis Druel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_48" custom="readingOrder {index:3;}">
+                <Coords points="23,159 149,154 362,151 588,148 829,149 1021,151 1078,154 1078,123 1021,120 829,118 588,117 362,120 149,123 23,128" />
+                <Baseline points="23,152 149,147 362,144 588,141 829,142 1021,144 1078,147" />
+                <TextEquiv>
+                    <Unicode> tun vicecomitis. per. Ideo respondeat idem vicecomes seu eius heredes vel tenentes terras quo deuenit. Catalla predicti Roberti confiscantur pro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_64" custom="readingOrder {index:4;}">
+                <Coords points="16,196 139,188 255,188 419,183 618,180 834,180 1089,177 1089,146 834,149 618,149 419,152 255,157 139,157 16,165" />
+                <Baseline points="16,189 139,181 255,181 419,176 618,173 834,173 1089,170" />
+                <TextEquiv>
+                    <Unicode>fuga catalla eius vj ser vij d vnde vicecomes reges Ido Postea iuratores testantur quod Iohannes Bryan Iohannes Knotte et Thomas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_80" custom="readingOrder {index:5;}">
+                <Coords points="17,226 227,219 355,218 423,213 551,211 773,210 935,216 1037,219 1082,213 1082,182 1037,188 935,185 773,179 551,180 423,182 355,187 227,188 17,195" />
+                <Baseline points="17,219 227,212 355,211 423,206 551,204 773,203 935,209 1037,212 1082,206" />
+                <TextEquiv>
+                    <Unicode>de Marche presentes fuerunt quando predicta felonia facta fut et manentes sunt in patria Ideo capiantur Et quia predicts</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_100" custom="readingOrder {index:6;}">
+                <Coords points="13,261 156,258 346,252 453,245 515,249 615,244 668,248 753,244 863,247 897,256 1076,246 1076,215 897,225 863,216 753,213 668,217 615,213 515,218 453,214 346,221 156,227 13,230" />
+                <Baseline points="13,254 156,251 346,245 453,238 515,242 615,237 668,241 753,237 863,240 897,249 1076,239" />
+                <TextEquiv>
+                    <Unicode>Iohannes Bryan fugit ideo catalla eius confiscantur pro fuga Catalla eius vj de vnde vicecomes respondeat. Postea veniunt predicti </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_124" custom="readingOrder {index:7;}">
+                <Coords points="8,291 90,292 172,287 249,282 386,280 605,277 763,278 898,277 962,280 1094,278 1094,247 962,249 898,246 763,247 605,246 386,249 249,251 172,256 90,261 8,260" />
+                <Baseline points="8,284 90,285 172,280 249,275 386,273 605,270 763,271 898,270 962,273 1094,271" />
+                <TextEquiv>
+                    <Unicode>Iohannes Brayn et Thomas del Marche per vicecomitem ducti Et iuratores in nullo malecredunt ipsum Iohannem Brayn de morte predicta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_146" custom="readingOrder {index:8;}">
+                <Coords points="17,321 92,319 193,317 296,311 427,308 599,309 710,309 812,305 910,305 944,311 1090,311 1090,280 944,280 910,274 812,274 710,278 599,278 427,277 296,280 193,286 92,288 17,290" />
+                <Baseline points="17,314 92,312 193,310 296,304 427,301 599,302 710,302 812,298 910,298 944,304 1090,304" />
+                <TextEquiv>
+                    <Unicode>set quia presens fuit et hutesium non leuauit nec malefactores cepit ideo idem Iohannes custodiatur. Postea idem Iohannes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_170" custom="readingOrder {index:9;}">
+                <Coords points="12,356 101,350 218,343 284,343 389,344 494,343 562,343 633,345 735,341 800,342 884,342 1094,343 1094,312 884,311 800,311 735,310 633,314 562,312 494,312 389,313 284,312 218,312 101,319 12,325" />
+                <Baseline points="12,349 101,343 218,336 284,336 389,337 494,336 562,336 633,338 735,334 800,335 884,335 1094,336" />
+                <TextEquiv>
+                    <Unicode>Brayn fecit finem cum domino rege pro transgressione predicta per xx denarios per plegium Willelmi Riche. Et quia predictus Thomas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_196" custom="readingOrder {index:10;}">
+                <Coords points="13,389 85,384 212,378 348,374 480,375 548,375 659,376 769,377 865,376 974,380 1074,380 1074,349 974,349 865,345 769,346 659,345 548,344 480,344 348,343 212,347 85,353 13,358" />
+                <Baseline points="13,382 85,377 212,371 348,367 480,368 548,368 659,369 769,370 865,369 974,373 1074,373" />
+                <TextEquiv>
+                    <Unicode>fugit et reddidit se suspectum de morte predicta. Ideo idem Thomas allocutus qualiter se velit de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_220" custom="readingOrder {index:11;}">
+                <Coords points="16,422 77,418 147,415 255,407 364,409 445,408 504,409 611,409 790,409 826,410 881,413 996,412 1084,412 1084,381 996,381 881,382 826,379 790,378 611,378 504,378 445,377 364,378 255,376 147,384 77,387 16,391" />
+                <Baseline points="16,415 77,411 147,408 255,400 364,402 445,401 504,402 611,402 790,402 826,403 881,406 996,405 1084,405" />
+                <TextEquiv>
+                    <Unicode>  eadem morte acquietare defendit mortem totum et quicquid etc. et quod in nullo est inde culpabilis de bono</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_248" custom="readingOrder {index:12;}">
+                <Coords points="10,452 82,445 164,441 238,442 311,436 343,442 530,441 696,445 876,446 1023,448 1095,446 1095,415 1023,417 876,415 696,414 530,410 343,411 311,405 238,411 164,410 82,414 10,421" />
+                <Baseline points="10,445 82,438 164,434 238,435 311,429 343,435 530,434 696,438 876,439 1023,441 1095,439" />
+                <TextEquiv>
+                    <Unicode>  et malo ponit se super patriam Et juratores villate de Brackele dicunt super sacramentum suum quod predictus Thomas </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_268" custom="readingOrder {index:13;}">
+                <Coords points="17,485 144,478 245,472 347,473 408,475 506,475 580,474 705,480 763,481 826,481 905,482 974,484 1022,484 1089,484 1089,453 1022,453 974,453 905,451 826,450 763,450 705,449 580,443 506,444 408,444 347,442 245,441 144,447 17,454" />
+                <Baseline points="17,478 144,471 245,465 347,466 408,468 506,468 580,467 705,473 763,474 826,474 905,475 974,477 1022,477 1089,477" />
+                <TextEquiv>
+                    <Unicode>in nullo est culpabilis de morte predicta Ideo idem Thomas inde quietus. Set quia presens fuit et non cepit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_298" custom="readingOrder {index:14;}">
+                <Coords points="20,520 160,511 276,507 527,507 603,511 706,517 824,517 925,514 970,518 1094,517 1094,486 970,487 925,483 824,486 706,486 603,480 527,476 276,476 160,480 20,489" />
+                <Baseline points="20,513 160,504 276,500 527,500 603,504 706,510 824,510 925,507 970,511 1094,510" />
+                <TextEquiv>
+                    <Unicode>malefactorem ideo in misericordia -- Et non est aliquis qui respondeat pro predicto Iohanne quo deuenit nec compertum est</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_320" custom="readingOrder {index:15;}">
+                <Coords points="11,561 135,544 219,539 343,539 420,539 581,545 647,547 740,549 819,550 884,548 923,550 980,552 1058,554 1058,523 980,521 923,519 884,517 819,519 740,518 647,516 581,514 420,508 343,508 219,508 135,513 11,530" />
+                <Baseline points="11,554 135,537 219,532 343,532 420,532 581,538 647,540 740,542 819,543 884,541 923,543 980,545 1058,547" />
+                <TextEquiv>
+                    <Unicode>per rotulos coronatorum quod predictus Robertus de Coleworth obiit in prisona Ideo ad iudicium de euasione ipsius</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_348" custom="readingOrder {index:16;}">
+                <Coords points="14,593 90,581 143,579 271,572 366,572 441,570 511,579 574,577 574,546 511,548 441,539 366,541 271,541 143,548 90,550 14,562" />
+                <Baseline points="14,586 90,574 143,572 271,565 366,565 441,563 511,572 574,570" />
+                <TextEquiv>
+                    <Unicode>Roberti super tenentes terras ipsius Iohannis etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <Coords points="1101,606 5,606 5,3 1101,3" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

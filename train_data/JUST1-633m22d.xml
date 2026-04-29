@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-12-13T07:39:09.529+01:00</Created>
+        <LastChange>2023-12-13T07:53:12.257+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="62436991" pageNr="19" tsid="142894233" status="FINAL" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=LYQQDNEFOASTCEPIYZNDJFBF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TOFEADRBZCPNSTBXJDYCQYLC" imageId="50408025" />
+    </Metadata>
+    <Page imageFilename="JUST1-633m22d.jpeg" imageWidth="1099" imageHeight="701">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1704262312325" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="12,84 135,76 280,64 370,59 558,54 674,47 823,44 924,43 1054,46 1054,13 924,10 823,11 674,14 558,21 370,26 280,31 135,43 12,51" />
+                <Baseline points="12,77 135,69 280,57 370,52 558,47 674,40 823,37 924,36 1054,39" />
+                <TextEquiv>
+                    <Unicode>Assisa venit recognitura si Conus prior Sancti Andree Norhamton Gilbertus de Etewell et Matillis que fuit vor Roberti de Veer </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_28" custom="readingOrder {index:1;}">
+                <Coords points="9,111 139,101 241,97 350,90 439,88 600,78 674,75 729,74 860,72 1007,74 1075,76 1075,43 1007,41 860,39 729,41 674,42 600,45 439,55 350,57 241,64 139,68 9,78" />
+                <Baseline points="9,104 139,94 241,90 350,83 439,81 600,71 674,68 729,67 860,65 1007,67 1075,69" />
+                <TextEquiv>
+                    <Unicode>iniuste etc. disseisiuerunt Laurencium de Preston de libero tenemento suo in Haclyngton iuxta Horton post primam etc. Et vnde queritur </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_48" custom="readingOrder {index:2;}">
+                <Coords points="5,144 101,136 228,129 338,124 519,112 686,106 686,73 519,79 338,91 228,96 101,103 5,111" />
+                <Baseline points="5,137 101,129 228,122 338,117 519,105 686,99" />
+                <TextEquiv>
+                    <Unicode>quod disseisiuerunt eum de redditu vnius pelicii precii quadraginta denariorum cum pertinenciis etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_62" custom="readingOrder {index:3;}">
+                <Coords points="6,179 151,171 331,159 458,149 603,141 657,143 772,138 842,137 880,135 949,137 1063,137 1063,104 949,104 880,102 842,104 772,105 657,110 603,108 458,116 331,126 151,138 6,146" />
+                <Baseline points="6,172 151,164 331,152 458,142 603,134 657,136 772,131 842,130 880,128 949,130 1063,130" />
+                <TextEquiv>
+                    <Unicode>Et predicti Gilbertus et Matillis non veniunt set quidam Simon Thebaud venit et respondet pro eis tanquam corum balliuus Et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_86" custom="readingOrder {index:4;}">
+                <Coords points="6,211 118,205 238,196 407,187 508,181 665,177 777,174 884,171 1080,173 1080,140 884,138 777,141 665,144 508,148 407,154 238,163 118,172 6,178" />
+                <Baseline points="6,204 118,198 238,189 407,180 508,174 665,170 777,167 884,164 1080,166" />
+                <TextEquiv>
+                    <Unicode>dicit quod ipsi nichil habent in predicto redditu nec aliquam inde fecerunt iniuriam seu disseisinam et de hoc ponunt se super assisam etc. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_106" custom="readingOrder {index:5;}">
+                <Coords points="10,248 174,237 291,229 506,215 596,214 793,208 859,207 982,210 1061,206 1061,173 982,177 859,174 793,175 596,181 506,182 291,196 174,204 10,215" />
+                <Baseline points="10,241 174,230 291,222 506,208 596,207 793,201 859,200 982,203 1061,199" />
+                <TextEquiv>
+                    <Unicode>Et prior per predictum Simonem attornatum suum venit et respondet vt tenens vnam virgatam terre cum pertinenciis in Hakelyntone positam in </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_126" custom="readingOrder {index:6;}">
+                <Coords points="13,281 103,279 243,268 349,260 447,257 537,251 677,242 762,243 892,241 976,243 1009,242 1074,242 1074,209 1009,209 976,210 892,208 762,210 677,209 537,218 447,224 349,227 243,235 103,246 13,248" />
+                <Baseline points="13,274 103,272 243,261 349,253 447,250 537,244 677,235 762,236 892,234 976,236 1009,235 1074,235" />
+                <TextEquiv>
+                    <Unicode>visu vnde predictus Laurencius dicit predictum redditum deberi et dicit quod assisa non debet inde fieri. Quia dicit quod quidam </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_152" custom="readingOrder {index:7;}">
+                <Coords points="12,318 99,309 185,304 275,302 388,295 576,284 705,281 812,279 1052,280 1052,247 812,246 705,248 576,251 388,262 275,269 185,271 99,276 12,285" />
+                <Baseline points="12,311 99,302 185,297 275,295 388,288 576,277 705,274 812,272 1052,273" />
+                <TextEquiv>
+                    <Unicode>Gilbertus de Preston auus predicti Laurencii cuius heres ipse est concessit et carta sua confirmauit Deo et ecclesie Sancti </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_172" custom="readingOrder {index:8;}">
+                <Coords points="14,350 118,344 209,340 335,333 459,329 583,321 662,319 787,316 879,317 972,317 1071,320 1071,287 972,284 879,284 787,283 662,286 583,288 459,296 335,300 209,307 118,311 14,317" />
+                <Baseline points="14,343 118,337 209,333 335,326 459,322 583,314 662,312 787,309 879,310 972,310 1071,313" />
+                <TextEquiv>
+                    <Unicode>Andree Norhamton et monachis ibidem Deo serientibus in liberam puram et perpetuam elemosinam predictam virgatam terre cum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_196" custom="readingOrder {index:9;}">
+                <Coords points="14,386 95,381 209,374 343,368 507,358 617,356 733,357 839,353 967,351 1063,352 1063,319 967,318 839,320 733,324 617,323 507,325 343,335 209,341 95,348 14,353" />
+                <Baseline points="14,379 95,374 209,367 343,361 507,351 617,349 733,350 839,346 967,344 1063,345" />
+                <TextEquiv>
+                    <Unicode>pertinenciis et eciam omnia tenementa que dicti monachi habuerunt ex donacione antecessorum suorum libera et quieta ab omni </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_218" custom="readingOrder {index:10;}">
+                <Coords points="19,419 101,414 215,408 368,399 479,395 615,389 705,389 864,387 1083,388 1083,355 864,354 705,356 615,356 479,362 368,366 215,375 101,381 19,386" />
+                <Baseline points="19,412 101,407 215,401 368,392 479,388 615,382 705,382 864,380 1083,381" />
+                <TextEquiv>
+                    <Unicode>seruicio et exactione seculari. Et profert quamdam cartam sub nomine dicti Gilberti quod hoc idem testatur et petit iudicium </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_238" custom="readingOrder {index:11;}">
+                <Coords points="20,452 105,447 204,444 306,438 412,435 509,428 585,425 676,424 807,422 988,422 988,389 807,389 676,391 585,392 509,395 412,402 306,405 204,411 105,414 20,419" />
+                <Baseline points="20,445 105,440 204,437 306,431 412,428 509,421 585,418 676,417 807,415 988,415" />
+                <TextEquiv>
+                    <Unicode>si predictus Laurencius contra factum predicti Gilberti aui etc. aliquem redditum de predicta terra exigere possit etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_260" custom="readingOrder {index:12;}">
+                <Coords points="22,486 103,481 204,475 358,472 476,467 547,461 628,461 701,459 784,460 891,458 1063,457 1063,424 891,425 784,427 701,426 628,428 547,428 476,434 358,439 204,442 103,448 22,453" />
+                <Baseline points="22,479 103,474 204,468 358,465 476,460 547,454 628,454 701,452 784,453 891,451 1063,450" />
+                <TextEquiv>
+                    <Unicode>Et idem Laurencius quesitus per iusticiarios an clamat predictum redditum tanquam seruicium vel redditum oneratum dicit quod </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_284" custom="readingOrder {index:13;}">
+                <Coords points="24,518 87,515 202,511 290,511 393,504 499,499 563,496 669,495 764,494 890,494 1074,493 1074,460 890,461 764,461 669,462 563,463 499,466 393,471 290,478 202,478 87,482 24,485" />
+                <Baseline points="24,511 87,508 202,504 290,504 393,497 499,492 563,489 669,488 764,487 890,487 1074,486" />
+                <TextEquiv>
+                    <Unicode>tanquam redditum seruicium de quo tam Gilbertus auus etc. Laurencius pater eiusdem Laurencii et idem Laurencius </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_314" custom="readingOrder {index:14;}">
+                <Coords points="24,551 91,547 186,544 299,542 427,535 535,532 670,528 729,528 826,528 978,527 1075,528 1075,495 978,494 826,495 729,495 670,495 535,499 427,502 299,509 186,511 91,514 24,518" />
+                <Baseline points="24,544 91,540 186,537 299,535 427,528 535,525 670,521 729,521 826,521 978,520 1075,521" />
+                <TextEquiv>
+                    <Unicode>quam eciam Walterus pater dicti Gilberti et Michael pater eiusdem Walteri et eorum antecessores a tempore quo non extat </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_338" custom="readingOrder {index:15;}">
+                <Coords points="27,584 85,581 193,580 290,574 432,567 521,566 607,565 711,561 768,564 850,562 872,566 998,564 1063,563 1063,530 998,531 872,533 850,529 768,531 711,528 607,532 521,533 432,534 290,541 193,547 85,548 27,551" />
+                <Baseline points="27,577 85,574 193,573 290,567 432,560 521,559 607,558 711,554 768,557 850,555 872,559 998,557 1063,556" />
+                <TextEquiv>
+                    <Unicode>memoria semper seisiti fuerunt de redditu predicto et similiter idem Laurencius seisitus fuit de eodem redditu ut de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_366" custom="readingOrder {index:16;}">
+                <Coords points="33,615 100,615 154,615 235,614 364,606 440,603 581,599 703,598 949,602 1027,601 1027,568 949,569 703,565 581,566 440,570 364,573 235,581 154,582 100,582 33,582" />
+                <Baseline points="33,608 100,608 154,608 235,607 364,599 440,596 581,592 703,591 949,595 1027,594" />
+                <TextEquiv>
+                    <Unicode>libero tenemento suo quousque predictus prior et alii ipsum inde iniuste disseisiuerunt prout paratus est verificare per assisam. Et petit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_388" custom="readingOrder {index:17;}">
+                <Coords points="28,649 107,650 215,649 330,646 505,639 571,637 709,638 852,638 1081,636 1081,603 852,605 709,605 571,604 505,606 330,613 215,616 107,617 28,616" />
+                <Baseline points="28,642 107,643 215,642 330,639 505,632 571,630 709,631 852,631 1081,629" />
+                <TextEquiv>
+                    <Unicode>iudicium si ad cartam predictam necesse habeat respondere etc. Postea predictus Laurencius non est prosecutus. Ideo predicti prior et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_408" custom="readingOrder {index:18;}">
+                <Coords points="34,682 106,682 284,680 446,677 543,673 619,673 809,673 919,676 1009,677 1057,676 1057,643 1009,644 919,643 809,640 619,640 543,640 446,644 284,647 106,649 34,649" />
+                <Baseline points="34,675 106,675 284,673 446,670 543,666 619,666 809,666 919,669 1009,670 1057,669" />
+                <TextEquiv>
+                    <Unicode>alii inde sine die et predictus Laurencius et plegii sui de prosequendo in misericordia scilicet Willelmus Blok et Simon le Reue etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <Coords points="1092,693 -1,693 -1,3 1092,3" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

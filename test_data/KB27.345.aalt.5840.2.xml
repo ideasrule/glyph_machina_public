@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>nw-page-editor</Creator>
+    <Created>2025-05-04T19:34:33Z</Created>
+    <LastChange>2025-05-25T00:06:44Z</LastChange>
+  </Metadata>
+  <Page imageFilename="KB27.345.aalt.5840.2.jpg" imageHeight="885" imageWidth="1013">
+    <TextRegion id="r1">
+      <Coords points="2,1 1010,2 1007,882 4,880"/>
+      <TextLine id="r1_l1">
+        <Coords points="72.3323,27.4197 221.872,21.398 343.325,24.4092 551.469,27.4113 741.175,35.3989 978.651,30.4099 979.116,52.53 740.942,57.5337 550.844,49.5296 342.892,46.5303 222.043,43.534 73.2226,49.5268"/>
+        <Baseline points="73,44 222,38 343,41 551,44 741,52 979,47"/>
+        <TextEquiv>
+          <Unicode>Et predicti Petrus de Clyfford Ricardus de Gummeshale et Johannes de Clyfford quo ad verberationem capiationem </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l2">
+        <Coords points="75.1383,54.4068 195.474,55.4096 277.145,59.3936 340.965,57.3992 415.224,59.4063 469.334,59.4063 618.624,65.4179 761.232,70.4042 903.336,69.4035 987.789,73.425 986.737,95.525 902.888,91.5322 760.923,92.5319 617.792,87.5274 468.889,81.5313 414.925,81.5313 341.012,79.5336 276.952,81.5355 194.842,77.5301 74.9539,76.5311"/>
+        <Baseline points="75,71 195,72 277,76 341,74 415,76 469,76 618,82 761,87 903,86 987,90"/>
+        <TextEquiv>
+          <Unicode>et asportationem bonorum et catallorum predictorum dicunt quod ipsi in nullo sunt culpabiles et de hoc ponunt se super </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l3">
+        <Coords points="81.8093,94.4073 256.113,92.4039 455.56,97.4151 691.483,107.412 817.077,109.405 967.89,108.407 968.037,130.531 816.974,131.532 690.839,129.529 454.813,119.528 255.962,114.532 82.0636,116.531"/>
+        <Baseline points="82,111 256,109 455,114 691,124 817,126 968,125"/>
+        <TextEquiv>
+          <Unicode>patriam etc Et predictus Willelmus Wyke similiter. Et quo ad imprisonamentum etc dicunt quod ipsi </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l4">
+        <Coords points="76.1418,132.407 192.979,133.405 374.143,131.404 586.548,137.415 744.869,143.389 800.914,140.387 986.717,148.422 985.761,170.526 801.029,162.538 745.044,165.537 585.817,159.528 373.952,153.532 193.007,155.532 75.9527,154.531"/>
+        <Baseline points="76,149 193,150 374,148 586,154 745,160 801,157 986,165"/>
+        <TextEquiv>
+          <Unicode>nichil fecerunt contra pacem etc Dicunt enim quod predictus die et anno quibus predictus Willelmus Wyke queritur </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l5">
+        <Coords points="75.1791,167.407 353.09,170.406 511.312,170.406 644.312,175.406 768.94,175.406 908.135,174.405 993.39,176.411 992.87,198.53 907.955,196.532 769.02,197.531 643.896,197.531 510.896,192.531 352.97,192.531 74.9403,189.531"/>
+        <Baseline points="75,184 353,187 511,187 644,192 769,192 908,191 993,193"/>
+        <TextEquiv>
+          <Unicode>predictam transgressionem sibi fieri etc idem Willelmus et quidam Robertus Kirkham Elias Wilde et Johannes Dobyn vi et armis </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l6">
+        <Coords points="75.45,201.47 131.633,206.398 307.906,204.406 509.96,204.406 715.016,203.406 861.349,204.408 1003.58,209.417 1002.81,231.528 860.884,226.531 714.995,225.531 510.013,226.531 308.031,226.531 130.789,228.534 73.5167,223.51"/>
+        <Baseline points="74,218 131,223 308,221 510,221 715,220 861,221 1003,226"/>
+        <TextEquiv>
+          <Unicode>insultum fecerunt in prefatum Episcopum et manus in eum eiecerunt et quendam Johannem Cropeiay garcionem eiusdem </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l7">
+        <Coords points="76.2036,238.408 239.102,240.406 484.928,240.406 715.928,238.406 1001,238.406 1001,260.531 716.024,260.531 485.024,262.531 238.966,262.531 75.9321,260.531"/>
+        <Baseline points="76,255 239,257 485,257 716,255 1001,255"/>
+        <TextEquiv>
+          <Unicode>Episcopi verberaverunt super quo clamor et hutesia levabantur ad quod ballivici constabulare et alii ministri domini </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l8">
+        <Coords points="111.227,259.408 184.227,260.408 183.924,282.531 110.924,281.531"/>
+        <Baseline points="111,276 184,277"/>
+        <TextEquiv>
+          <Unicode>ville predicte</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l9">
+        <Coords points="74.3687,273.41 209.243,276.408 350.992,277.406 475.481,276.41 530.548,273.406 674,273.406 814.905,273.406 988.809,271.407 989.064,293.531 815.032,295.531 674,295.531 531.151,295.531 476.173,298.53 351.003,299.531 208.919,298.531 73.8771,295.53"/>
+        <Baseline points="74,290 209,293 351,294 476,293 531,290 674,290 815,290 989,288"/>
+        <TextEquiv>
+          <Unicode>Regis venerunt ad attachiandum ipsos Willelmum et alios et iidem Willelmus et alii fugierunt in quandam domum </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l10">
+        <Coords points="83.4977,306.474 95.6534,305.369 198.348,310.403 340.942,309.406 432.798,309.406 555.694,306.409 636,305.405 715.86,306.403 817.756,303.406 982,303.406 982,325.531 818.081,325.531 716.047,328.532 636,327.532 556.102,328.53 433.067,331.531 341.019,331.531 197.884,332.532 96.1155,327.544 85.5008,328.509"/>
+        <Baseline points="85,323 96,322 198,327 341,326 433,326 556,323 636,322 716,323 818,320 982,320"/>
+        <TextEquiv>
+          <Unicode>in villa predicta et domum illam vi et armis videlicet gladiis bokelariis et arcubis defenderunt contra ministros </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l11">
+        <Coords points="74.6257,341.418 127.267,343.405 308.954,342.406 484.756,342.406 586.673,339.409 786.001,337.405 983.168,339.407 982.944,361.531 786,359.532 587.109,361.53 485.081,364.531 309.015,364.531 126.911,365.532 73.7914,363.527"/>
+        <Baseline points="74,358 127,360 309,359 485,359 587,356 786,354 983,356"/>
+        <TextEquiv>
+          <Unicode>predictos ut illi qui se paci domini Regis justiciare noluerunt per quod ipsi Petrus Ricardus et Johannes venerunt </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l12">
+        <Coords points="74,379.406 162.154,379.406 270.154,381.406 415.79,381.406 494.663,379.409 625.685,377.409 757.614,374.411 841.875,372.405 957.144,373.407 956.952,395.531 842.042,394.532 758.129,396.53 626.105,399.53 495.112,401.53 416.07,403.531 269.949,403.531 161.949,401.531 74,401.531"/>
+        <Baseline points="74,396 162,396 270,398 416,398 495,396 626,394 758,391 842,389 957,390"/>
+        <TextEquiv>
+          <Unicode>in auxilium ministrorum domini Regis predictorum et predictum Willelmum et alios attachiaverunt quousque se paci domini </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l13">
+        <Coords points="79.1349,414.407 201.998,415.406 322.151,414.404 434.936,417.399 580.243,412.422 650.433,408.412 827.849,406.407 972.886,405.407 973.038,427.531 828.05,428.531 651.189,430.529 581.252,434.526 435.021,439.534 321.95,436.532 202.001,437.531 78.955,436.531"/>
+        <Baseline points="79,431 202,432 322,431 435,434 581,429 651,425 828,423 973,422"/>
+        <TextEquiv>
+          <Unicode>Regis justiciare voluerunt absque hoc quod ipsi prefatum Willelmum Wyke vi et armis et contra pacem etc </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l14">
+        <Coords points="82.2476,446.408 148.626,447.399 198.558,444.403 349.191,445.407 410.302,446.409 459.999,447.403 608.833,444.406 690.765,444.406 796.554,441.412 953.577,437.412 954.141,459.529 797.149,463.529 691.078,466.531 609.056,466.531 460,469.532 409.899,468.53 348.936,467.531 199.147,466.532 149.125,469.534 81.9174,468.531"/>
+        <Baseline points="82,463 149,464 199,461 349,462 410,463 460,464 609,461 691,461 797,458 954,454"/>
+        <TextEquiv>
+          <Unicode>ceperunt aut imprisonaverunt sicut idem Willelmus queritur etc et de hoc ponit se super patriam etc</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l15">
+        <Coords points="82,483.406 165,483.406 221.749,483.406 287.749,481.406 333,481.406 477.849,481.406 532.938,480.405 625.973,481.405 768.884,479.406 982,479.406 982,501.531 769.039,501.531 626.009,503.532 533.021,502.532 478.05,503.531 333,503.531 288.084,503.531 222.084,505.531 165,505.531 82,505.531"/>
+        <Baseline points="82,500 165,500 222,500 288,498 333,498 478,498 533,497 626,498 769,496 982,496"/>
+        <TextEquiv>
+          <Unicode>Et predictus Willelmus Wyke dicit quod predicti Petrus Ricardus et Johannes vi et armis et contra pacem etc de iniuria sua </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l16">
+        <Coords points="80.6614,515.41 129.946,514.404 201.964,515.404 256.577,514.411 317.668,512.408 455.002,511.406 588.062,512.406 742.086,512.406 837.977,513.405 988.78,511.408 989.073,533.531 838.008,535.532 741.971,534.531 587.979,534.531 454.999,533.531 318.111,534.531 257.141,536.53 202.012,537.532 130.018,536.532 81.1129,537.53"/>
+        <Baseline points="81,532 130,531 202,532 257,531 318,529 455,528 588,529 742,529 838,530 989,528"/>
+        <TextEquiv>
+          <Unicode>propria et ab usque aliqua causa pro eo quod idem Willelmus liberasse voluit quandam prohibitionem et inhibitionem domini </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l17">
+        <Coords points="87.8287,548.427 127.013,550.386 188.422,547.415 235.556,546.412 266.874,545.402 384.142,547.406 491.056,547.406 640.17,548.407 785.114,550.406 835.771,550.406 980.542,546.413 981.153,568.529 836.076,572.531 784.962,572.531 639.943,570.531 490.981,569.531 383.953,569.531 267.042,567.533 236.148,568.529 189.193,569.528 126.996,572.538 86.7238,570.524"/>
+        <Baseline points="87,565 127,567 189,564 236,563 267,562 384,564 491,564 640,565 785,567 836,567 981,563"/>
+        <TextEquiv>
+          <Unicode>Regis prefato episcopo etc ipsum Willelmum verberaverunt vulneraverunt et imprisonaverunt sicut ipse queritur Et</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l18">
+        <Coords points="84,582.406 164.247,582.406 197.027,579.426 273.062,577.399 361.08,580.399 442.798,578.406 519.843,578.406 573.14,577.401 657.772,580.423 744.277,585.395 826.375,583.417 942.615,577.455 985.083,572.517 987.639,594.494 944.462,599.515 827.208,605.528 743.908,607.535 656.743,602.526 572.953,599.533 520.052,600.531 443.067,600.531 360.973,602.534 272.979,599.534 198.324,601.525 165.251,604.531 84,604.531"/>
+        <Baseline points="84,599 165,599 198,596 273,594 361,597 443,595 520,595 573,594 657,597 744,602 827,600 944,594 987,589"/>
+        <TextEquiv>
+          <Unicode>hoc paratus est verificare per patriam etc Et Petrus Ricardus et Johannes similiter Ideo veniant unde jurata coram domino </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l19">
+        <Coords points="86,615.406 135.465,615.406 196.666,611.458 228.454,608.382 358.914,612.396 431.749,609.403 524.207,610.408 595.117,611.406 673.427,611.406 771.018,616.437 853.834,622.352 994.487,609.475 996.504,631.508 854.055,644.549 769.661,638.521 672.858,633.531 594.961,633.531 523.931,632.531 432.084,631.532 359.029,634.535 229.182,630.539 198.445,633.514 136.178,637.531 86,637.531"/>
+        <Baseline points="86,632 136,632 198,628 229,625 359,629 432,626 524,627 595,628 673,628 770,633 854,639 996,626"/>
+        <TextEquiv>
+          <Unicode>Rege a die Sancti Michaelis in unum mensem ubicumque etc Et qui nec etc Quia tam etc Ad quem diem coram </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l20">
+        <Coords points="89.1747,642.407 183.495,643.4 225.486,640.401 331.983,641.405 419.03,640.405 484.573,641.398 515.191,639.357 593.743,646.406 678.6,646.406 747.527,651.401 859.57,650.409 951.746,646.445 997.207,641.503 999.598,663.499 953.418,668.518 860.143,672.53 746.824,673.533 677.8,668.531 592.752,668.531 514.936,661.548 485.142,663.534 418.99,662.532 332.006,663.532 226.171,662.533 184.168,665.533 88.9418,664.531"/>
+        <Baseline points="89,659 184,660 226,657 332,658 419,657 485,658 515,656 593,663 678,663 747,668 860,667 953,663 999,658"/>
+        <TextEquiv>
+          <Unicode>domino rege veniunt partes predictos per attornatos suos etc Et vicecomes non misit breve Ideo sicut prius preceptum est vicecomiti </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l21">
+        <Coords points="86.1675,679.508 113.845,676.432 184.763,674.406 226,674.406 336.909,674.406 428.408,673.401 511.143,678.385 604.396,674.374 671.239,680.45 755.176,685.388 887.197,680.425 1005.02,673.435 1006.33,695.522 888.268,702.525 754.941,707.537 669.587,702.517 603.868,696.542 510.952,700.538 427.864,695.533 337.03,696.531 226,696.531 185.079,696.531 115.385,698.523 88.6108,701.497"/>
+        <Baseline points="88,696 115,693 185,691 226,691 337,691 428,690 511,695 604,691 670,697 755,702 888,697 1006,690"/>
+        <TextEquiv>
+          <Unicode>quod venire faciat coram Rege a die Sancti Hillarii in xv dies ubicumque etc xxiiii tam milites etc de visnu predicto</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l22">
+        <Coords points="89.3368,709.419 114.444,708.415 151.288,707.419 185.825,705.388 238.426,707.373 266.463,704.369 337.542,707.372 379.052,703.322 455.061,711.219 486.42,704.359 603.882,707.424 690.667,714.406 730.858,714.406 847.275,712.416 988.834,702.447 990.389,724.518 848.242,734.528 731.047,736.531 689.778,736.531 602.706,729.525 488.527,726.547 456.313,733.594 378.983,725.559 338.153,729.543 267.179,726.544 239.191,729.542 186.058,727.537 152.237,729.527 115.185,730.528 90.2211,731.527"/>
+        <Baseline points="90,726 115,725 152,724 186,722 239,724 267,721 338,724 379,720 456,728 488,721 603,724 690,731 731,731 848,729 990,719"/>
+        <TextEquiv>
+          <Unicode>et qui nec etc ad recognoscendum etc quia tam etc Ad quem diem coram Rege veniunt partes predictos per attornatos suos etc Et</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l23">
+        <Coords points="84.8675,746.929 121.782,737.437 192.628,736.41 258.749,734.406 360.228,734.406 469.299,737.408 587.469,738.41 691.399,743.406 748,743.406 800.502,743.406 865.668,747.356 1003.34,733.49 1005.55,755.503 866.111,769.548 799.833,765.531 748,765.531 690.867,765.531 586.844,760.53 468.9,759.531 359.924,756.531 259.084,756.531 193.124,758.53 124.739,759.521 90.3775,768.357"/>
+        <Baseline points="89,763 124,754 193,753 259,751 360,751 469,754 587,755 691,760 748,760 800,760 866,764 1005,750"/>
+        <TextEquiv>
+          <Unicode>vicecomes non misit breve Ideo sicut pluries preceptum est vicecomiti quod venire faciat coram Rege a die Pasche in tres septimanas </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l24">
+        <Coords points="113.818,754.448 156.209,751.421 239.8,749.406 313.553,749.406 359.104,752.443 357.632,774.519 312.816,771.531 240.067,771.531 157.264,773.526 115.394,776.517"/>
+        <Baseline points="115,771 157,768 240,766 313,766 358,769"/>
+        <TextEquiv>
+          <Unicode>xxiii tam milites etc de visnu predicto</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l25">
+        <Coords points="84.2577,770.423 151.456,767.414 247.917,765.404 340.207,766.408 411.561,767.412 467.334,770.4 541.968,769.405 648.369,770.409 762.558,774.416 854.327,777.376 941.426,767.478 1006.73,762.455 1008.42,784.515 943.525,789.507 855.224,799.541 761.814,796.528 647.877,792.53 542.011,791.532 466.889,792.533 410.813,789.529 339.931,788.531 248.028,787.532 152.181,789.529 85.2474,792.526"/>
+        <Baseline points="85,787 152,784 248,782 340,783 411,784 467,787 542,786 648,787 762,791 855,794 943,784 1008,779"/>
+        <TextEquiv>
+          <Unicode>ubicumque etc etc et qui nec etc ad recognoscendum etc quia tam etc Ad quem diem coram Rege veniunt partes predictos per attornatum suos etc</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l26">
+        <Coords points="120.759,812.453 160.055,809.506 192.063,804.343 256.789,807.425 255.737,829.525 193.312,826.552 162.648,831.498 122.414,834.516"/>
+        <Baseline points="122,829 162,826 193,821 256,824"/>
+        <TextEquiv>
+          <Unicode>xxiiii tam milites etc</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l27">
+        <Coords points="88.1806,803.648 117.933,798.518 156.493,795.474 185.792,792.443 233.891,790.396 268.244,791.406 297.163,791.406 348.163,792.406 388.371,792.406 455.371,795.406 498.114,795.406 526.114,792.406 561.788,792.406 625.074,798.433 711.727,801.421 805.012,806.383 862.161,803.427 962.291,798.471 999.412,792.609 1002.86,814.464 964.57,820.51 863.28,825.524 804.996,828.539 710.758,823.526 623.642,820.522 560.737,814.531 527.295,814.531 499.295,817.531 454.876,817.531 387.876,814.531 347.946,814.531 296.946,813.531 267.919,813.531 234.036,812.535 187.403,814.519 158.502,817.509 120.689,820.494 91.9398,825.451"/>
+        <Baseline points="91,820 120,815 158,812 187,809 234,807 268,808 297,808 348,809 388,809 455,812 499,812 527,809 561,809 624,815 711,818 805,823 863,820 964,815 1002,809"/>
+        <TextEquiv>
+          <Unicode>Et vicecomes non misit breve Ideo sicut pluries preceptum est vicecomiti venire faciat coram domino Rege a die Sancti Michaelis in xv </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l28">
+        <Coords points="98.8316,828.447 184.302,822.414 257.886,821.406 337.88,821.406 406.6,820.41 496.106,817.393 582.866,821.429 651.481,825.406 681,825.406 681,847.531 650.84,847.531 581.711,843.524 495.965,839.536 407.133,842.53 338.04,843.531 258.038,843.531 185.233,844.529 100.389,850.518"/>
+        <Baseline points="100,845 185,839 258,838 338,838 407,837 496,834 582,838 651,842 681,842"/>
+        <TextEquiv>
+          <Unicode>diem ubicumque etc de visnetu predicto et qui nec etc ad recognoscendum etc quia tam etc</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

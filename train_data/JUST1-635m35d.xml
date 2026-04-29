@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>Transkribus</Creator>
+    <Created>2023-11-06T04:43:19.021+01:00</Created>
+    <LastChange>2026-04-21T18:11:05Z</LastChange>
+    <TranskribusMetadata docId="1640070" imageId="49447237" imgUrl="https://files.transkribus.eu/Get?id=SGHDPXETAEOSDGAUZYWPYXOE&amp;fileType=view" pageId="61175335" pageNr="24" status="GT" tsid="138923956" userId="195295" xmlUrl="https://files.transkribus.eu/Get?id=SQESTNMWVLBRVMLKBCLFUIRA"/>
+  </Metadata>
+  <Page imageFilename="JUST1-635m35d.jpeg" imageHeight="277" imageWidth="1123">
+    <ReadingOrder>
+      <OrderedGroup caption="Regions reading order" id="ro_1700697998879">
+        <RegionRefIndexed index="0" regionRef="r"/>
+      </OrderedGroup>
+    </ReadingOrder>
+    <Relations/>
+    <TextRegion custom="readingOrder {index:0;}" id="r">
+      <Coords points="1122,269 1,269 1,-1 1122,-1"/>
+      <TextLine custom="readingOrder {index:0;}" id="l">
+        <Coords points="2,59 445,49 629,45 830,45 1101,40 1101,9 830,14 629,14 445,18 2,30"/>
+        <Baseline points="2,52 445,42 629,38 830,38 1101,33"/>
+        <TextEquiv>
+          <Unicode>a Willelmus de ffilgraue felonice interfecit Iohannem Walram in abbathia sancti Iacobi extra Northamton. anno regni reg. Edwardi patris</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:1;}" id="l_21">
+        <Coords points="1,92 309,87 683,83 896,79 1101,71 1101,40 896,48 683,52 309,56 1,61"/>
+        <Baseline points="1,85 309,80 683,76 896,72 1101,64"/>
+        <TextEquiv>
+          <Unicode>regis nunc tercio, et statim post factum fugit Ideo catalla eius confiscantur pro fuga. Catalla eius .xj. s. viij. d. vnde vicecomes respondeat.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:2;}" id="l_33">
+        <Coords points="2,132 332,125 658,118 903,113 1084,107 1084,76 903,82 658,87 332,94 2,101"/>
+        <Baseline points="2,125 332,118 658,111 903,106 1084,100"/>
+        <TextEquiv>
+          <Unicode>Postea iuratores testantur quod predictus Willelmus captus fuit et liberatus in custodia Iohannis de Wyleby tunc vicecomitis Northamton. Ideo .</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:3;}" id="l_45">
+        <Coords points="8,163 299,159 544,154 792,148 1001,140 1103,137 1103,106 1001,109 792,117 544,123 299,128 8,132"/>
+        <Baseline points="8,156 299,152 544,147 792,141 1001,133 1103,130"/>
+        <TextEquiv>
+          <Unicode>respondeat Robertus filius et heres eiusdem Johannis quo deuenit. etc. Primus inuentor obiit. --- Postea compertum est per</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:4;}" id="l_71">
+        <Coords points="13,195 305,187 726,180 956,172 1097,167 1097,136 956,141 726,149 305,156 13,164"/>
+        <Baseline points="13,188 305,180 726,173 956,165 1097,160"/>
+        <TextEquiv>
+          <Unicode>rotulos coronatoris quod predictus Willelmus a custodia Nicholai de Segraue tunc constabularii castri Northamton felonice euasit. Ideo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:5;}" id="l_83">
+        <Coords points="5,224 271,218 476,214 688,210 869,209 1095,194 1095,163 869,178 688,179 476,183 271,187 5,193"/>
+        <Baseline points="5,217 271,211 476,207 688,203 869,202 1095,187"/>
+        <TextEquiv>
+          <Unicode>ad iudicium de euasione ipsius Willelmi super tenentes terrarum ipsius Nicholai, Et postquam sic euasit captus fuit et ductus ad</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:6;}" id="l_97">
+        <Coords points="11,253 327,247 805,241 805,210 327,216 11,222"/>
+        <Baseline points="11,246 327,240 805,234"/>
+        <TextEquiv>
+          <Unicode>gaolam praedictam et ibidem obiit in prisona prout compertum est per eosdem rotulos coronatoris etc.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

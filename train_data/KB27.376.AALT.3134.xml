@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="https://schema.omnius.com/pagesformat/2020.02.04">
+  <Metadata>
+    <Creator>nw-page-editor</Creator>
+    <Created>2025-05-08T04:09:40Z</Created>
+    <LastChange>2026-02-21T06:00:27Z</LastChange>
+  </Metadata>
+  <Page imageFilename="KB27.376.AALT.3134.jpg" imageHeight="368" imageWidth="1328">
+    <TextRegion id="r1">
+      <Coords points="5,4 1322,6 1319,362 9,364"/>
+      <TextLine id="r1_l1">
+        <Coords points="111.895,22.0386 243.181,17.0276 461.598,13.02 780.715,10.0189 975.928,8.01668 1165.59,9.0202 1306.03,14.0359 1304.66,52.655 1164.8,47.6603 976.024,46.6614 781.095,48.6607 462.134,51.6603 244.273,55.6578 113.368,60.6542"/>
+        <Baseline points="113,51 244,46 462,42 781,39 976,37 1165,38 1305,43"/>
+        <TextEquiv>
+          <Unicode>¶ Preceptum fuit vicecomiti sicut pluries quod venire faceret coram domino Rege ad hunc diem scilicet</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l2">
+        <Coords points="141.196,61.7264 271.094,62.7334 346.39,68.6778 470.097,62.7399 640.79,58.7236 786.998,59.732 883.774,66.7158 1159.86,63.7257 1299,63.7257 1299,97.4246 1160.05,97.4246 882.742,100.428 785.667,93.4226 641.07,92.4253 471.301,96.4199 345.87,102.441 269.635,96.4221 140.935,95.4244"/>
+        <Baseline points="141,87 270,88 346,94 471,88 641,84 786,85 883,92 1160,89 1299,89"/>
+        <TextEquiv>
+          <Unicode>in Octabis Sancte Trinitate ubicumque etc xxiii etc de visneto de Bedeford per quos etc </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l3">
+        <Coords points="127,110.96 161,110.96 229.142,110.96 330.425,111.953 512.218,102.963 739.321,101.958 852.073,104.952 945.282,102.947 1116.59,109.96 1320,109.96 1320,148.68 1115.8,148.68 944.906,141.684 851.976,143.683 738.893,140.681 513.261,141.679 331.192,150.682 228.953,149.68 161,149.68 127,149.68"/>
+        <Baseline points="127,140 161,140 229,140 331,141 513,132 739,131 852,134 945,132 1116,139 1320,139"/>
+        <TextEquiv>
+          <Unicode>et qui Johannem de Crokhill nulla affirmitate etc Ad recognoscendum etc si predictus Johannes culpabilis </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l4">
+        <Coords points="123.385,156.571 337.442,159.572 446.397,161.553 639.667,149.536 772.409,154.564 895.889,153.568 1043.58,153.568 1162.67,158.572 1302.2,159.569 1301.93,196.145 1161.78,195.144 1042.81,190.145 896.037,190.145 771.864,191.147 640.111,186.156 447.201,198.15 336.853,196.144 122.872,193.144"/>
+        <Baseline points="123,184 337,187 447,189 640,177 772,182 896,181 1043,181 1162,186 1302,187"/>
+        <TextEquiv>
+          <Unicode>sit de quibusdam feloniam Unde coram domino Rege indicatus est nec ne et vicecomes non</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l5">
+        <Coords points="130.762,202.507 428.854,210.483 562.659,205.527 668.414,199.484 794.353,201.499 908.261,202.498 1013.31,203.498 1180.46,205.5 1279.58,207.503 1278.81,245.499 1179.85,243.5 1012.9,241.501 907.913,240.501 793.882,239.5 669.195,237.505 564.447,243.491 429.049,248.506 129.746,240.498"/>
+        <Baseline points="130,231 429,239 564,234 669,228 794,230 908,231 1013,232 1180,234 1279,236"/>
+        <TextEquiv>
+          <Unicode>misit breve Ideo preceptum est vicecomiti sicut pluries quod venire faciat coram domino Rege</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l6">
+        <Coords points="131.44,259.157 253.585,261.159 399.568,265.132 500.088,259.16 732.468,257.157 990.993,249.141 1187.68,255.131 1260.55,251.193 1262.48,286.934 1188.11,290.955 991.002,284.951 733.177,292.946 501.304,294.945 400.144,300.954 252.805,296.945 130.853,294.946"/>
+        <Baseline points="131,286 253,288 400,292 501,286 733,284 991,276 1188,282 1262,278"/>
+        <TextEquiv>
+          <Unicode>in Octabis Sancti Michaelis ubicumque etc xxiii etc de visneto predicto per quos et qui etc ad</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l7">
+        <Coords points="133.45,318.824 294.45,321.824 293.85,354.059 132.85,351.059"/>
+        <Baseline points="133,343 294,346"/>
+        <TextEquiv>
+          <Unicode>recognoscendum etc</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

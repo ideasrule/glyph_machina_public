@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>Transkribus</Creator>
+    <Created>2023-12-31T04:42:56.625+01:00</Created>
+    <LastChange>2026-04-21T20:08:14Z</LastChange>
+    <TranskribusMetadata docId="1640070" imageId="50944703" imgUrl="https://files.transkribus.eu/Get?id=IOJTWJSQYALGDGFHCPPPNSPH&amp;fileType=view" pageId="63020752" pageNr="10" status="FINAL" tsid="144213968" userId="195295" xmlUrl="https://files.transkribus.eu/Get?id=QCJRMEEQLPYSHABCQURRSXON"/>
+  </Metadata>
+  <Page imageFilename="JUST1-633m32.jpeg" imageHeight="606" imageWidth="1086">
+    <ReadingOrder>
+      <OrderedGroup caption="Regions reading order" id="ro_1704262310402">
+        <RegionRefIndexed index="0" regionRef="r"/>
+      </OrderedGroup>
+    </ReadingOrder>
+    <Relations/>
+    <TextRegion custom="readingOrder {index:0;}" id="r">
+      <Coords points="1079,602 8,602 8,8 1079,8"/>
+      <TextLine custom="readingOrder {index:0;}" id="l">
+        <Coords points="20,63 114,61 272,60 480,54 781,45 916,44 1046,44 1046,17 916,17 781,18 480,27 272,33 114,34 20,36"/>
+        <Baseline points="20,57 114,55 272,54 480,48 781,39 916,38 1046,38"/>
+        <TextEquiv>
+          <Unicode>Alicia que fuit vxor Iohannis de Burcote petit versus Scolasticam que fuit vxor Godefridi the Mewes duas solidatas et octo </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:1;}" id="l_25">
+        <Coords points="23,89 114,89 269,85 403,86 579,79 729,78 1001,76 1066,76 1066,49 1001,49 729,51 579,52 403,59 269,58 114,62 23,62"/>
+        <Baseline points="23,83 114,83 269,79 403,80 579,73 729,72 1001,70 1066,70"/>
+        <TextEquiv>
+          <Unicode>denarratas redditus et duas partes vnius mesuagii cum pertinenciis in Gayton et versus Willelmum Louel chiualer et Margeriam </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:2;}" id="l_43">
+        <Coords points="28,120 194,115 314,113 386,112 454,110 635,109 787,106 954,106 986,107 1030,107 1055,107 1055,80 1030,80 986,80 954,79 787,79 635,82 454,83 386,85 314,86 194,88 28,93"/>
+        <Baseline points="28,114 194,109 314,107 386,106 454,104 635,103 787,100 954,100 986,101 1030,101 1055,101"/>
+        <TextEquiv>
+          <Unicode>vxorem eius sexdecim denarratas redditus et terciam partem vnius mesuagii cum pertinencis in eadem villa quas clamat tenere</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:3;}" id="l_80">
+        <Coords points="29,149 83,148 234,141 356,137 453,139 561,136 588,137 654,138 836,136 1057,138 1057,111 836,109 654,111 588,110 561,109 453,112 356,110 234,114 83,121 29,122"/>
+        <Baseline points="29,143 83,142 234,135 356,131 453,133 561,130 588,131 654,132 836,130 1057,132"/>
+        <TextEquiv>
+          <Unicode>sibi et heredibus de corpore suo et corpore predicti Iohannis quondam viri sui exeuntibus ex dimissione Sibille de Gayton et </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:4;}" id="l_102">
+        <Coords points="31,176 109,174 150,174 278,169 394,167 517,168 674,166 799,168 895,166 1037,169 1037,142 895,139 799,141 674,139 517,141 394,140 278,142 150,147 109,147 31,149"/>
+        <Baseline points="31,170 109,168 150,168 278,163 394,161 517,162 674,160 799,162 895,160 1037,163"/>
+        <TextEquiv>
+          <Unicode>in quas jdem Scolastica Willelmus et Margeria non habent ingressum nisi post dimissionem quam predictus Iohannes quondam vir ipsius </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:5;}" id="l_124">
+        <Coords points="31,206 126,204 346,197 500,196 685,199 810,202 1047,203 1047,176 810,175 685,172 500,169 346,170 126,177 31,179"/>
+        <Baseline points="31,200 126,198 346,191 500,190 685,193 810,196 1047,197"/>
+        <TextEquiv>
+          <Unicode>Alicie cui ipsa in vita sua contradicere non potuit inde fecit Philippo de Gayton. Et vnde eadem Alicia dicit quod predictus </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:6;}" id="l_140">
+        <Coords points="28,238 119,233 231,228 349,226 501,225 704,227 886,232 1051,236 1051,209 886,205 704,200 501,198 349,199 231,201 119,206 28,211"/>
+        <Baseline points="28,232 119,227 231,222 349,220 501,219 704,221 886,226 1051,230"/>
+        <TextEquiv>
+          <Unicode>Iohannes quondam vir suus et ipsa seisiti fuerunt de predictis tenementis vt de feodo et de iure etc. per formam donacionis etc. tempore pacis </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:7;}" id="l_158">
+        <Coords points="29,263 122,261 267,257 426,255 595,254 754,260 891,262 1043,265 1043,238 891,235 754,233 595,227 426,228 267,230 122,234 29,236"/>
+        <Baseline points="29,257 122,255 267,251 426,249 595,248 754,254 891,256 1043,259"/>
+        <TextEquiv>
+          <Unicode>tempore domini E. regis aui domini regis nune capiendo inde expletia ad valenciam etc. et in quas etc. Et inde producit </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:8;}" id="l_176">
+        <Coords points="28,291 127,290 127,263 28,264"/>
+        <Baseline points="28,285 127,284"/>
+        <TextEquiv>
+          <Unicode>sectam etc.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:9;}" id="l_198">
+        <Coords points="424,292 542,294 660,297 660,270 542,267 424,265"/>
+        <Baseline points="423,284 537,285 660,288"/>
+        <TextEquiv>
+          <Unicode>quo ad tenementa versus eam petita	 </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:10;}" id="l_182">
+        <Coords points="17,319 150,315 327,316 507,317 682,320 827,326 1037,332 1037,305 827,299 682,293 507,290 327,289 150,288 17,292"/>
+        <Baseline points="17,313 150,309 327,310 507,311 682,314 827,320 1037,326"/>
+        <TextEquiv>
+          <Unicode>Et Scolastica et alii veniunt et predicta Scolastica defendit jus suum quando etc. et dicit quod predicta Alicia nichil uris clamare</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:11;}" id="l_206">
+        <Coords points="23,343 160,339 323,341 462,344 619,349 767,353 921,358 1041,364 1041,337 921,331 767,326 619,322 462,317 323,314 160,312 23,316"/>
+        <Baseline points="23,337 160,333 323,335 462,338 619,343 767,347 921,352 1041,358"/>
+        <TextEquiv>
+          <Unicode>potest in tenementis illis. Quia dicit quod cum predicta Alicia per breue suum supponitpredictam Sibillam dimisisse predicta tenementa versus </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:12;}" id="l_224">
+        <Coords points="21,370 184,368 349,368 494,371 609,377 779,381 913,385 1048,394 1048,367 913,358 779,354 609,350 494,344 349,341 184,341 21,343"/>
+        <Baseline points="21,364 184,362 349,362 494,365 609,371 779,375 913,379 1048,388"/>
+        <TextEquiv>
+          <Unicode>eam petita predicto Iohanni quondam viro etc. et predicte Alicie et heredibus de corporibus suis exeuntibus eadem Alicia nunquam aliquid </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:13;}" id="l_242">
+        <Coords points="21,397 217,393 455,400 677,410 796,411 915,416 1053,424 1053,397 915,389 796,384 677,383 455,373 217,366 21,370"/>
+        <Baseline points="21,391 217,387 455,394 677,404 796,405 915,410 1053,418"/>
+        <TextEquiv>
+          <Unicode>habuit in eisdem tenementis --- nisi vt vxor ipsius Iohannis. Et de hoc ponit se super patriam. Et predicta </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:14;}" id="l_258">
+        <Coords points="23,425 215,426 353,428 538,431 597,438 699,439 822,444 941,448 1049,454 1049,427 941,421 822,417 699,412 597,411 538,404 353,401 215,399 23,398"/>
+        <Baseline points="23,419 215,420 353,422 538,425 597,432 699,433 822,438 941,442 1049,448"/>
+        <TextEquiv>
+          <Unicode>Alicia similiter. Ideo preceptum est vicecomiti quod venire faciat hic die Mercurii proxima post festum Sancti Hillarii . xij. per quos etc. Et qui </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:15;}" id="l_278">
+        <Coords points="21,454 129,456 318,456 468,459 676,469 853,474 1036,480 1036,453 853,447 676,442 468,432 318,429 129,429 21,427"/>
+        <Baseline points="21,448 129,450 318,450 468,453 679,461 861,466 1036,474"/>
+        <TextEquiv>
+          <Unicode>nec etc. ad recognoscendum etc. Quia tam etc. Postea ad diem illum veniunt partes predicte et similiter Iuratores qui dicunt super</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:16;}" id="l_294">
+        <Coords points="20,487 137,486 282,487 418,489 626,496 708,501 837,500 952,504 1055,511 1055,484 952,477 837,473 708,474 626,469 418,462 282,460 137,459 20,460"/>
+        <Baseline points="20,481 137,480 282,481 418,483 626,490 708,495 837,494 952,498 1055,505"/>
+        <TextEquiv>
+          <Unicode>sacramentum suum quod predicta Sibilla de Gayton dimisit predicta tenementa cum pertinenciis predicto Iohanni de Burcote quondam </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:17;}" id="l_314">
+        <Coords points="16,521 119,518 247,517 415,520 579,525 709,526 779,532 933,536 1064,542 1064,515 933,509 779,505 709,499 579,498 415,493 247,490 119,491 16,494"/>
+        <Baseline points="16,515 119,512 247,511 415,514 579,519 709,520 779,526 933,530 1064,536"/>
+        <TextEquiv>
+          <Unicode>viro ipsius Alicie et ipsi Alicie tenenda sibi et heredibus de corporibus suis exeuntibus sicut predicta Alicia </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:18;}" id="l_334">
+        <Coords points="18,556 142,549 280,550 465,556 588,564 713,563 742,567 887,571 1071,574 1071,547 887,544 742,540 713,536 588,537 465,529 280,523 142,522 18,529"/>
+        <Baseline points="18,550 142,543 280,544 465,550 588,558 713,557 747,558 884,564 1071,568"/>
+        <TextEquiv>
+          <Unicode>per breue suum supponit. Ideo consideratum est quod predicta Alicia recuperet inde seisinam suam versus predictam </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:19;}" id="l_354">
+        <Coords points="18,592 153,583 242,583 358,588 491,590 491,563 358,561 242,556 153,556 18,565"/>
+        <Baseline points="18,586 153,577 242,577 358,582 491,584"/>
+        <TextEquiv>
+          <Unicode>Scolasticam. Et predicta Scolastica in misericordia etc.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

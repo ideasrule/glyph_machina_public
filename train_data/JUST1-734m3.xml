@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-11-20T21:52:04.682+01:00</Created>
+        <LastChange>2023-11-20T21:57:54.675+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="61667297" pageNr="5" tsid="140246767" status="GT" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=DFVEDGVCTVYAMXAMYTFGNQEF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LIWIDNPXDBWTSVHQNZURJGUR" imageId="49850876" />
+    </Metadata>
+    <Page imageFilename="JUST1-734m3.jpeg" imageWidth="954" imageHeight="452">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1700697992942" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1,47 125,48 392,47 589,53 754,50 934,49 934,16 754,17 589,20 392,14 125,15 1,14" />
+                <Baseline points="1,40 125,41 392,40 589,46 754,43 934,42" />
+                <TextEquiv>
+                    <Unicode>¶ Odo de Hodenet. Radulfus de Araz. Johannes filius Philippi et Gilbertus de Buckenhulle quatuor milites summoniti ad eligendum xii.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_22" custom="readingOrder {index:1;}">
+                <Coords points="18,81 175,83 318,81 416,83 571,83 734,86 939,85 939,52 734,53 571,50 416,50 318,48 175,50 18,48" />
+                <Baseline points="18,74 175,76 318,74 416,76 571,76 734,79 939,78" />
+                <TextEquiv>
+                    <Unicode>etc. ad faciendum recognicionem magne assise summonite inter Radulfum le Butiller et Matillidem uxorem ejus petentes et Willelmum del Ake tenentem de septem </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_38" custom="readingOrder {index:2;}">
+                <Coords points="14,113 144,115 330,113 476,118 643,122 795,122 942,122 942,89 795,89 643,89 476,85 330,80 144,82 14,80" />
+                <Baseline points="14,106 144,108 330,106 476,111 643,115 795,115 942,115" />
+                <TextEquiv>
+                    <Unicode>acris bosci cum pertinenciis in Wemme et unde idem Willelmus qui tenens est posuit se in magnam assisam domini regis et peciit recognicionem </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_54" custom="readingOrder {index:3;}">
+                <Coords points="14,146 205,145 318,148 444,151 572,155 737,154 868,158 940,160 940,127 868,125 737,121 572,122 444,118 318,115 205,112 14,113" />
+                <Baseline points="14,139 205,138 318,141 444,144 572,148 737,147 868,151 940,153" />
+                <TextEquiv>
+                    <Unicode>fieri utrum ipse majus jus habeat in predicto bosco. an predicti Radulfus et Matillis venerunt et elegerunt istos. scilicet Radulfum de Arraz. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_72" custom="readingOrder {index:4;}">
+                <Coords points="2,182 114,181 268,185 391,186 537,187 710,193 876,193 947,196 947,163 876,160 710,160 537,154 391,153 268,152 114,148 2,149" />
+                <Baseline points="2,175 114,174 268,178 391,179 537,180 710,186 876,186 947,189" />
+                <TextEquiv>
+                    <Unicode>Stephanum de Buterlegh. Gilbertum de Bukenhull. Willelmum de Lechton. Thomam de Constantin. Petrum de Myneton. Rogerum Bar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_90" custom="readingOrder {index:5;}">
+                <Coords points="15,219 165,220 348,223 546,225 738,231 857,230 857,197 738,198 546,192 348,190 165,187 15,186" />
+                <Baseline points="15,212 165,213 348,216 546,218 738,224 857,223" />
+                <TextEquiv>
+                    <Unicode>Dolf. Galfridum le Poer. Johannem de Arundel. Maddocum de Sutton. Johannem filium Stephani et Willelmum de Furches.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_104" custom="readingOrder {index:6;}">
+                <Coords points="4,255 155,256 285,259 424,264 548,268 711,268 847,267 948,272 948,239 847,234 711,235 548,235 424,231 285,226 155,223 4,222" />
+                <Baseline points="4,248 155,249 285,252 424,257 548,261 711,261 847,260 948,265" />
+                <TextEquiv>
+                    <Unicode>¶ Postea concordati sunt. Et Willelmus dat i marcam pro licencia concordandi per plegium ipsius Radulfi. Et est concordia talis quod predictus Willelmus recognovit pre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_122" custom="readingOrder {index:7;}">
+                <Coords points="15,289 102,289 249,292 400,294 498,303 598,302 763,304 945,305 945,272 763,271 598,269 498,270 400,261 249,259 102,256 15,256" />
+                <Baseline points="15,282 102,282 249,285 400,287 498,296 598,295 763,297 945,298" />
+                <TextEquiv>
+                    <Unicode>dictum boscum cum pertinenciis esse jus predicte Matillidis et illum ei reddit predictis Radulfo et Matillidi et remisit et quietum clamavit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_140" custom="readingOrder {index:8;}">
+                <Coords points="21,323 113,329 267,327 359,328 459,335 575,339 712,336 939,342 939,309 712,303 575,306 459,302 359,295 267,294 113,296 21,290" />
+                <Baseline points="21,316 113,322 267,320 359,321 459,328 575,332 712,329 939,335" />
+                <TextEquiv>
+                    <Unicode>de se et heredibus suis predictis Radulfo et Matillidi et heredibus ipsius Matillidis inperpetuum. Et pro hac et recognicione etc. predicti Radulfus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_158" custom="readingOrder {index:9;}">
+                <Coords points="23,360 163,366 363,368 513,373 611,380 719,380 776,374 864,373 944,377 944,344 864,340 776,341 719,347 611,347 513,340 363,335 163,333 23,327" />
+                <Baseline points="23,353 163,359 363,361 513,366 611,373 719,373 776,367 864,366 944,370" />
+                <TextEquiv>
+                    <Unicode>et Matillis dabunt predicto Willelmo quinque marcas argenti de quibus ei solvent meditatem ad mediam quadragesimam </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_178" custom="readingOrder {index:10;}">
+                <Coords points="24,397 220,402 399,407 537,411 682,417 811,415 930,415 930,382 811,382 682,384 537,378 399,374 220,369 24,364" />
+                <Baseline points="24,390 220,395 399,400 537,404 682,410 811,408 930,408" />
+                <TextEquiv>
+                    <Unicode>anno xo et alteram meditatem ultimo die Maii anno eodem. Et nisi fecerit concedit quod vicecomes faciat </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_194" custom="readingOrder {index:11;}">
+                <Coords points="23,430 97,437 150,440 150,407 97,404 23,397" />
+                <Baseline points="23,423 97,430 150,433" />
+                <TextEquiv>
+                    <Unicode>de terris etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <Coords points="946,449 1,450 1,2 952,2" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

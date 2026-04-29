@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-11-09T18:16:21.590+01:00</Created>
+        <LastChange>2023-11-20T23:07:18.214+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="61322227" pageNr="13" tsid="140253272" status="GT" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=PWFDDDLJBLKPFNCNPDGGSVBZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EKXFJXASNBSEVDNABELFUPCY" imageId="49575944" />
+    </Metadata>
+    <Page imageFilename="JUST1-635m89.jpeg" imageWidth="1130" imageHeight="740">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1700697995019" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="7,44 190,46 397,54 586,65 762,77 938,78 1092,77 1092,45 938,46 762,45 586,33 397,22 190,14 7,12" />
+                <Baseline points="7,37 190,39 397,47 586,58 762,70 938,71 1092,70" />
+                <TextEquiv>
+                    <Unicode>Thomas le Corour de Knottyngg captus per appellum Galfridi de Wodhulle probatoris et clerici conuicti </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_25" custom="readingOrder {index:1;}">
+                <Coords points="27,72 159,79 343,88 488,95 668,102 808,112 919,113 1109,109 1109,77 919,81 808,80 668,70 488,63 343,56 159,47 27,40" />
+                <Baseline points="27,65 159,72 343,81 488,88 668,95 808,105 919,106 1109,102" />
+                <TextEquiv>
+                    <Unicode>de o quod idem Thomas ipsum probatorem receptauit et quendam Iohannem filium Philippi le Longe de Rothewell similiter </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_43" custom="readingOrder {index:2;}">
+                <Coords points="22,110 197,117 357,122 515,130 684,139 772,144 832,147 1106,142 1106,110 832,115 772,112 684,107 515,98 357,90 197,85 22,78" />
+                <Baseline points="22,103 197,110 357,115 515,123 684,132 772,137 832,140 1106,135" />
+                <TextEquiv>
+                    <Unicode>probatorem et clericum conuictum et emit ab eis duas vaccas et sex bouiculos pro .xxx. solidis vnde idem Galfridus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_61" custom="readingOrder {index:3;}">
+                <Coords points="24,147 211,156 423,159 604,168 852,182 1111,176 1111,144 852,150 604,136 423,127 211,124 24,115" />
+                <Baseline points="24,140 211,149 423,152 604,161 852,175 1111,169" />
+                <TextEquiv>
+                    <Unicode>habuit .xilij. solidos sciens predicta aueria esse furata.  -- et de eo quod dem Thomas parcum comitis Lancastrie de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_121" custom="readingOrder {index:4;}">
+                <Coords points="153,169 283,174 418,177 529,180 682,186 682,154 529,148 418,145 283,142 153,137" />
+                <Baseline points="153,162 283,167 418,170 529,173 682,179" />
+                <TextEquiv>
+                    <Unicode>die Dominica proxima ante festum Sancti Dunstani anno regni regis nunc tercio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_75" custom="readingOrder {index:5;}">
+                <Coords points="28,188 171,190 322,196 497,199 803,212 999,211 1104,208 1104,176 999,179 803,180 497,167 322,164 171,158 28,156" />
+                <Baseline points="28,181 171,183 322,189 497,192 803,205 999,204 1104,201" />
+                <TextEquiv>
+                    <Unicode>Hegham Ferers fregit et num bouiculum lordani le Mareschal precil .v. solidorum inuentum in eodem felonice furatus fuit, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_91" custom="readingOrder {index:6;}">
+                <Coords points="25,225 262,228 392,235 629,241 870,250 1094,246 1094,214 870,218 629,209 392,203 262,196 25,193" />
+                <Baseline points="25,218 262,221 392,228 629,234 870,243 1094,239" />
+                <TextEquiv>
+                    <Unicode>et eciam num bouiculum Henrici Pentyn precii .v. solidorum in eodem parco inuentum felonice furatus fuit -- et similiter </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_105" custom="readingOrder {index:7;}">
+                <Coords points="18,263 178,262 326,274 543,274 707,280 921,283 1110,279 1110,247 921,251 707,248 543,242 326,242 178,230 18,231" />
+                <Baseline points="18,256 178,255 326,267 543,267 707,273 921,276 1110,272" />
+                <TextEquiv>
+                    <Unicode>vnam vaccam Iohannis le Selereresman et vnam vaccam Ricardi de Bodenho in dicto parco inuentas furatus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_133" custom="readingOrder {index:8;}">
+                <Coords points="26,296 202,301 398,311 600,313 811,317 1028,315 1101,313 1101,281 1028,283 811,285 600,281 398,279 202,269 26,264" />
+                <Baseline points="26,289 202,294 398,304 600,306 811,310 1028,308 1101,306" />
+                <TextEquiv>
+                    <Unicode>fut et abduxit, nde indictatus est coram iusticiariis hic etc., venit et allocutus qualiter se velit de feloniis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_151" custom="readingOrder {index:9;}">
+                <Coords points="29,333 251,341 449,347 657,350 959,350 1079,348 1079,316 959,318 657,318 449,315 251,309 29,301" />
+                <Baseline points="29,326 251,334 449,340 657,343 959,343 1079,341" />
+                <TextEquiv>
+                    <Unicode>predictis acquietare defendit omnem vim, feloniam, et quicquid est contra pacem etc. et quod in nullo est inde </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_165" custom="readingOrder {index:10;}">
+                <Coords points="33,373 180,373 376,380 509,382 663,386 843,386 1018,384 1094,382 1094,350 1018,352 843,354 663,354 509,350 376,348 180,341 33,341" />
+                <Baseline points="33,366 180,366 376,373 509,375 663,379 843,379 1018,377 1094,375" />
+                <TextEquiv>
+                    <Unicode>culpabilis de bono et malo ponit se super patriam. Et iuratores hundredi de Hegham dicunt super sacramentum sum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_183" custom="readingOrder {index:11;}">
+                <Coords points="32,411 221,413 406,417 637,420 812,424 1005,421 1101,420 1101,388 1005,389 812,392 637,388 406,385 221,381 32,379" />
+                <Baseline points="32,404 221,406 406,410 637,413 812,417 1005,414 1101,413" />
+                <TextEquiv>
+                    <Unicode>quod predictus Thomas culpabilis est de predictis latrociniis sibi impositis. Ideo ipse etc. Catalla eius .lij. s. .ij. d., vnde </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_201" custom="readingOrder {index:12;}">
+                <Coords points="27,446 144,450 261,453 448,455 646,456 857,458 1111,454 1111,422 857,426 646,424 448,423 261,421 144,418 27,414" />
+                <Baseline points="27,439 144,443 261,446 448,448 646,449 857,451 1111,447" />
+                <TextEquiv>
+                    <Unicode>vicecomes respondeat. Idem Thomas habuit terram, scilicet vnum mesuagium et vnam acram terre in Knottyng in comitatu Bedeford </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_217" custom="readingOrder {index:13;}">
+                <Coords points="29,484 197,484 385,489 661,491 741,493 828,492 1004,489 1111,488 1111,456 1004,457 828,460 741,461 661,459 385,457 197,452 29,452" />
+                <Baseline points="29,477 197,477 385,482 661,484 741,486 828,485 1004,482 1111,481" />
+                <TextEquiv>
+                    <Unicode>que valent per annum .ij. s., vnde vicecomes Bedeford respondeat. Et de vasto terre eiusdem . Xx. S., vnde idem vicecomes Bedeford respondeat. Idem </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_251" custom="readingOrder {index:14;}">
+                <Coords points="125,498 229,499 267,500 267,468 229,467 125,466" />
+                <Baseline points="125,491 229,492 267,493" />
+                <TextEquiv>
+                    <Unicode>vnam dimidiam acram</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_235" custom="readingOrder {index:15;}">
+                <Coords points="18,516 146,518 298,519 515,523 768,527 936,520 1094,525 1094,493 936,488 768,495 515,491 298,487 146,486 18,484" />
+                <Baseline points="18,509 146,511 298,512 515,516 768,520 936,513 1094,518" />
+                <TextEquiv>
+                    <Unicode>Thomas habuit terre apud Newton in comitatu isto que valet per annum .vj. d., nde vicecomes istius comitatus respondeat. Et nichil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_259" custom="readingOrder {index:16;}">
+                <Coords points="24,548 124,549 190,551 308,554 446,556 551,557 740,559 925,555 1107,555 1107,523 925,523 740,527 551,525 446,524 308,522 190,519 124,517 24,516" />
+                <Baseline points="24,541 124,542 190,544 308,547 446,549 551,550 740,552 925,548 1107,548" />
+                <TextEquiv>
+                    <Unicode>de exitibus medii temporis quia infra annum etc. Postea testatum est per iuratores quod predicts Thomas habit quinque solidatas </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_279" custom="readingOrder {index:17;}">
+                <Coords points="18,585 166,587 348,588 533,591 753,590 990,586 1083,586 1083,554 990,554 753,558 533,559 348,556 166,555 18,553" />
+                <Baseline points="18,578 166,580 348,581 533,584 753,583 990,579 1083,579" />
+                <TextEquiv>
+                    <Unicode>redditus per annum in villa de Ocle in comitatu Bedford, vnde vicecomes Bedford respondeat. Et eciam testatum est per eosdem quod predictus Thomas </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_295" custom="readingOrder {index:18;}">
+                <Coords points="20,619 170,617 332,620 534,622 711,620 778,620 860,619 1000,617 1097,615 1097,583 1000,585 860,587 778,588 711,588 534,590 332,588 170,585 20,587" />
+                <Baseline points="20,612 170,610 332,613 534,615 711,613 778,613 860,612 1000,610 1097,608" />
+                <TextEquiv>
+                    <Unicode>habit terram in eadem villa et plura catalla que regi etc. Ideo preceptum est vicecomiti Bedford quod per sacramentum etc. diligenter inquirat </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_315" custom="readingOrder {index:19;}">
+                <Coords points="16,645 247,648 520,652 752,653 951,649 1088,645 1088,613 951,617 752,621 520,620 247,616 16,613" />
+                <Baseline points="16,638 247,641 520,645 752,646 951,642 1088,638" />
+                <TextEquiv>
+                    <Unicode>que bona etc. et inquisicionem etc. habeat coram iusticiariis hic etc. die Mercurii proxima post festum Sancte Katerine virginis sub </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_331" custom="readingOrder {index:20;}">
+                <Coords points="15,676 231,681 450,681 683,681 849,682 995,677 1097,674 1097,642 995,645 849,650 683,649 450,649 231,649 15,644" />
+                <Baseline points="15,669 231,674 450,674 683,674 849,675 995,670 1097,667" />
+                <TextEquiv>
+                    <Unicode>sigillo suo et sigillis etc. Idem Thomas habuit plura catalla, videlicet .rij. S., vnde Thomas Wake vicecomes respondeat. Postea</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_347" custom="readingOrder {index:21;}">
+                <Coords points="12,703 127,703 246,706 408,706 622,706 810,706 964,702 1099,702 1099,670 964,670 810,674 622,674 408,674 246,674 127,671 12,671" />
+                <Baseline points="12,696 127,696 246,699 408,699 622,699 810,699 964,695 1099,695" />
+                <TextEquiv>
+                    <Unicode>venit Ricardus Chamberleyn capitalis dominus predicte dimidie acre terre que fuit predicti Thome in Newton et fecit finem cum domino rege pro </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_365" custom="readingOrder {index:22;}">
+                <Coords points="15,724 130,728 298,732 471,732 658,732 720,732 720,700 658,700 471,700 298,700 130,696 15,692" />
+                <Baseline points="15,717 130,721 298,725 471,725 658,725 720,725" />
+                <TextEquiv>
+                    <Unicode>ingress habendo in eadem per .xij. denarios. Et dictum est vicecomiti quod amoueat manum etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <Coords points="1118,740 6,741 6,4 1121,4" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

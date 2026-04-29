@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-01-09T21:00:52.208+01:00</Created>
+        <LastChange>2024-01-09T21:04:54.151+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="63215799" pageNr="2" tsid="144719009" status="FINAL" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=GPKCOUTMLEQKAZGTDGQCAWFF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KYIWAFZCKWNNPRIBMHTULMCM" imageId="51118254" />
+    </Metadata>
+    <Page imageFilename="norw6.jpg" imageWidth="1126" imageHeight="216">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1708823410184" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="12,36 84,37 169,36 257,40 399,44 486,48 589,53 634,57 734,58 824,59 864,60 881,64 948,64 1020,63 1049,61 1116,60 1116,45 1048,46 1019,48 948,49 883,49 866,45 824,44 734,43 635,42 590,38 487,33 400,29 258,25 169,21 84,22 12,21" />
+                <Baseline points="12,36 84,37 169,36 257,40 399,44 486,48 589,53 634,57 734,58 824,59 864,60 881,64 948,64 1020,63 1049,61 1116,60" />
+                <TextEquiv>
+                    <Unicode>denarios quos de herbagio ibidem et xv solidos quos de amerciamentis hominum percepit prefato episcopo virtute mandati</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_44" custom="readingOrder {index:1;}">
+                <Coords points="20,80 76,80 184,80 299,81 376,85 468,91 534,95 640,101 698,102 764,106 787,110 858,112 917,110 977,107 988,110 1058,106 1057,91 990,95 979,92 916,95 858,97 788,95 766,91 699,87 641,86 535,80 469,76 377,70 299,66 184,65 76,65 20,65" />
+                <Baseline points="20,80 76,80 184,80 299,81 376,85 468,91 534,95 640,101 698,102 764,106 787,110 858,112 917,110 977,107 988,110 1058,106" />
+                <TextEquiv>
+                    <Unicode>nostri predicti liberavit, vos nichilominus summas predictas prefato Willelmo in compoto suo ad dictam scaccariam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_78" custom="readingOrder {index:2;}">
+                <Coords points="16,125 91,125 178,125 275,126 322,127 344,128 381,135 442,136 505,138 557,143 596,146 623,145 709,152 753,154 840,159 918,160 981,161 1019,154 1074,155 1074,140 1018,139 980,146 918,145 841,144 754,139 710,137 623,130 596,131 558,128 506,123 442,121 383,120 346,113 322,112 275,111 178,110 91,110 16,110" />
+                <Baseline points="16,125 91,125 178,125 275,126 322,127 344,128 381,135 442,136 505,138 557,143 596,146 623,145 709,152 753,154 840,159 918,160 981,161 1019,154 1074,155" />
+                <TextEquiv>
+                    <Unicode>allocare distulisti et adhuc differtis in ipsius WillelmI dampnum non modicum et gravamen, nos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_118" custom="readingOrder {index:3;}">
+                <Coords points="14,170 86,171 190,172 258,173 349,178 423,183 488,186 545,183 577,187 655,191 739,193 757,198 831,201 908,202 1002,201 1085,202 1085,187 1002,186 908,187 831,186 759,183 741,178 656,176 578,172 546,168 488,171 424,168 350,163 259,158 190,157 86,156 14,155" />
+                <Baseline points="14,170 86,171 190,172 258,173 349,178 423,183 488,186 545,183 577,187 655,191 739,193 757,198 831,201 908,202 1002,201 1085,202" />
+                <TextEquiv>
+                    <Unicode>nolentes eidem Willelmo iniuriari in hac parte vobis mandamus quo si vobis constiterit summas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <Coords points="1119,216 7,216 7,5 1119,5" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

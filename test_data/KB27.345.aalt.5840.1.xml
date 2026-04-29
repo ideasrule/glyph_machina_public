@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>nw-page-editor</Creator>
+    <Created>2025-05-04T18:57:52Z</Created>
+    <LastChange>2025-05-04T19:34:24Z</LastChange>
+  </Metadata>
+  <Page imageFilename="KB27.345.aalt.5840.1.jpg" imageHeight="739" imageWidth="1158">
+    <TextRegion id="r1">
+      <Coords points="2,3 1153,5 1153,736 4,736"/>
+      <TextLine id="r1_l1">
+        <Coords points="23.7455,58.2007 189.106,43.1679 242.113,41.1292 315.284,45.1386 387.905,44.1437 493.933,44.1437 596.933,43.1437 668.192,43.1437 740.919,45.1639 816.865,53.1583 917.929,55.1796 994.548,75.3425 1118.54,89.2299 1116.49,107.59 991.151,93.5525 915.357,73.6068 815.712,71.6139 739.694,63.612 667.936,61.6188 597.022,61.6188 494.022,62.6188 388.032,62.6188 314.905,63.6205 241.962,59.6236 190.298,61.6107 25.4182,76.5998"/>
+        <Baseline points="25,72 190,57 242,55 315,59 388,58 494,58 597,57 668,57 740,59 816,67 916,69 992,89 1117,103"/>
+        <TextEquiv>
+          <Unicode>Devonia ¶Johannes Episcopus Exonie Johannes Fitz Johannes atte Wode Willelmo Rocomb Johannes Fynamour Ricardus de Gatepathe senior</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l2">
+        <Coords points="119.86,75.1445 218.983,74.1432 349.156,75.1445 550.618,78.1366 651.126,71.101 753.928,80.1718 906.518,87.199 1010.18,105.316 1092.98,117.286 1090.34,135.571 1007.27,123.561 904.494,105.6 752.691,98.6094 650.958,89.633 551.127,96.6211 348.948,93.6185 219.006,92.6189 120.047,93.6185"/>
+        <Baseline points="120,89 219,88 349,89 551,92 651,85 753,94 905,101 1008,119 1091,131"/>
+        <TextEquiv>
+          <Unicode>Ricardus de Coppeshull Johannes de Stonore Michael de Aysthlegh Johannes filius Walteri Horigge Ricardus de</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l3">
+        <Coords points="123.132,107.144 228.569,108.149 283.026,112.109 340.222,108.164 364.097,107.126 450.997,112.121 519.773,108.134 639.175,111.144 715.784,111.144 748.323,110.127 825.68,116.155 874.548,117.152 960.516,122.209 1060.79,138.415 1093.36,146.557 1088.88,164.481 1057.07,156.528 958.495,140.597 873.817,135.616 824.773,134.615 747.892,128.624 716.072,129.619 638.942,129.619 520.076,126.622 451.001,130.626 363.968,125.625 341.259,126.612 282.991,130.63 227.81,126.617 122.956,125.619"/>
+        <Baseline points="123,121 228,122 283,126 341,122 364,121 451,126 520,122 639,125 716,125 748,124 825,130 874,131 959,136 1058,152 1090,160"/>
+        <TextEquiv>
+          <Unicode>Gatepathe junior Johannes de Blakare Willelmus de Holecomb Petrus de Clifford Johannes Stikke Benedictus de</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l4">
+        <Coords points="130.629,140.158 196.434,143.149 254.119,144.144 397,144.144 464,144.144 555.231,144.144 645.277,147.145 795.453,148.146 880.407,153.144 942.568,153.144 1017.07,159.267 1085.98,174.469 1082.01,192.51 1014.31,177.578 941.81,171.619 879.864,171.619 794.849,166.618 644.908,165.618 554.923,162.619 464,162.619 397,162.619 253.96,162.619 195.855,161.617 129.79,158.614"/>
+        <Baseline points="130,154 196,157 254,158 397,158 464,158 555,158 645,161 795,162 880,167 942,167 1015,173 1083,188"/>
+        <TextEquiv>
+          <Unicode>Paston Ricardus de Gummeshale Johannes de Clifford Galfridus le Chamberleyn et Willelmus Henry attachiati fuerunt </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l5">
+        <Coords points="137,180.144 161,180.144 250.913,180.144 331.12,179.141 398.027,181.138 475.227,179.133 526.547,182.152 624.855,184.138 698.138,181.126 829.701,189.161 1003.96,196.171 1075.36,203.211 1073.55,221.596 1002.68,214.61 828.766,207.613 697.954,199.625 625.048,202.621 525.818,200.616 474.924,197.622 397.991,199.621 330.96,197.62 251.029,198.619 161,198.619 137,198.619"/>
+        <Baseline points="137,194 161,194 251,194 331,193 398,195 475,193 526,196 625,198 698,195 829,203 1003,210 1074,217"/>
+        <TextEquiv>
+          <Unicode>ad respondendum Willelmo Wyke de placito quare vi et armis in ipsum Willelmum Wyke apud Aysthporton insultum </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l6">
+        <Coords points="141.274,216.146 394.03,221.142 524.165,219.14 677.501,225.153 858.443,231.151 1053.43,237.15 1052.86,255.617 857.852,249.616 676.833,243.616 523.945,237.62 393.99,239.619 140.909,234.618"/>
+        <Baseline points="141,230 394,235 524,233 677,239 858,245 1053,251"/>
+        <TextEquiv>
+          <Unicode>fecerunt et ipsum verberaverunt vulneraverunt imprisonaverunt et maletractaverunt et bona et catalla </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l7">
+        <Coords points="145.784,258.426 182.992,266.059 297.804,259.13 423.486,263.152 554.235,268.143 788.238,267.143 943.268,273.144 1051,273.144 1051,291.619 942.911,291.619 787.921,285.619 553.922,286.619 422.838,281.616 298.065,277.623 181.669,284.647 142.072,276.525"/>
+        <Baseline points="143,272 182,280 298,273 423,277 554,282 788,281 943,287 1051,287"/>
+        <TextEquiv>
+          <Unicode>sua ad valenciam centum solidorum ibidem inventa ceperunt et asportaverunt et alia enormia etc ad grave </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l8">
+        <Coords points="150.201,300.145 219.1,301.144 251.911,301.144 330.121,300.141 396.21,302.144 438.249,302.144 577.352,307.147 711.103,309.144 840.176,309.144 958.465,312.151 1054.58,316.156 1053.81,334.615 957.845,330.616 839.941,327.619 710.966,327.619 576.883,325.618 437.917,320.619 395.93,320.619 329.96,318.62 252.03,319.619 218.967,319.619 149.933,318.618"/>
+        <Baseline points="150,314 219,315 252,315 330,314 396,316 438,316 577,321 711,323 840,323 958,326 1054,330"/>
+        <TextEquiv>
+          <Unicode>dampnum etc et contra pacem etc Et unde predictus Willelmus Wyke in propria persona sua queritur quod predicti </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l9">
+        <Coords points="140.739,344.146 193.766,343.146 261.107,342.141 327.21,344.144 411,344.144 506.352,344.144 565.086,347.13 617.166,345.127 681.926,349.175 723.494,352.144 769.301,352.144 907.198,358.139 1040.79,356.145 1041.07,374.618 906.934,376.62 768.9,370.619 722.835,370.619 680.691,367.608 616.945,363.624 564.971,365.623 505.883,362.619 411,362.619 326.93,362.619 260.965,360.62 194.078,361.618 141.087,362.618"/>
+        <Baseline points="141,358 194,357 261,356 327,358 411,358 506,358 565,361 617,359 681,363 723,366 769,366 907,372 1041,370"/>
+        <TextEquiv>
+          <Unicode>Johannes Episcopus et alii die veneris proximo post Festum Sancti Bartholomei Apostoli anno regni Regis nunc decimonono </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l10">
+        <Coords points="150.167,380.145 233.191,381.145 362.16,383.145 494.364,384.146 605.128,389.135 718.534,386.125 795.768,394.149 932.124,395.144 1026.15,396.145 1025.95,414.618 931.959,413.619 794.744,412.617 717.822,404.625 604.957,407.622 493.879,402.618 361.947,401.618 232.936,399.618 149.944,398.618"/>
+        <Baseline points="150,394 233,395 362,397 494,398 605,403 718,400 795,408 932,409 1026,410"/>
+        <TextEquiv>
+          <Unicode>vi et armis videlicet gladiis etc in ipsum Willelmum Wyke apud Aysthporton insultum fecerunt et ipsum verberaverunt </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l11">
+        <Coords points="152.128,423.144 260.064,424.144 413,424.144 506.32,424.144 571.247,427.14 667.037,426.143 857.245,429.146 1062.27,433.146 1061.91,451.618 856.919,447.618 666.988,444.619 570.918,445.62 505.893,442.619 413,442.619 259.979,442.619 151.957,441.619"/>
+        <Baseline points="152,437 260,438 413,438 506,438 571,441 667,440 857,443 1062,447"/>
+        <TextEquiv>
+          <Unicode>vulneraverunt imprisonaverunt et in persona videlicet per septem septimanas et quatuor dies tunc proximo sequentur </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l12">
+        <Coords points="150.171,459.145 230.971,460.142 413.099,457.14 608.354,463.148 804.207,467.145 909.88,468.142 1021.63,465.149 1022.12,483.617 910.04,486.619 803.931,485.618 607.882,481.617 412.967,475.62 231.01,478.619 149.943,477.618"/>
+        <Baseline points="150,473 231,474 413,471 608,477 804,481 910,482 1022,479"/>
+        <TextEquiv>
+          <Unicode>in sepibus et ferros detinerunt et maletractaverunt et bona et catalla sua videlicet unum gladium </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l13">
+        <Coords points="154.635,492.158 263.318,497.144 397.74,497.144 478.273,494.124 543.299,499.126 631.905,496.139 782.188,499.145 921.837,500.142 1019.58,497.15 1020.14,515.617 922.054,518.619 781.937,517.618 632.032,514.62 542.9,517.625 477.909,512.625 398.087,515.619 262.894,515.619 153.788,510.614"/>
+        <Baseline points="154,506 263,511 398,511 478,508 543,513 632,510 782,513 922,514 1020,511"/>
+        <TextEquiv>
+          <Unicode>unum bokelarium unum cultellum pannos lineos et lanceos ad valenciam etc ibidem inventa ceperunt et </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l14">
+        <Coords points="153.12,530.144 268.175,531.145 388.973,533.141 486.976,531.141 604.94,533.141 721.822,530.144 902.121,530.144 1074.24,533.146 1073.92,551.618 901.96,548.619 722.059,548.619 605.02,551.62 487.008,549.62 389.009,551.62 267.942,549.618 152.96,548.619"/>
+        <Baseline points="153,544 268,545 389,547 487,545 605,547 722,544 902,544 1074,547"/>
+        <TextEquiv>
+          <Unicode>asportaverunt contra pacem domini Regis nunc unde dicit quod deterioratus est et dampnum habet ad valenciam </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l15">
+        <Coords points="147.495,565.153 203.247,567.144 264,567.144 347,567.144 423.198,567.144 528.396,570.149 527.868,588.617 422.934,585.619 347,585.619 264,585.619 202.918,585.619 146.835,583.616"/>
+        <Baseline points="147,579 203,581 264,581 347,581 423,581 528,584"/>
+        <TextEquiv>
+          <Unicode>mille librarum et inde producit settam etc</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l16">
+        <Coords points="147.833,613.193 219.535,607.134 278.119,608.144 364.526,608.144 456.382,615.133 551.856,613.144 682.283,613.144 780.283,617.144 863.201,617.144 931.986,619.138 1060.57,615.15 1061.14,633.617 932.005,637.621 862.933,635.619 779.906,635.619 681.906,631.619 552.048,631.619 455.873,633.622 363.825,626.619 277.96,626.619 220.155,625.622 149.389,631.602"/>
+        <Baseline points="149,627 220,621 278,622 364,622 456,629 552,627 682,627 780,631 863,631 932,633 1061,629"/>
+        <TextEquiv>
+          <Unicode>Et predicti Episcopus et omnes alii prenominati per Robertum de Bridport attornatum suum veniunt ed defendunt vim et iniuriam </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l17">
+        <Coords points="155.314,638.206 238.658,646.144 337.114,646.144 458.995,648.142 635.116,645.14 842.405,652.15 923.171,654.144 1046,654.144 1046,672.619 922.943,672.619 841.865,670.617 634.961,663.62 459.001,666.619 336.962,664.619 237.781,664.619 153.562,656.598"/>
+        <Baseline points="154,652 238,660 337,660 459,662 635,659 842,666 923,668 1046,668"/>
+        <TextEquiv>
+          <Unicode>quando etc Et omnes preter predictos Petrum de Clifford Ricardum de Gummeshale et Johannem de Clyfford </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l18">
+        <Coords points="152.719,676.251 199.417,682.088 260.553,678.144 343.845,678.144 392.528,684.105 478.682,680.144 576.293,680.144 647.293,683.144 701,683.144 774.253,683.144 911.668,688.159 961.481,691.148 1066.13,692.144 1065.96,710.619 960.84,709.617 910.777,706.614 773.916,701.619 701,701.619 646.902,701.619 575.902,698.619 479.106,698.619 391.824,702.632 342.718,696.619 261.149,696.619 198.861,700.637 150.427,694.583"/>
+        <Baseline points="151,690 199,696 261,692 343,692 392,698 479,694 576,694 647,697 701,697 774,697 911,702 961,705 1066,706"/>
+        <TextEquiv>
+          <Unicode>dicunt quod ipsi in nullo sunt culpabiles de transgressione predicta et de hec ponunt se super patriam Et predictus Willelmus </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l19">
+        <Coords points="151.135,715.144 254.135,716.144 253.955,734.619 150.955,733.619"/>
+        <Baseline points="151,729 254,730"/>
+        <TextEquiv>
+          <Unicode>Wyke similiter</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

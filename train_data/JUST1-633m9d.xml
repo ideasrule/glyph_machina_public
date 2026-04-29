@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>Transkribus</Creator>
+    <Created>2023-12-13T07:07:45.135+01:00</Created>
+    <LastChange>2025-12-31T19:07:00Z</LastChange>
+    <TranskribusMetadata docId="1640070" imageId="50408018" imgUrl="https://files.transkribus.eu/Get?id=DGOUUYEVSONSMOHSWDMVHOLU&amp;fileType=view" pageId="62436981" pageNr="20" status="FINAL" tsid="144288216" userId="195295" xmlUrl="https://files.transkribus.eu/Get?id=MBLPZLOSWOEFARVRNBURAXZC"/>
+  </Metadata>
+  <Page imageFilename="JUST1-633m9d.jpeg" imageHeight="978" imageWidth="1139">
+    <ReadingOrder>
+      <OrderedGroup caption="Regions reading order" id="ro_1704264367121">
+        <RegionRefIndexed index="0" regionRef="r"/>
+      </OrderedGroup>
+    </ReadingOrder>
+    <Relations/>
+    <TextRegion custom="readingOrder {index:0;}" id="r">
+      <Coords points="1118,965 -3,965 -3,2 1118,2"/>
+      <TextLine custom="readingOrder {index:0;}" id="l">
+        <Coords points="-2,83 52,83 152,79 283,80 428,79 554,67 665,63 899,46 1090,32 1090,4 899,18 665,35 554,39 428,51 283,52 152,51 52,55 -2,55"/>
+        <Baseline points="1,77 52,77 152,73 283,74 428,73 554,61 665,57 899,40 1090,26"/>
+        <TextEquiv>
+          <Unicode>¶Simon Malore de Wynewyk summonitus fuit ad respondendum Galfrido de Cornubia et Margarete vori eius de placito </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:1;}" id="l_29">
+        <Coords points="7,112 197,109 259,113 376,111 473,105 605,95 697,92 843,86 973,75 1115,68 1115,40 973,47 843,58 697,64 605,67 473,77 376,83 259,85 197,81 7,84"/>
+        <Baseline points="7,106 197,103 259,107 376,105 473,99 605,89 697,86 843,80 973,69 1115,62"/>
+        <TextEquiv>
+          <Unicode>quod reddat eis Petrum filium et heredem Ricardi Malore cuius custodia ad ipsos Galfridum et Margaretam pertinet eo quod predictus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:2;}" id="l_51">
+        <Coords points="4,143 114,140 216,140 307,142 373,142 503,132 605,126 754,122 862,118 1009,109 1113,104 1113,76 1009,81 862,90 754,94 605,98 503,104 373,114 307,114 216,112 114,112 4,115"/>
+        <Baseline points="4,137 114,134 216,134 307,136 373,136 503,126 605,120 754,116 862,112 1009,103 1113,98"/>
+        <TextEquiv>
+          <Unicode>Ricardus terram suam de eis tenuit per seruicium militare etc. Et vnde idem Galfridus et Margareta per Iohannem de Braun</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:3;}" id="l_75">
+        <Coords points="5,172 119,170 229,174 360,171 488,163 661,153 785,151 958,146 1102,137 1102,109 958,118 785,123 661,125 488,135 360,143 229,146 119,142 5,144"/>
+        <Baseline points="5,166 119,164 229,168 360,165 488,157 661,147 785,145 958,140 1102,131"/>
+        <TextEquiv>
+          <Unicode>feld attornatum ipsius Margarete dicunt quod cum predictus Ricardus tenuisset de eis manerium de Lichebarewe cum pertinencis </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:4;}" id="l_95">
+        <Coords points="1,207 148,203 343,201 461,195 552,189 687,185 787,180 962,176 1105,170 1105,142 962,148 787,152 687,157 552,161 461,167 343,173 148,175 1,179"/>
+        <Baseline points="1,201 148,197 343,195 461,189 552,183 687,179 787,174 962,170 1105,164"/>
+        <TextEquiv>
+          <Unicode>per homagium fidelitatem et seruicium militare scilicet ad scutagium domini regis quadraginta solidorum cum acciderit triginta </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:5;}" id="l_115">
+        <Coords points="8,236 71,233 173,234 287,232 454,229 616,217 774,213 876,208 1027,204 1096,201 1096,173 1027,176 876,180 774,185 616,189 454,201 287,204 173,206 71,205 8,208"/>
+        <Baseline points="8,230 71,227 173,228 287,226 454,223 616,211 774,207 876,202 1027,198 1096,195"/>
+        <TextEquiv>
+          <Unicode>solidos et ad plus plus et ad minus minus de quibus seruiciis idem Galfridus et Margareta seisiti fuerunt per manus </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:6;}" id="l_292">
+        <Coords points="229,247 329,245 446,240 446,212 329,217 229,219"/>
+        <Baseline points="229,241 329,239 446,234"/>
+        <TextEquiv>
+          <Unicode>et obiit in homagio suo </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:7;}" id="l_139">
+        <Coords points="6,264 128,264 243,264 343,262 496,256 596,249 697,246 797,244 883,239 1020,235 1113,230 1113,202 1020,207 883,211 797,216 697,218 596,221 496,228 343,234 243,236 128,236 6,236"/>
+        <Baseline points="6,258 128,258 243,258 343,256 496,250 596,243 697,240 797,238 883,233 1020,229 1113,224"/>
+        <TextEquiv>
+          <Unicode>predicti Ricardi patris predicti Petri et ea racione ad ipsos pertinet custodia predicti heredis predictus Simon eum eis iniuste deforciat. </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:8;}" id="l_163">
+        <Coords points="3,295 106,292 221,295 315,292 471,288 577,282 663,278 749,275 830,272 970,266 1049,262 1049,234 970,238 830,244 749,247 663,250 577,254 471,260 315,264 221,267 106,264 3,267"/>
+        <Baseline points="3,289 106,286 221,289 315,286 471,282 577,276 663,272 749,269 830,266 970,260 1049,256"/>
+        <TextEquiv>
+          <Unicode>Vnde dicunt quod deteriorati sunt et dampnum habent ad valenciam viginti librarum. Et inde producunt sectam etc.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:9;}" id="l_189">
+        <Coords points="4,323 125,322 289,322 488,319 634,312 746,308 857,302 1001,296 1095,291 1095,263 1001,268 857,274 746,280 634,284 488,291 289,294 125,294 4,295"/>
+        <Baseline points="4,317 125,316 289,316 488,313 634,306 746,302 857,296 1001,290 1095,285"/>
+        <TextEquiv>
+          <Unicode>Et Simon per Willelmum de Holcote attornatum suum venit et defendit vim et iniuriam quando etc. Et dicit quod ad ipsum et non </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:10;}" id="l_209">
+        <Coords points="9,350 112,351 213,353 315,351 470,348 639,341 788,334 892,330 966,326 1079,321 1079,293 966,298 892,302 788,306 639,313 470,320 315,323 213,325 112,323 9,322"/>
+        <Baseline points="9,344 112,345 213,347 315,345 470,342 639,335 788,328 892,324 966,320 1079,315"/>
+        <TextEquiv>
+          <Unicode>ad predictos Galfridum et Margaretam pertinet custodia predicti heredis. Quia dicit quod predictus Ricardus pater predicti heredis </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:11;}" id="l_231">
+        <Coords points="8,380 227,380 312,380 472,377 589,373 757,367 929,358 1038,353 1112,350 1112,322 1038,325 929,330 757,339 589,345 472,349 312,352 227,352 8,352"/>
+        <Baseline points="8,374 227,374 312,374 472,371 589,367 757,361 929,352 1038,347 1112,344"/>
+        <TextEquiv>
+          <Unicode>tenuit de ipso Simone decem mesuagia et quinque virgatas terre cum pertinencis in Wynewyk per homagium fidelitatem et </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:12;}" id="l_262">
+        <Coords points="11,408 118,407 232,408 351,408 565,403 660,401 835,393 929,388 1093,379 1093,351 929,360 835,365 660,373 565,375 351,380 232,380 118,379 11,380"/>
+        <Baseline points="11,402 118,401 232,402 351,402 565,397 660,395 835,387 929,382 1093,373"/>
+        <TextEquiv>
+          <Unicode>seruicium militare scilicet ad scutagium domini regis quadraginta solidorum cum acciderit quatuor solidos et sex denarios </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:13;}" id="l_282">
+        <Coords points="7,438 135,435 291,438 408,436 552,433 661,431 847,423 938,418 1111,408 1111,380 938,390 847,395 661,403 552,405 408,408 291,410 135,407 7,410"/>
+        <Baseline points="7,432 135,429 291,432 408,430 552,427 661,425 847,417 938,412 1111,402"/>
+        <TextEquiv>
+          <Unicode>et ad plus plus et ad minus minus de quibus serviciis predictus Simon fuit seisitus per manus predicti Ricardi et obiit in homagio suo etc. Et dicit quod </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:14;}" id="l_302">
+        <Coords points="10,465 123,465 256,467 366,467 573,464 714,459 926,447 970,446 1114,437 1114,409 970,418 926,419 714,431 573,436 366,439 256,439 123,437 10,437"/>
+        <Baseline points="10,459 123,459 256,461 366,461 573,458 714,453 926,441 970,440 1114,431"/>
+        <TextEquiv>
+          <Unicode>idem Ricardus et antecessores sui tenuerunt predicta tenementa in Wynewyk de ipso Simone et antecessoribus suis de antiquiori </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:15;}" id="l_322">
+        <Coords points="9,493 131,491 215,494 266,499 409,494 556,492 688,488 958,475 1114,467 1114,439 958,447 688,460 556,464 409,466 266,471 215,466 131,463 9,465"/>
+        <Baseline points="9,487 131,485 215,488 266,493 409,488 556,486 688,482 958,469 1114,461"/>
+        <TextEquiv>
+          <Unicode>feoffamento per seruicium militare quam predictus Ricardus vel antecessores sui tenuerunt predictum manerium de Lichebarewe </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:16;}" id="l_310">
+        <Coords points="492,505 571,504 571,476 492,477"/>
+        <Baseline points="492,499 571,498"/>
+        <TextEquiv>
+          <Unicode>Galfridi</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:17;}" id="l_342">
+        <Coords points="16,520 131,521 210,525 303,524 447,525 665,518 772,517 864,512 1060,500 1060,472 864,484 772,489 665,490 447,497 303,496 210,497 131,493 16,492"/>
+        <Baseline points="16,514 131,515 210,519 303,518 447,519 665,512 772,511 864,506 1060,494"/>
+        <TextEquiv>
+          <Unicode>de predictis Galfrido et Margareta vel antecessoribus ipsius Galfridi. Et hoc paratus est verificare etc. vnde petit iudicium etc.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:18;}" id="l_370">
+        <Coords points="12,557 160,553 266,554 402,555 604,550 753,546 927,539 1098,526 1098,498 927,511 753,518 604,522 402,527 266,526 160,525 12,529"/>
+        <Baseline points="12,551 160,547 266,548 402,549 604,544 753,540 927,533 1098,520"/>
+        <TextEquiv>
+          <Unicode>Et Galfridus et Margareta dicunt quod predictus Ricardus pater predicti heredis et antecessores sui prius tenuerunt predictum </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:19;}" id="l_388">
+        <Coords points="15,582 130,581 233,583 379,585 535,581 693,578 817,573 964,565 1043,559 1113,553 1113,525 1043,531 964,537 817,545 693,550 535,553 379,557 233,555 130,553 15,554"/>
+        <Baseline points="15,576 130,575 233,577 379,579 535,575 693,572 817,567 964,559 1043,553 1113,547"/>
+        <TextEquiv>
+          <Unicode>manerium de Lychbarewe cum pertinenciis per seruicium militare de ipsis Galfrido et Margareta vt de iure ipsius Galfridi </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:20;}" id="l_410">
+        <Coords points="9,611 132,609 221,611 322,614 444,613 650,609 830,604 983,599 1106,583 1106,555 983,571 830,576 650,581 444,585 322,586 221,583 132,581 9,583"/>
+        <Baseline points="9,605 132,603 221,605 322,608 444,607 650,603 830,598 983,593 1106,577"/>
+        <TextEquiv>
+          <Unicode>et de quadam Iohanna que fuit vxor Ricardi de Cornewayle curus statum in predictis seruiciis ipsi habent ex perquisito et </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:21;}" id="l_430">
+        <Coords points="15,634 112,637 238,641 343,645 389,644 427,643 517,643 635,643 801,639 918,633 1094,624 1094,596 918,605 801,611 635,615 517,615 427,615 389,616 343,617 238,613 112,609 15,606"/>
+        <Baseline points="15,628 112,631 238,635 343,639 389,638 427,637 517,637 635,637 801,633 918,627 1094,618"/>
+        <TextEquiv>
+          <Unicode>eciam de quodam Hugone de Mortymer cuius statum eadem Iohanna quondam habuit in eisdem seruiciis et de antecessoribus </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:22;}" id="l_462">
+        <Coords points="15,663 88,664 204,669 354,675 460,675 663,675 755,675 871,671 991,666 1116,663 1116,635 991,638 871,643 755,647 663,647 460,647 354,647 204,641 88,636 15,635"/>
+        <Baseline points="15,657 88,658 204,663 354,669 460,669 663,669 755,669 871,665 991,660 1116,657"/>
+        <TextEquiv>
+          <Unicode>eiusdem Hugonis quam de antecessoribus predicti Simonis sicut idem Simon dicit. Et hoc petit quod inquiratur per patriam. Et Simon </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:23;}" id="l_484">
+        <Coords points="17,696 104,697 196,698 293,704 399,704 546,706 741,707 896,703 1037,698 1112,698 1112,670 1037,670 896,675 741,679 546,678 399,676 293,676 196,670 104,669 17,668"/>
+        <Baseline points="17,690 104,691 196,692 293,698 399,698 546,700 741,701 896,697 1037,692 1112,692"/>
+        <TextEquiv>
+          <Unicode>similiter. Ideo preceptum est vicecomiti quia predictum manerium de Lichebarewe est infra hundredum de Falleslegh et predicta tenementa in </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:24;}" id="l_506">
+        <Coords points="19,726 109,730 216,730 333,734 433,738 628,738 765,738 945,730 1097,728 1097,700 945,702 765,710 628,710 433,710 333,706 216,702 109,702 19,698"/>
+        <Baseline points="19,720 109,724 216,724 333,728 433,732 628,732 765,732 945,724 1097,722"/>
+        <TextEquiv>
+          <Unicode>Wynewyk sunt in hundredo de Guldesburgh quod venire faciat hic die louis proximo ante festum Sancte Katerine de vtroque </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:25;}" id="l_528">
+        <Coords points="19,760 120,761 206,762 339,765 475,768 608,769 796,768 1016,764 1114,762 1114,734 1016,736 796,740 608,741 475,740 339,737 206,734 120,733 19,732"/>
+        <Baseline points="19,754 120,755 206,756 339,759 475,762 608,763 796,762 1016,758 1114,756"/>
+        <TextEquiv>
+          <Unicode>hundredo . xij. etc. per quos etc. et qui nec etc. ad recognoscendum etc. quia tam etc. Ad quem diem venerunt predictus </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:26;}" id="l_548">
+        <Coords points="18,789 129,791 267,796 395,798 516,800 641,802 742,802 821,801 926,800 1110,796 1110,768 926,772 821,773 742,774 641,774 516,772 395,770 267,768 129,763 18,761"/>
+        <Baseline points="18,783 129,785 267,790 395,792 516,794 641,796 742,796 821,795 926,794 1110,790"/>
+        <TextEquiv>
+          <Unicode>Simon et eciam predicti Galfridus et Margareta per Iohannem de Braunfeld attornatum ipsius Margarete. Et iidem Galfridus </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:27;}" id="l_570">
+        <Coords points="14,825 126,823 215,824 298,830 381,831 464,835 579,835 706,833 846,833 951,829 1044,827 1113,825 1113,797 1044,799 951,801 846,805 706,805 579,807 464,807 381,803 298,802 215,796 126,795 14,797"/>
+        <Baseline points="14,819 126,817 215,818 298,824 381,825 464,829 579,829 706,827 846,827 951,823 1044,821 1113,819"/>
+        <TextEquiv>
+          <Unicode>et Margareta bene cognouerunt quod predictus Ricardus pater predicti heredis et eius antecessores tenuerunt predicta tenementa in Wynewyk </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:28;}" id="l_596">
+        <Coords points="19,853 109,852 180,855 270,858 383,862 491,864 584,865 730,866 823,865 968,861 1094,861 1094,833 968,833 823,837 730,838 584,837 491,836 383,834 270,830 180,827 109,824 19,825"/>
+        <Baseline points="19,847 109,846 180,849 270,852 383,856 491,858 584,859 730,860 823,859 968,855 1094,855"/>
+        <TextEquiv>
+          <Unicode>de predicto Simone et antecessoribus suis de antiquiori feoffamento quam predictum manerium de Lichebarewe de ipsis </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:29;}" id="l_620">
+        <Coords points="18,882 111,886 243,888 332,892 485,897 594,897 756,897 885,894 1029,891 1108,893 1108,865 1029,863 885,866 756,869 594,869 485,869 332,864 243,860 111,858 18,854"/>
+        <Baseline points="18,876 111,880 243,882 332,886 485,891 594,891 756,891 885,888 1029,885 1108,887"/>
+        <TextEquiv>
+          <Unicode>Galfrido et Margareta vel eorum antecessoribus vel de antecessoribus corum quorum statum idem Galfridus et Margareta modo </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:30;}" id="l_642">
+        <Coords points="17,913 124,914 206,920 371,925 478,928 627,930 728,932 829,932 940,925 1099,924 1099,896 940,897 829,904 728,904 627,902 478,900 371,897 206,892 124,886 17,885"/>
+        <Baseline points="17,907 124,908 206,914 371,919 478,922 627,924 728,926 829,926 940,919 1099,918"/>
+        <TextEquiv>
+          <Unicode>habent. Et ideo consideratum est quod predictus Simon eat inde sine die. Et predicti Galfridus et Margareta nichil capiant per breue </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:31;}" id="l_664">
+        <Coords points="20,943 115,947 199,950 270,954 390,955 390,927 270,926 199,922 115,919 20,915"/>
+        <Baseline points="20,937 115,941 199,944 270,948 390,949"/>
+        <TextEquiv>
+          <Unicode>suum set sint in misericordia pro falso clamore etc.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

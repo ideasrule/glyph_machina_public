@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="https://schema.omnius.com/pagesformat/2020.02.04">
+  <Metadata>
+    <Creator>nw-page-editor</Creator>
+    <Created>2025-05-08T04:00:31Z</Created>
+    <LastChange>2026-02-21T06:00:01Z</LastChange>
+  </Metadata>
+  <Page imageFilename="KB27.356.AALT.8740.jpg" imageHeight="314" imageWidth="1046">
+    <TextRegion id="r1">
+      <Coords points="2,3 1041,3 1042,312 2,312"/>
+      <TextLine id="r1_l1">
+        <Coords points="82.096,10.4635 97.5485,11.4293 188.189,11.4293 281.094,13.4273 374.089,12.4273 470.183,14.4293 577.861,14.4293 640.861,13.4293 773.763,13.4293 884.428,10.4383 1015.33,5.44207 1016.22,28.8527 885.191,33.854 774.079,36.857 641.047,36.857 578.047,37.857 469.939,37.857 373.97,35.8577 280.969,36.8577 187.937,34.857 96.8171,34.857 80.6347,33.8456"/>
+        <Baseline points="81,28 97,29 188,29 281,31 374,30 470,32 578,32 641,31 774,31 885,28 1016,23"/>
+        <TextEquiv>
+          <Unicode>¶ Jurata inter dominum Regem per Johannem de Lincoln qui sequitur pro eo et Johannem Wrey capellum ad recognoscendum etc si</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l2">
+        <Coords points="114.135,40.8639 211.068,41.8632 277.08,41.8632 358.971,42.8619 479.026,40.8609 624.2,43.8645 726.916,44.8618 904.551,40.87 1013.4,35.877 1014.2,53.3743 905.15,58.3767 727.028,62.3794 623.933,61.3785 478.991,58.3797 359.01,60.3794 276.973,59.3789 210.977,59.3789 113.955,58.3787"/>
+        <Baseline points="114,54 211,55 277,55 359,56 479,54 624,57 727,58 905,54 1014,49"/>
+        <TextEquiv>
+          <Unicode>predictus Johannes Wrey culpabilis sit de diversis impedimentis notificationibus citatibus appellacionibus et aliis preiu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l3">
+        <Coords points="94.1425,67.2077 177.571,63.187 304.957,63.187 510.126,62.1862 615.355,64.1906 711.019,66.1836 817.65,64.1905 1011.63,60.1908 1012.12,83.9364 818.117,87.9365 710.994,89.9388 614.882,87.9365 509.958,85.9379 305.014,86.9376 178.143,86.9376 95.2858,90.9308"/>
+        <Baseline points="95,85 178,81 305,81 510,80 615,82 711,84 818,82 1012,78"/>
+        <TextEquiv>
+          <Unicode>diciis domino Regi et Hugoni de Arkham clerici apud Brixham illatis super possessione vicarie de Brixham </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l4">
+        <Coords points="90.1575,103.835 126.43,101.82 177.248,100.824 265.14,93.8324 324.578,91.8175 370.835,90.812 472.741,90.812 560.964,87.8043 697.436,91.8182 803.976,94.8053 931.66,90.8152 1005.79,89.8133 1006.07,110.062 932.113,111.062 804.008,115.065 696.855,112.061 561.012,108.065 473.086,111.063 371.055,111.063 325.141,112.061 266.287,114.056 178.251,121.059 127.19,122.06 91.2808,124.055"/>
+        <Baseline points="91,119 127,117 178,116 266,109 325,107 371,106 473,106 561,103 697,107 804,110 932,106 1006,105"/>
+        <TextEquiv>
+          <Unicode>die Dominica proximo post Festum Omnium Sanctorum anno regni Regis nunc Anglie vicesimo primo per quasdam bullas bullas </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l5">
+        <Coords points="88.6383,132.752 165.491,126.685 216.173,127.698 274.315,127.698 337.096,122.716 416.537,120.704 487.32,118.711 586.563,113.698 664.333,113.698 794.182,118.693 908.777,116.7 1027.85,115.699 1028.05,138.767 909.074,139.766 793.939,141.769 663.889,136.767 587.146,136.767 488.227,141.763 417.154,143.765 338.301,145.761 275.228,150.767 215.942,150.767 166.17,149.771 90.4539,155.749"/>
+        <Baseline points="90,150 166,144 216,145 275,145 338,140 417,138 488,136 587,131 664,131 794,136 909,134 1028,133"/>
+        <TextEquiv>
+          <Unicode>papales infra regnum Anglie delatas et apud Brixham ostensas et notificatas in preiudicium legum nostrum </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l6">
+        <Coords points="91.0763,166.221 139.464,163.197 240.57,162.196 323.471,158.2 366.366,157.203 478.323,150.206 547.572,148.198 652.037,145.185 711.251,147.192 817,147.192 922.14,147.192 1028.28,149.195 1027.91,168.936 921.953,166.937 817,166.937 710.916,166.937 651.988,164.939 548.143,167.935 479.226,169.932 367.211,176.933 324.176,177.934 241.143,181.935 140.179,182.935 92.3079,185.927"/>
+        <Baseline points="92,181 140,178 241,177 324,173 367,172 479,165 548,163 652,160 711,162 817,162 922,162 1028,164"/>
+        <TextEquiv>
+          <Unicode>Regis subversionem et corone sue exheredacionem periculum manifestum et contra prohibitionem domini Regis sicut predictus </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l7">
+        <Coords points="91.2615,189.798 143.234,187.799 264.515,182.787 373.499,181.788 466.503,177.787 581.916,176.784 761.488,176.784 836.742,172.77 1026.51,177.791 1025.83,203.404 837.086,198.411 762.171,202.407 582.028,202.407 467.166,203.406 374.167,207.405 265.162,208.406 144.255,213.402 92.2462,215.402"/>
+        <Baseline points="92,209 144,207 265,202 374,201 467,197 582,196 762,196 837,192 1026,197"/>
+        <TextEquiv>
+          <Unicode>Johannes de Lincoln qui sequitur ipso Rege dicit nec ne ponitur in respectum usque in Octabis Sancte Trinitate </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l8">
+        <Coords points="92.0072,223.122 177.327,218.104 225.575,217.098 293.66,215.096 385.731,214.095 528.735,211.095 624.912,210.093 747.09,210.093 840.846,211.091 945.265,208.079 1029.02,213.124 1027.66,235.625 944.912,230.64 841.051,233.636 746.97,232.636 625.029,232.636 529.088,233.635 386.09,236.635 294.113,237.635 226.142,239.634 178.224,240.632 93.3309,245.626"/>
+        <Baseline points="93,240 178,235 226,234 294,232 386,231 529,228 625,227 747,227 841,228 945,225 1028,230"/>
+        <TextEquiv>
+          <Unicode>ubicumque etc per defectu juratorum quia nullus etc Ideo vicecomes habeat corpora omnium juratorum coram domino Rege ad prefatum </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l9">
+        <Coords points="93.8118,254.874 189.322,247.836 286.963,246.83 460.755,247.829 571.709,243.83 681.49,243.83 714.573,245.835 810.971,246.829 955.136,244.827 1020.5,246.838 1019.83,268.387 954.955,266.391 811.01,268.39 713.809,267.388 680.837,265.39 572.097,265.39 461.082,269.39 287.012,268.39 190.226,269.388 95.3961,276.375"/>
+        <Baseline points="95,271 190,264 287,263 461,264 572,260 681,260 714,262 811,263 955,261 1020,263"/>
+        <TextEquiv>
+          <Unicode>terminum etc Et quia predictus Johannes Wrey non venit ipse et manucaptoribus sui capiantur etc et querantur nomina </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l10">
+        <Coords points="100.269,287.826 183.475,283.816 375.186,279.801 441.137,282.799 513.961,280.804 604.169,282.808 655.911,282.808 740.77,281.81 794.719,280.811 795.094,301.064 741.077,302.064 656.03,303.065 603.944,303.065 514.013,301.066 440.954,303.068 374.938,300.067 184.175,304.062 101.244,308.059"/>
+        <Baseline points="101,303 184,299 375,295 441,298 514,296 604,298 656,298 741,297 795,296"/>
+        <TextEquiv>
+          <Unicode>manucaptoribus etc Et nichilominus capiatur juratorum versus eum per eius defaltam etc</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-12-31T04:28:15.635+01:00</Created>
+        <LastChange>2023-12-31T04:42:29.083+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="63020748" pageNr="11" tsid="144213946" status="FINAL" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=YUMDUYJXXMOPENXFSCRAIPHL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LXZEZMASHLKSTUHWRRDBUSLK" imageId="50944699" />
+    </Metadata>
+    <Page imageFilename="JUST1-633m22.jpeg" imageWidth="1122" imageHeight="807">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1704262310608" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="6,47 76,41 194,44 368,41 637,45 839,52 989,62 1072,63 1072,33 989,32 839,22 637,15 368,11 194,14 76,11 6,17" />
+                <Baseline points="6,41 76,35 194,38 368,35 637,39 839,46 989,56 1072,57" />
+                <TextEquiv>
+                    <Unicode>¶ Hugo de Oseuill per Thomam de Tochewyk attornatum suum petit versus Robertum le Keu et Iohannam vxorem eius vnum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_26" custom="readingOrder {index:1;}">
+                <Coords points="27,76 181,74 384,73 597,75 777,80 888,87 1074,94 1074,64 888,57 777,50 597,45 384,43 181,44 27,46" />
+                <Baseline points="27,70 181,68 384,67 597,69 777,74 888,81 1074,88" />
+                <TextEquiv>
+                    <Unicode>mesuagium et vnam virgatam terre et dimidiam et quartam partem vnius virgate terre sum pertinenciis in Magna Neuton vt jus etc. per breue </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_42" custom="readingOrder {index:2;}">
+                <Coords points="24,107 121,104 290,105 466,105 590,108 750,112 929,122 1002,128 1059,128 1059,98 1002,98 929,92 750,82 590,78 466,75 290,75 121,74 24,77" />
+                <Baseline points="24,101 121,98 290,99 466,99 590,102 750,106 929,116 1002,122 1059,122" />
+                <TextEquiv>
+                    <Unicode>de recto clausum etc. Et vnde idem Hugo per predictum attornatum suum dicit quod quidam Walterus de Oseuill pater etc. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_62" custom="readingOrder {index:3;}">
+                <Coords points="17,137 100,137 235,135 371,135 474,138 712,143 838,150 925,154 1066,163 1066,133 925,124 838,120 712,113 474,108 371,105 235,105 100,107 17,107" />
+                <Baseline points="17,131 100,131 235,129 371,129 474,132 712,137 838,144 925,148 1066,157" />
+                <TextEquiv>
+                    <Unicode>de predictis tenementis cum pertinenciis suis fuit seisitus in dominico suo vt de feodo et jure tempore pacis tempore regis E. aui </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_82" custom="readingOrder {index:4;}">
+                <Coords points="17,170 182,170 358,166 500,169 566,173 710,173 873,185 950,191 1065,196 1065,166 950,161 873,155 710,143 566,143 500,139 358,136 182,140 17,140" />
+                <Baseline points="17,164 182,164 358,160 500,163 566,167 710,167 873,179 950,185 1065,190" />
+                <TextEquiv>
+                    <Unicode>domini regis nunc capiendo inde explecia ad valenciam etc. Et de ipso Waltero descendit jus etc.cuidam Iohanni vt filio et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_102" custom="readingOrder {index:5;}">
+                <Coords points="21,200 150,201 283,200 464,200 562,202 747,209 910,222 1080,234 1080,204 910,192 747,179 562,172 464,170 283,170 150,171 21,170" />
+                <Baseline points="21,194 150,195 283,194 464,194 562,196 747,203 910,216 1080,228" />
+                <TextEquiv>
+                    <Unicode>heredi. Et de ipso Iohanne quia obiit sine herede de se descendit jus etc. isti Hugoni qui nunc petit vt fratri et heredi. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_120" custom="readingOrder {index:6;}">
+                <Coords points="21,231 128,232 229,234 363,235 363,205 229,204 128,202 21,201" />
+                <Baseline points="21,225 128,226 229,228 363,229" />
+                <TextEquiv>
+                    <Unicode>Et quod tale sit jus etc. offert etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_130" custom="readingOrder {index:7;}">
+                <Coords points="20,262 129,263 264,264 400,266 559,272 696,277 821,286 937,288 1073,298 1073,268 937,258 821,256 696,247 559,242 400,236 264,234 129,233 20,232" />
+                <Baseline points="20,256 129,257 264,258 400,260 559,266 696,271 821,280 937,282 1073,292" />
+                <TextEquiv>
+                    <Unicode>Et Robertus et Iohanna veniunt et defendunt jus suum quando etc. et seisinam predicti Walteri patris etc. de cuius seisina etc. vt de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_150" custom="readingOrder {index:8;}">
+                <Coords points="25,294 142,296 233,297 405,297 520,302 646,306 816,317 919,319 1009,324 1081,326 1081,296 1009,294 919,289 816,287 646,276 520,272 405,267 233,267 142,266 25,264" />
+                <Baseline points="25,288 142,290 233,291 405,291 520,296 646,300 816,311 919,313 1009,318 1081,320" />
+                <TextEquiv>
+                    <Unicode>feodo etc. et jure etc. et totum etc. Et ponunt se in magnam assisam domini regis et petunt recognicionem fieri vtrum ipsi maius </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_172" custom="readingOrder {index:9;}">
+                <Coords points="25,328 127,327 306,326 462,329 593,336 676,338 801,346 975,350 1104,357 1104,327 975,320 801,316 676,308 593,306 462,299 306,296 127,297 25,298" />
+                <Baseline points="25,322 127,321 306,320 462,323 593,330 676,332 801,340 975,344 1104,351" />
+                <TextEquiv>
+                    <Unicode>jus habeant tenendi predicta tenementa cum pertinenciis vt jus suum sicut illa tenent anpredictus Hugo habendi ea vt jus suum sicut illa petit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_192" custom="readingOrder {index:10;}">
+                <Coords points="30,357 166,360 290,358 348,362 368,358 515,360 568,363 718,371 781,376 921,381 1112,389 1112,359 921,351 781,346 718,341 568,333 515,330 368,328 348,332 290,328 166,330 30,327" />
+                <Baseline points="30,351 166,354 290,352 348,356 368,352 515,354 568,357 718,365 781,370 921,375 1112,383" />
+                <TextEquiv>
+                    <Unicode>etc. Dies datus fuit eis de audienda eleccione magne assise predicte hic die Jouis proximapost festum Sancte Katerine. Et tunc veniant quatuor milites etc. Ad quem diem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_216" custom="readingOrder {index:11;}">
+                <Coords points="886,363 1035,370 1098,370 1098,340 1035,340 886,333" />
+                <Baseline points="886,357 1035,364 1098,364" />
+                <TextEquiv>
+                    <Unicode>veniunt partes predicte et similiter </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_224" custom="readingOrder {index:12;}">
+                <Coords points="28,388 158,388 198,391 396,392 553,395 580,399 719,403 880,417 1086,420 1086,390 880,387 719,373 580,369 553,365 396,362 198,361 158,358 28,358" />
+                <Baseline points="28,382 158,382 198,385 396,386 553,389 580,393 719,397 880,411 1086,414" />
+                <TextEquiv>
+                    <Unicode>quatuor milites scilicet Henricus de Tychemersh Humfrydus de Bassyngbourn Thomas Curzoun et Thomas de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_244" custom="readingOrder {index:13;}">
+                <Coords points="31,419 131,419 242,423 410,425 475,427 623,432 731,437 828,440 867,444 1060,449 1060,419 867,414 828,410 731,407 623,402 475,397 410,395 242,393 131,389 31,389" />
+                <Baseline points="31,413 131,413 242,417 410,419 475,421 623,426 731,431 828,434 867,438 1060,443" />
+                <TextEquiv>
+                    <Unicode>Boketon jurati. Qui se ipsos elegerunt et eciam Thomam de Werdon Robertum de Hotot deClopton Willelmum de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_266" custom="readingOrder {index:14;}">
+                <Coords points="28,449 174,453 333,456 482,460 688,467 871,475 969,479 1062,481 1062,451 969,449 871,445 688,437 482,430 333,426 174,423 28,419" />
+                <Baseline points="28,443 174,447 333,450 482,454 688,461 871,469 969,473 1062,475" />
+                <TextEquiv>
+                    <Unicode>Raundes Iohannem Gryffyn Robertum Chaumpayne Iohannem Mallore Gilbertum de Tolthorp Galfridum Rydel </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_284" custom="readingOrder {index:15;}">
+                <Coords points="32,485 157,487 346,489 430,490 462,494 588,497 719,499 804,503 919,511 1093,514 1093,484 919,481 804,473 719,469 588,467 462,464 430,460 346,459 157,457 32,455" />
+                <Baseline points="32,479 157,481 346,483 430,484 462,488 588,491 719,493 804,497 919,505 1093,508" />
+                <TextEquiv>
+                    <Unicode>Egidium de Cugeho Radulfum de Normanuill Iohannem de Brakenberwe et Ricardum Chaumberleyn. Ideo preceptum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_306" custom="readingOrder {index:16;}">
+                <Coords points="34,517 143,519 372,521 525,526 662,530 773,532 811,539 975,545 987,545 987,515 975,515 811,509 773,502 662,500 525,496 372,491 143,489 34,487" />
+                <Baseline points="34,511 143,513 372,515 525,520 662,524 773,526 811,533 975,539 987,539" />
+                <TextEquiv>
+                    <Unicode>est vicecomiti quod venire faciat predictos sexdecim milites hic die Jouis in octabis Sancti Andree apostoli.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_326" custom="readingOrder {index:17;}">
+                <Coords points="32,554 162,555 326,556 540,560 755,566 909,574 1095,580 1095,550 909,544 755,536 540,530 326,526 162,525 32,524" />
+                <Baseline points="32,548 162,549 326,550 540,554 755,560 909,568 1095,574" />
+                <TextEquiv>
+                    <Unicode>Ad quem diem veniunt partes predicte et similiter predicti Henricus de Tychemersh Humfridus de Bassyngbourn Thomas </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_342" custom="readingOrder {index:18;}">
+                <Coords points="35,586 180,586 341,590 512,592 683,595 829,601 1086,616 1086,586 829,571 683,565 512,562 341,560 180,556 35,556" />
+                <Baseline points="35,580 180,580 341,584 512,586 683,589 829,595 1086,610" />
+                <TextEquiv>
+                    <Unicode>Cursoun Thomas de Boketon Thomas de Verdon Robertus de Hotot Willelmus de Raundes Iohannes Gryffyn </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_358" custom="readingOrder {index:19;}">
+                <Coords points="31,622 153,619 209,623 415,623 670,630 886,635 1072,647 1072,617 886,605 670,600 415,593 209,593 153,589 31,592" />
+                <Baseline points="31,616 153,613 209,617 415,617 670,624 886,629 1072,641" />
+                <TextEquiv>
+                    <Unicode>Iohannes Mallore Gilbertus de Tholthorp Galfridus Ridel et Egidius de Cugenho milites juratiqui </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_374" custom="readingOrder {index:20;}">
+                <Coords points="38,654 99,653 129,658 272,655 449,661 606,661 730,663 860,665 950,670 983,675 1082,678 1082,648 983,645 950,640 860,635 730,633 606,631 449,631 272,625 129,628 99,623 38,624" />
+                <Baseline points="38,648 99,647 129,652 272,649 449,655 606,655 730,657 860,659 950,664 983,669 1082,672" />
+                <TextEquiv>
+                    <Unicode>dicunt super sacramentum suum. quod predicti Robertus le Keu et Iohanna habentmaius jus tenendi predicta tenementa cum pertinencis </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_398" custom="readingOrder {index:21;}">
+                <Coords points="35,690 124,690 227,691 394,692 532,693 692,696 790,695 864,697 1012,703 1081,705 1081,675 1012,673 864,667 790,665 692,666 532,663 394,662 227,661 124,660 35,660" />
+                <Baseline points="35,684 124,684 227,685 394,686 532,687 692,690 790,689 864,691 1012,697 1081,699" />
+                <TextEquiv>
+                    <Unicode>vt jus suum sicut illa tenent quam predictus Hugo habendi eadem tenementa cum pertinencis vt jus suum sicut illa petit. Ideo </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_420" custom="readingOrder {index:22;}">
+                <Coords points="41,723 154,723 230,726 393,725 540,725 632,727 760,730 907,729 951,734 1075,735 1081,735 1081,705 1075,705 951,704 907,699 760,700 632,697 540,695 393,695 230,696 154,693 41,693" />
+                <Baseline points="41,717 154,717 230,720 393,719 540,719 632,721 760,724 907,723 951,728 1075,729 1081,729" />
+                <TextEquiv>
+                    <Unicode>consideratum est quod idem Robertus et Iohanna teneant predicta mesuagium vnam virgatam terre et dimidiam et quartam partem vnius </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_444" custom="readingOrder {index:23;}">
+                <Coords points="40,752 162,755 289,756 373,757 465,757 589,762 754,762 887,765 975,768 999,771 1078,769 1078,739 999,741 975,738 887,735 754,732 589,732 465,727 373,727 289,726 162,725 40,722" />
+                <Baseline points="40,746 162,749 289,750 373,751 465,751 589,756 754,756 887,759 975,762 999,765 1078,763" />
+                <TextEquiv>
+                    <Unicode>virgate terre cum pertinenciis in predicta villa de Magna Neuton eis et heredibus suis quiete de predicto Hugone et heredibus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_468" custom="readingOrder {index:24;}">
+                <Coords points="45,785 172,787 335,790 516,789 516,759 335,760 172,757 45,755" />
+                <Baseline points="45,779 172,781 335,784 516,783" />
+                <TextEquiv>
+                    <Unicode>suis imperpetuum. Et Hugo in misericordia pro falso clamore etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <Coords points="1119,808 3,806 3,3 1110,1" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

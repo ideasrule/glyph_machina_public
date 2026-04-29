@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-11-22T07:32:43.132+01:00</Created>
+        <LastChange>2023-11-22T07:42:26.424+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="61693355" pageNr="1" tsid="140452191" status="GT" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=IRIDECCFERCRYWOCTAAVWPKY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FOSZDSXYUNHDVCJGKEVFAZLX" imageId="49869941" />
+    </Metadata>
+    <Page imageFilename="JUST1-734m5d.jpeg" imageWidth="1023" imageHeight="778">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1700697991936" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="9,92 206,79 405,66 609,59 888,55 994,49 994,7 888,13 609,17 405,24 206,37 9,50" />
+                <Baseline points="9,83 206,70 405,57 609,50 888,46 994,40" />
+                <TextEquiv>
+                    <Unicode>Jurata venit recognitura utrum unum mesuagium viginti et sex acras terre septem acre prati cum pertinenciis in Duddebir sint libera </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_24" custom="readingOrder {index:1;}">
+                <Coords points="22,136 137,128 219,119 392,109 551,105 685,98 850,96 966,92 966,50 850,54 685,56 551,63 392,67 219,77 137,86 22,94" />
+                <Baseline points="22,127 137,119 219,110 392,100 551,96 685,89 850,87 966,83" />
+                <TextEquiv>
+                    <Unicode>elemosina pertinens ad ecclesiam de Duddebir unde Willelmus de Ros est persona an laicum feodum Roberti de Furches </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_42" custom="readingOrder {index:2;}">
+                <Coords points="25,176 156,171 325,155 538,149 692,141 793,136 880,139 969,136 969,94 880,97 793,94 692,99 538,107 325,113 156,129 25,134" />
+                <Baseline points="25,167 156,162 325,146 538,140 692,132 793,127 880,130 969,127" />
+                <TextEquiv>
+                    <Unicode>Willelmi Lenfaunt et Johannis Blodenoch unde predictus Robertus xx acras terre et septem acras prati predictus Willelmus sex acras </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_60" custom="readingOrder {index:3;}">
+                <Coords points="25,220 126,216 312,198 464,196 676,185 854,182 986,176 986,134 854,140 676,143 464,154 312,156 126,174 25,178" />
+                <Baseline points="25,211 126,207 312,189 464,187 676,176 854,173 986,167" />
+                <TextEquiv>
+                    <Unicode>predictus Johannes predictum mesuagium inde tenent. Et unde predictus Willelmus dicit quod quidam Osbertus predecessor suus quondam </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_76" custom="readingOrder {index:4;}">
+                <Coords points="28,262 162,253 374,240 552,236 737,226 992,217 992,175 737,184 552,194 374,198 162,211 28,220" />
+                <Baseline points="28,253 162,244 374,231 552,227 737,217 992,208" />
+                <TextEquiv>
+                    <Unicode>persona predicte ecclesie fuit seisitus de predictis tenemento et mesuagio in dominico suo ut de feodo et jure tempore regis Ricardi avunculi </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_90" custom="readingOrder {index:5;}">
+                <Coords points="34,309 185,297 348,281 506,274 671,272 904,258 904,216 671,230 506,232 348,239 185,255 34,267" />
+                <Baseline points="34,300 185,288 348,272 506,265 671,263 904,249" />
+                <TextEquiv>
+                    <Unicode>domini regis nune capiendo inde explecia ad valenciam etc. Et dicit quod idem Osbertus tenementa illa alienavit etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_104" custom="readingOrder {index:6;}">
+                <Coords points="33,347 186,335 344,322 480,318 675,311 827,303 949,292 1006,292 1006,250 949,250 827,261 675,269 480,276 344,280 186,293 33,305" />
+                <Baseline points="33,338 186,326 344,313 480,309 675,302 827,294 949,283 1006,283" />
+                <TextEquiv>
+                    <Unicode>Et Robertus et alii veniunt et predictus Willelmus vocat ad warantum predictum Robertum qui presens est et ei warantizat. Et tam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_122" custom="readingOrder {index:7;}">
+                <Coords points="38,391 190,379 422,359 569,354 604,354 705,349 870,342 1002,331 1002,289 870,300 705,307 604,312 569,312 422,317 190,337 38,349" />
+                <Baseline points="38,382 190,370 422,350 569,345 604,345 705,340 870,333 1002,322" />
+                <TextEquiv>
+                    <Unicode>de terra quam tenet quam de illa quam ei warantizat vocat ad warantum Ranulfum filium Walteri de Harpecote. Et Johanne </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_140" custom="readingOrder {index:8;}">
+                <Coords points="38,430 198,417 368,407 574,398 744,388 869,381 981,372 981,330 869,339 744,346 574,356 368,365 198,375 38,388" />
+                <Baseline points="38,421 198,408 368,398 574,389 744,379 869,372 981,363" />
+                <TextEquiv>
+                    <Unicode>Blodenoch similiter vocat ad warantum predictum Ranulfum. Habeant eos die martis proxima post octabas Sancti Hillarii per auxilium curie. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_156" custom="readingOrder {index:9;}">
+                <Coords points="34,466 129,457 241,455 413,440 544,432 766,428 1004,416 1004,374 766,386 544,390 413,398 241,413 129,415 34,424" />
+                <Baseline points="34,457 129,448 241,446 413,431 544,423 766,419 1004,407" />
+                <TextEquiv>
+                    <Unicode>Postea ad diem illum non venit predictus Ranulfus. Et vicecomes testatur summonicionem. Ideo ipse resummoneatur quod sit die mercurii proxima post </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_172" custom="readingOrder {index:10;}">
+                <Coords points="40,504 212,493 392,480 539,471 676,469 795,463 994,456 994,414 795,421 676,427 539,429 392,438 212,451 40,462" />
+                <Baseline points="40,495 212,484 392,471 539,462 676,460 795,454 994,447" />
+                <TextEquiv>
+                    <Unicode>festum Conversionis Sancti Pauli. Postea ad diem illum venit predictus Ranulfus et cos warantizat. Et dicit quod predicta tenementa </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_188" custom="readingOrder {index:11;}">
+                <Coords points="42,546 121,538 252,536 386,524 529,516 638,514 790,509 998,500 998,458 790,467 638,472 529,474 386,482 252,494 121,496 42,504" />
+                <Baseline points="42,537 121,529 252,527 386,515 529,507 638,505 790,500 998,491" />
+                <TextEquiv>
+                    <Unicode>non sunt libera elemosina pertinens ad predictam ecclesiam, quia dicit quod predictus Osbertus nec aliquis predecessorum suorum unquam </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_206" custom="readingOrder {index:12;}">
+                <Coords points="45,583 188,579 338,574 418,566 504,561 643,559 826,556 995,549 995,507 826,514 643,517 504,519 418,524 338,532 188,537 45,541" />
+                <Baseline points="45,574 188,570 338,565 418,557 504,552 643,550 826,547 995,540" />
+                <TextEquiv>
+                    <Unicode>fuit inde in seisina ut de libera elemosina pertinente ad predictam ecclesiam. Dicit enim quod nichil inde habuit nisi </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_224" custom="readingOrder {index:13;}">
+                <Coords points="48,626 154,624 314,612 457,610 655,600 790,600 923,596 923,554 790,558 655,558 457,568 314,570 154,582 48,584" />
+                <Baseline points="48,617 154,615 314,603 457,601 655,591 790,591 923,587" />
+                <TextEquiv>
+                    <Unicode>redditum provenientem de predicto tenemento ita quod nichil inde habuit in dominico. Et de hoc ponit se super juratam.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_240" custom="readingOrder {index:14;}">
+                <Coords points="47,674 182,668 398,657 524,654 676,650 886,648 1001,649 1001,607 886,606 676,608 524,612 398,615 182,626 47,632" />
+                <Baseline points="47,665 182,659 398,648 524,645 676,641 886,639 1001,640" />
+                <TextEquiv>
+                    <Unicode>Juratores dicunt quod predicta tenementa sunt libera elemosina pertinens ad predictam ecclesiam de Duddebyr et non laicum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_256" custom="readingOrder {index:15;}">
+                <Coords points="45,721 175,716 338,701 465,698 545,701 674,693 918,689 918,647 674,651 545,659 465,656 338,659 175,674 45,679" />
+                <Baseline points="45,712 175,707 338,692 465,689 545,692 674,684 918,680" />
+                <TextEquiv>
+                    <Unicode>feodum predicti Ranulfi. Et ideo consideratum est quod predictus Willelmus de Ros recuperet seisinam suam et quod predicti </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_272" custom="readingOrder {index:16;}">
+                <Coords points="53,763 239,755 375,742 511,742 770,736 770,694 511,700 375,700 239,713 53,721" />
+                <Baseline points="53,754 239,746 375,733 511,733 770,727" />
+                <TextEquiv>
+                    <Unicode>Robertus Willelmus et Johannes habeant de terra predicti Ranulfi ad valenciam. Et Ranulfus in misericordia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <Coords points="1009,733 45,761 1,42 1008,2" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-11-08T04:47:35.555+01:00</Created>
+        <LastChange>2023-11-20T23:29:49.874+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="61263771" pageNr="19" tsid="140255183" status="GT" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=TAJFLYFYVWKVXOBVBEKXSWPD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LXBOIXZXLTWATICLPVEFHAXD" imageId="49528373" />
+    </Metadata>
+    <Page imageFilename="JUST1-633m3d.jpeg" imageWidth="1089" imageHeight="821">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1700697996697" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <TextLine id="l_14" custom="readingOrder {index:0;}">
+                <Coords points="23,56 224,63 428,58 700,52 1048,49 1048,17 700,20 428,26 224,31 23,24" />
+                <Baseline points="23,49 224,56 428,51 700,45 1048,42" />
+                <TextEquiv>
+                    <Unicode>Assisa venit recognitura si Willelmus le Clerk de Braundeston et Iohannes filius eius et Iohannes Couele de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_26" custom="readingOrder {index:1;}">
+                <Coords points="20,98 224,95 443,95 620,92 713,87 865,92 1051,90 1051,58 865,60 713,55 620,60 443,63 224,63 20,66" />
+                <Baseline points="20,91 224,88 443,88 620,85 713,80 865,85 1051,83" />
+                <TextEquiv>
+                    <Unicode>Haldenby iniuste etc. disseisiuerunt Rogerum de Whyteby de Watteford et Margeriam vxorem eius de libero </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_42" custom="readingOrder {index:2;}">
+                <Coords points="15,129 115,129 257,129 353,129 435,127 568,128 679,125 829,125 935,122 1044,124 1044,92 935,90 829,93 679,93 568,96 435,95 353,97 257,97 115,97 15,97" />
+                <Baseline points="15,122 115,122 257,122 353,122 435,120 568,121 679,118 829,118 935,115 1044,117" />
+                <TextEquiv>
+                    <Unicode>tenemento suo in Assheby Leger post primam etc. Et vnde queruntur quod disseisiuerunt os de quinque solidatis redditus cum pertinenciis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_64" custom="readingOrder {index:3;}">
+                <Coords points="22,164 207,165 422,162 554,164 735,162 873,163 1042,159 1042,127 873,131 735,130 554,132 422,130 207,133 22,132" />
+                <Baseline points="22,157 207,158 422,155 554,157 735,155 873,156 1042,152" />
+                <TextEquiv>
+                    <Unicode>Et Willelmus et alii non veniunt, set quidam Iohannes de Daylyngton respondit pro eis tanquam eorum balliuus. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_80" custom="readingOrder {index:4;}">
+                <Coords points="22,196 193,197 363,194 513,197 686,195 919,196 1053,196 1053,164 919,164 686,163 513,165 363,162 193,165 22,164" />
+                <Baseline points="22,189 193,190 363,187 513,190 686,188 919,189 1053,189" />
+                <TextEquiv>
+                    <Unicode>Et pro predicto Willelmo le Clerk dicit quod ipse nichil clamat in redditu predicto nec aliquam iniuriam seu disseisinam </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_96" custom="readingOrder {index:5;}">
+                <Coords points="29,226 109,227 277,228 585,230 824,227 1031,232 1031,200 824,195 585,198 277,196 109,195 29,194" />
+                <Baseline points="29,219 109,220 277,221 585,223 824,220 1031,225" />
+                <TextEquiv>
+                    <Unicode>ei fecit etc. Et pro Iohanne filio eiusdem Willelmi tanquam tenente tenementorum in visu positorum etc. vnde idem </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_110" custom="readingOrder {index:6;}">
+                <Coords points="31,261 130,263 271,267 406,269 572,267 744,265 897,262 1035,265 1035,233 897,230 744,233 572,235 406,237 271,235 130,231 31,229" />
+                <Baseline points="31,254 130,256 271,260 406,262 572,260 744,258 897,255 1035,258" />
+                <TextEquiv>
+                    <Unicode>Rogers et Margeria asserunt predictum redditum prouenire etc. non tenentur de is nec sunt de eorum feodo </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_128" custom="readingOrder {index:7;}">
+                <Coords points="26,293 159,294 310,298 412,299 472,303 551,299 726,298 884,298 1035,296 1035,264 884,266 726,266 551,267 472,271 412,267 310,266 159,262 26,261" />
+                <Baseline points="26,286 159,287 310,291 412,292 472,296 551,292 726,291 884,291 1035,289" />
+                <TextEquiv>
+                    <Unicode>seu dominio etc. Et petit iudicium etc. Et pro predicto Iohanne de Couele tanquam tenente predicti redditus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_154" custom="readingOrder {index:8;}">
+                <Coords points="29,324 177,325 323,331 467,330 629,331 816,331 961,332 1041,328 1041,296 961,300 816,299 629,299 467,298 323,299 177,293 29,292" />
+                <Baseline points="29,317 177,318 323,324 467,323 629,324 816,324 961,325 1041,321" />
+                <TextEquiv>
+                    <Unicode>dicit quod predicti Rogers et Margeria iniuste se queruntur in hac parte, quia dicit quod quidam Iohannes pater ipsius </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_172" custom="readingOrder {index:9;}">
+                <Coords points="27,360 129,359 277,361 422,362 577,362 716,363 859,364 1016,365 1053,363 1053,331 1016,333 859,332 716,331 577,330 422,330 277,329 129,327 27,328" />
+                <Baseline points="27,353 129,352 277,354 422,355 577,355 716,356 859,357 1016,358 1053,356" />
+                <TextEquiv>
+                    <Unicode>Iohannis de Couele cuius heres ipse este obit seisitus de predicto redditu in dominico suo vt de feodo, post cuius mor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_192" custom="readingOrder {index:10;}">
+                <Coords points="24,388 60,389 123,393 261,393 469,396 675,399 826,395 946,398 1039,398 1039,366 946,366 826,363 675,367 469,364 261,361 123,361 60,357 24,356" />
+                <Baseline points="24,381 60,382 123,386 261,386 469,389 675,392 826,388 946,391 1039,391" />
+                <TextEquiv>
+                    <Unicode>tem ipse intrauit in predicto redditu vt filius et heres ipsius Iohannis propinquior et seisinam sum inde hucusque con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_212" custom="readingOrder {index:11;}">
+                <Coords points="28,424 130,429 338,431 630,434 856,429 985,431 1054,435 1054,403 985,399 856,397 630,402 338,399 130,397 28,392" />
+                <Baseline points="28,417 130,422 338,424 630,427 856,422 985,424 1054,428" />
+                <TextEquiv>
+                    <Unicode>tinuauit absque aliqua iniuria aut disseisina eisdem Rogero et Margerie inde facienda etc. Et de hoc ponit se super </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_228" custom="readingOrder {index:12;}">
+                <Coords points="29,458 149,461 149,429 29,426" />
+                <Baseline points="29,451 149,454" />
+                <TextEquiv>
+                    <Unicode>assisam etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_234" custom="readingOrder {index:13;}">
+                <Coords points="25,491 282,495 509,495 735,495 892,491 1052,488 1052,456 892,459 735,463 509,463 282,463 25,459" />
+                <Baseline points="25,484 282,488 509,488 735,488 892,484 1052,481" />
+                <TextEquiv>
+                    <Unicode>Et predicti Rogers et Margeria dicunt quod predicta tenementa posita in visu etc. vnde etc. tenentur de eis per predictum seruicium </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_248" custom="readingOrder {index:14;}">
+                <Coords points="27,520 169,519 278,525 431,524 590,522 741,526 888,522 967,522 1050,522 1050,490 967,490 888,490 741,494 590,490 431,492 278,493 169,487 27,488" />
+                <Baseline points="27,513 169,512 278,518 431,517 590,515 741,519 888,515 967,515 1050,515" />
+                <TextEquiv>
+                    <Unicode>predictorum quinque solidorum per annum, de quo quidem redditu ipsi seisiti fuerunt vt de libero tenemento suo quousque </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_268" custom="readingOrder {index:15;}">
+                <Coords points="32,549 160,549 245,552 355,553 473,557 608,556 761,557 887,553 1044,553 1044,521 887,521 761,525 608,524 473,525 355,521 245,520 160,517 32,517" />
+                <Baseline points="32,542 160,542 245,545 355,546 473,550 608,549 761,550 887,546 1044,546" />
+                <TextEquiv>
+                    <Unicode>predicti Willelmus et alii ipsos inde iniuste disseisiuerunt etc. Et hoc petunt quod inquiratur per assisam etc. Et predicti </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_288" custom="readingOrder {index:16;}">
+                <Coords points="21,583 126,585 236,590 415,591 597,593 597,561 415,559 236,558 126,553 21,551" />
+                <Baseline points="21,576 126,578 236,583 415,584 597,586" />
+                <TextEquiv>
+                    <Unicode>Willelmus et ali per predictum balliuum similiter. Ideo capiatur assisa.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_300" custom="readingOrder {index:17;}">
+                <Coords points="26,621 221,624 351,624 536,629 698,628 922,625 1048,628 1048,596 922,593 698,596 536,597 351,592 221,592 26,589" />
+                <Baseline points="26,614 221,617 351,617 536,622 698,621 922,618 1048,621" />
+                <TextEquiv>
+                    <Unicode>Et iuratores ex consensu parcium electi veniunt et dicunt super sacramentum suum quod predicta tenementa tenentur de predictis Roger </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_316" custom="readingOrder {index:18;}">
+                <Coords points="28,655 152,656 267,656 352,661 508,662 656,662 755,662 866,658 943,660 1029,661 1029,629 943,628 866,626 755,630 656,630 508,630 352,629 267,624 152,624 28,623" />
+                <Baseline points="28,648 152,649 267,649 352,654 508,655 656,655 755,655 866,651 943,653 1029,654" />
+                <TextEquiv>
+                    <Unicode>et Margeria per seruicia predicta et quod predicti Iohannes filius Willelmi et Iohannes de Couele disseisiuerunt predictos </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_338" custom="readingOrder {index:19;}">
+                <Coords points="36,689 122,691 264,692 401,690 532,696 656,693 779,693 879,693 944,694 1048,688 1048,656 944,662 879,661 779,661 656,661 532,664 401,658 264,660 122,659 36,657" />
+                <Baseline points="36,682 122,684 264,685 401,683 532,689 656,686 779,686 879,686 944,687 1048,681" />
+                <TextEquiv>
+                    <Unicode>Rogerum et Margeriam de predicto redditu scut queruntur. Ideo consideratum est quod predicti Rogers et Margeria recuper</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_360" custom="readingOrder {index:20;}">
+                <Coords points="32,719 131,722 227,726 361,725 464,725 658,728 740,725 767,727 842,725 1042,720 1042,688 842,693 767,695 740,693 658,696 464,693 361,693 227,694 131,690 32,687" />
+                <Baseline points="32,712 131,715 227,719 361,718 464,718 658,721 740,718 767,720 842,718 1042,713" />
+                <TextEquiv>
+                    <Unicode>ent inde seisinam sum per visum recognitorum et dampna sua que taxantur per eosdem ad viginti solidos. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_382" custom="readingOrder {index:21;}">
+                <Coords points="30,756 179,755 303,762 477,757 580,762 695,761 826,760 1032,760 1032,728 826,728 695,729 580,730 477,725 303,730 179,723 30,724" />
+                <Baseline points="30,749 179,748 303,755 477,750 580,755 695,754 826,753 1032,753" />
+                <TextEquiv>
+                    <Unicode>Et predicti Iohannes filius Willelmi et Iohannes de Couele in misericordia. Et similiter predicti Rogers et Margeria in misericordia pro </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_400" custom="readingOrder {index:22;}">
+                <Coords points="35,789 149,790 289,794 373,799 440,794 614,790 771,792 1048,790 1048,758 771,760 614,758 440,762 373,767 289,762 149,758 35,757" />
+                <Baseline points="35,782 149,783 289,787 373,792 440,787 614,783 771,785 1048,783" />
+                <TextEquiv>
+                    <Unicode>falso clamore versus predictum Willelmum etc. Postea in curia hic venit predictus Rogers de Whyteby et cognouit quod satisfactum est </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_418" custom="readingOrder {index:23;}">
+                <Coords points="37,815 178,819 371,819 525,819 637,815 637,783 525,787 371,787 178,787 37,783" />
+                <Baseline points="37,808 178,812 371,812 525,812 637,808" />
+                <TextEquiv>
+                    <Unicode>eis de dampnis predictis. Ideo predicti Iohannes et Iohannes inde quieti etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <Coords points="1055,819 6,819 6,9 371,9 1055,9" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>prov=READ-COOP:name=TrHtr:version=2.5.0:model_id=51170:date=06_11_2023_04:46</Creator>
+    <Created>2023-11-06T04:43:18.423+01:00</Created>
+    <LastChange>2025-12-31T19:45:26Z</LastChange>
+    <TranskribusMetadata docId="1640070" imageId="49447233" imgUrl="https://files.transkribus.eu/Get?id=QOWMMUAUDXIXVIGZRZEDWUUG&amp;fileType=view" pageId="61175331" pageNr="21" status="GT" tsid="138922636" userId="195295" xmlUrl="https://files.transkribus.eu/Get?id=AAZTOZMCIOKRPAEJZINZPYJG"/>
+  </Metadata>
+  <Page imageFilename="JUST1-635m6f.png" imageHeight="310" imageWidth="1179">
+    <ReadingOrder>
+      <OrderedGroup caption="Regions reading order" id="ro_1700697997202">
+        <RegionRefIndexed index="0" regionRef="tr_1"/>
+      </OrderedGroup>
+    </ReadingOrder>
+    <Relations/>
+    <TextRegion custom="readingOrder {index:0;}" id="tr_1">
+      <Coords points="7,-18 1147,-18 1182,269 1073,279 4,319"/>
+      <TextLine custom="readingOrder {index:0;}" id="tr_1_tl_2">
+        <Coords points="19,62 23,62 52,64 82,64 111,62 138,67 170,66 201,66 229,65 259,64 290,65 318,65 347,65 380,64 409,64 435,60 469,61 491,61 508,61 521,60 559,60 585,60 619,61 642,58 668,58 698,55 727,53 757,51 786,51 816,51 845,49 875,49 904,47 933,47 963,47 992,45 1152,42 1152,14 992,17 963,19 933,19 904,19 875,21 845,21 816,23 786,23 757,23 727,25 698,27 668,30 642,30 619,33 585,32 559,32 521,32 508,33 491,33 469,33 435,32 409,36 380,36 347,37 318,37 290,37 259,36 229,37 201,38 170,38 138,39 111,34 82,36 52,36 23,34 19,34"/>
+        <Baseline points="19,56 23,56 52,58 82,58 111,56 138,61 170,60 201,60 229,59 259,58 290,59 318,59 347,59 380,58 409,58 435,54 469,55 491,55 508,55 521,54 559,54 585,54 619,55 642,52 668,52 698,49 727,47 757,45 786,45 816,45 845,43 875,43 904,41 933,41 963,41 992,39 1152,36"/>
+        <TextEquiv>
+          <Unicode>Rogerus atte Grene de Magna Dodyngton felonice interfecit quendam Nicholaum le Roo de Wylebi in campo de Wyleby</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:1;}" id="tr_1_tl_3">
+        <Coords points="11,102 23,100 52,96 82,94 111,94 141,94 170,92 200,92 229,92 258,92 288,92 317,92 347,92 376,90 406,90 435,90 465,90 494,92 523,92 553,90 582,90 612,88 641,88 671,88 700,86 729,84 759,84 788,82 818,84 847,82 877,80 906,80 935,80 965,78 994,76 1159,74 1159,46 994,48 965,50 935,52 906,52 877,52 847,54 818,56 788,54 759,56 729,56 700,58 671,60 641,60 612,60 582,62 553,62 523,64 494,64 465,62 435,62 406,62 376,62 347,64 317,64 288,64 258,64 229,64 200,64 170,64 141,66 111,66 82,66 52,68 23,72 11,74"/>
+        <Baseline points="11,96 23,94 52,90 82,88 111,88 141,88 170,86 200,86 229,86 258,86 288,86 317,86 347,86 376,84 406,84 435,84 465,84 494,86 523,86 553,84 582,84 612,82 641,82 671,82 700,80 729,78 759,78 788,76 818,78 847,76 877,74 906,74 935,74 965,72 994,70 1159,68"/>
+        <TextEquiv>
+          <Unicode>Et statim post factum captus fuit et ductus ad gaolam castri Northamton in custodia Iohannis de Wylugby tunc vicecomitis. Ideo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:2;}" id="tr_1_tl_5">
+        <Coords points="7,137 27,136 57,136 86,135 117,131 144,130 174,132 204,130 235,127 264,128 294,126 321,123 351,121 380,119 415,121 442,124 469,122 499,126 531,124 562,122 593,123 619,121 651,119 678,121 707,120 740,119 771,118 796,116 840,115 867,116 891,114 913,113 946,112 972,111 1007,110 1148,106 1148,78 1007,82 972,83 946,84 913,85 891,86 867,88 840,87 796,88 771,90 740,91 707,92 678,93 651,91 619,93 593,95 562,94 531,96 499,98 469,94 442,96 415,93 380,91 351,93 321,95 294,98 264,100 235,99 204,102 174,104 144,102 117,103 86,107 57,108 27,108 7,109"/>
+        <Baseline points="7,131 27,130 57,130 86,129 117,125 144,124 174,126 204,124 235,121 264,122 294,120 321,117 351,115 380,113 415,115 442,118 469,116 499,120 531,118 562,116 593,117 619,115 651,113 678,115 707,114 740,113 771,112 796,110 840,109 867,110 891,108 913,107 946,106 972,105 1007,104 1148,100"/>
+        <TextEquiv>
+          <Unicode>respondet eius heres quo deuenit. --- Postea venit Robertus filius et heres predicti Johannis et allocutus de predicto prisono quo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:3;}" id="tr_1_tl_7">
+        <Coords points="9,166 29,164 58,162 88,161 117,161 147,159 176,159 206,159 235,157 264,155 294,155 323,155 353,155 382,153 412,151 441,151 470,151 500,151 529,153 559,151 588,149 620,146 620,146 651,151 680,149 710,147 739,147 1161,140 1161,112 739,119 710,119 680,121 651,123 620,118 620,118 588,121 559,123 529,125 500,123 470,123 441,123 412,123 382,125 353,127 323,127 294,127 264,127 235,129 206,131 176,131 147,131 117,133 88,133 58,134 29,136 9,138"/>
+        <Baseline points="9,160 29,158 58,156 88,155 117,155 147,153 176,153 206,153 235,151 264,149 294,149 323,149 353,149 382,147 412,145 441,145 470,145 500,145 529,147 559,145 588,143 620,140 620,140 651,145 680,143 710,141 739,141 1161,134"/>
+        <TextEquiv>
+          <Unicode>deuenit dicit . quod non potest dedicere quin fuit vicecomes tempore quo predictus Rogerus captus fuit, set dicit quod Nicholaus de Segraue tunc</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:4;}" id="tr_1_tl_9">
+        <Coords points="9,192 27,192 56,190 86,190 115,188 145,188 174,186 204,186 233,186 262,184 292,184 321,184 351,182 380,180 410,182 439,180 468,182 498,182 527,180 557,180 1156,169 1156,141 557,152 527,152 498,154 468,154 439,152 410,154 380,152 351,154 321,156 292,156 262,156 233,158 204,158 174,158 145,160 115,160 86,162 56,162 27,164 9,164"/>
+        <Baseline points="9,186 27,186 56,184 86,184 115,182 145,182 174,180 204,180 233,180 262,178 292,178 321,178 351,176 380,174 410,176 439,174 468,176 498,176 527,174 557,174 1156,163"/>
+        <TextEquiv>
+          <Unicode>temporis fuit constabularius castri Northamton et habuit custodiam omnium prisonum existencium in castro predicto. Ita quod idem Rogerus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:5;}" id="tr_1_tl_11">
+        <Coords points="9,217 10,220 40,223 69,225 100,225 133,225 160,224 190,221 217,222 247,222 276,220 306,221 337,219 365,215 1159,200 1159,172 365,187 337,191 306,193 276,192 247,194 217,194 190,193 160,196 133,197 100,197 69,197 40,195 10,192 9,189"/>
+        <Baseline points="9,211 10,214 40,217 69,219 100,219 133,219 160,218 190,215 217,216 247,216 276,214 306,215 337,213 365,209 1159,194"/>
+        <TextEquiv>
+          <Unicode>nunquam in custodia predicti Johannis deuenit. Et hoc paratus est verificare prout curia. etc. Ideo datus est ei dies, die Lune proxima post festum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:6;}" id="l">
+        <Coords points="5,256 52,253 125,252 212,252 323,247 426,245 518,243 583,241 663,238 743,237 797,232 843,232 961,229 1057,224 1100,224 1156,223 1173,220 1156,224 1156,196 1173,192 1156,195 1100,196 1057,196 961,201 843,204 797,204 743,209 663,210 583,213 518,215 426,217 323,219 212,224 125,224 52,225 5,228"/>
+        <Baseline points="5,250 52,247 125,246 212,246 323,241 426,239 518,237 583,235 663,232 743,231 797,226 843,226 961,223 1057,218 1100,218 1167,215"/>
+        <TextEquiv>
+          <Unicode>Sancti Hillarii etc. --- Postea venit Robertus filius et heres predicti Johannis de Wilughby et nichil dicit quare de predicto prisone debet exonerari</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:7;}" id="l_295">
+        <Coords points="11,278 95,278 223,273 345,272 474,274 574,269 689,267 810,266 917,257 1013,254 1102,250 1161,247 1174,246 1174,218 1161,219 1102,222 1013,226 917,229 810,238 689,239 574,241 474,246 345,244 223,245 95,250 11,250"/>
+        <Baseline points="11,272 95,272 223,267 345,266 474,268 574,263 689,261 810,260 917,251 1013,248 1102,244 1154,241 1170,240"/>
+        <TextEquiv>
+          <Unicode>Ideo ad iudicium de euasione ipsius Rogeri super ipsum Robertum filium et heredem predicti Johannis etc. Postea compertum est per rotulos coronatorum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:8;}" id="l_323">
+        <Coords points="13,299 122,300 227,296 361,294 497,293 573,291 573,263 497,265 361,266 227,268 122,272 13,271"/>
+        <Baseline points="13,293 122,294 227,290 361,288 497,287 573,285"/>
+        <TextEquiv>
+          <Unicode>quod predictus Rogerus obiit in prisona. Ideo nichil de euasione etc.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

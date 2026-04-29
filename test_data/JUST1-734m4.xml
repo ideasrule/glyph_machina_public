@@ -1,0 +1,236 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>Transkribus</Creator>
+    <Created>2023-11-20T22:06:30.633+01:00</Created>
+    <LastChange>2025-12-31T18:33:46Z</LastChange>
+    <TranskribusMetadata docId="1640070" imageId="49850892" imgUrl="https://files.transkribus.eu/Get?id=VLOIMUPOUBGWZEVXLGBJMEYC&amp;fileType=view" pageId="61667328" pageNr="3" status="GT" tsid="140270607" userId="195295" xmlUrl="https://files.transkribus.eu/Get?id=RMWGMTGIWQGAIQLLSQNCDKRC"/>
+  </Metadata>
+  <Page imageFilename="JUST1-734m4.jpeg" imageHeight="1142" imageWidth="990">
+    <ReadingOrder>
+      <OrderedGroup caption="Regions reading order" id="ro_1700697992495">
+        <RegionRefIndexed index="0" regionRef="r"/>
+      </OrderedGroup>
+    </ReadingOrder>
+    <Relations/>
+    <TextRegion custom="readingOrder {index:0;}" id="r">
+      <Coords points="976,1133 1,1133 1,-1 990,22"/>
+      <TextLine custom="readingOrder {index:0;}" id="l">
+        <Coords points="2,46 140,42 299,41 544,47 759,56 976,55 976,23 759,24 544,15 299,9 140,10 2,14"/>
+        <Baseline points="2,39 140,35 299,34 544,40 759,49 976,48"/>
+        <TextEquiv>
+          <Unicode>¶ Assisa venit recognitura si Thomas filius Roberti injuste etc. disseisivit Rogerum de Kilmescot de communa pasture sue in Brochton que </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:1;}" id="l_22">
+        <Coords points="8,79 157,71 334,68 548,75 718,82 769,86 974,87 974,55 769,54 718,50 548,43 334,36 157,39 8,47"/>
+        <Baseline points="8,72 157,64 334,61 548,68 718,75 769,79 974,80"/>
+        <TextEquiv>
+          <Unicode>pertinet ad liberum tenementum suum in Kilmescot post primam etc. Et unde queritur quod, cum habere solebat communam pasture in quibusdam</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:2;}" id="l_38">
+        <Coords points="14,110 89,109 158,103 291,101 499,103 642,110 819,113 969,118 969,86 819,81 642,78 499,71 291,69 158,71 89,77 14,78"/>
+        <Baseline points="14,103 89,102 158,96 291,94 499,96 642,103 819,106 969,111"/>
+        <TextEquiv>
+          <Unicode>campis que continent circiter ducentas acras tam in pratis quam in terris arabilibus in quibus solebat communicare post fena et </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:3;}" id="l_56">
+        <Coords points="10,143 141,142 320,133 453,132 629,135 816,138 964,144 964,112 816,106 629,103 453,100 320,101 141,110 10,111"/>
+        <Baseline points="10,136 141,135 320,126 453,125 629,128 816,131 964,137"/>
+        <TextEquiv>
+          <Unicode>blada asportata cum omnimodis averiis suis, predictus Thomas ipsum impedivit quominus ibi communicare possit aliquo tempore </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:4;}" id="l_75">
+        <Coords points="9,174 193,167 322,167 400,165 400,133 322,135 193,135 9,142"/>
+        <Baseline points="9,167 193,160 322,160 400,158"/>
+        <TextEquiv>
+          <Unicode>anni. Et Thomas venit et nichil dicit quare assisa remaneat.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:5;}" id="l_85">
+        <Coords points="12,207 188,201 421,200 548,207 701,208 821,214 977,212 977,180 821,182 701,176 548,175 421,168 188,169 12,175"/>
+        <Baseline points="12,200 188,194 421,193 548,200 701,201 821,207 977,205"/>
+        <TextEquiv>
+          <Unicode>Juratores dicunt quod predictus Thomas non disseisivit predictum Rogerum de predicta communa, quia dicunt quod predictus Rogerus nunquam aliquid habuit in </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:6;}" id="l_101">
+        <Coords points="8,241 151,240 312,236 464,237 643,235 873,241 976,240 976,208 873,209 643,203 464,205 312,204 151,208 8,209"/>
+        <Baseline points="8,234 151,233 312,229 464,230 643,228 873,234 976,233"/>
+        <TextEquiv>
+          <Unicode>predicta communa nisi ex gracia et pro suo dando et aliquando faciendo sectam ad molendinum predicti Thome de Brochton. Et ideo consideratum </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:7;}" id="l_119">
+        <Coords points="6,273 112,271 229,271 374,265 448,270 562,267 770,269 770,237 562,235 448,238 374,233 229,239 112,239 6,241"/>
+        <Baseline points="6,266 112,264 229,264 374,258 448,263 562,260 770,262"/>
+        <TextEquiv>
+          <Unicode>est quod predictus Thomas inde sine die, et Rogerus nichil capiat per assisam istam et sit in misericordia pro falso clamore.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:8;}" id="l_135">
+        <Coords points="2,317 154,315 299,310 462,310 652,306 821,309 915,314 990,319 990,287 915,282 821,277 652,274 462,278 299,278 154,283 2,285"/>
+        <Baseline points="2,310 154,308 299,303 462,303 652,299 821,302 915,307 984,311"/>
+        <TextEquiv>
+          <Unicode>¶ Assisa venit recognitura si Galfridus filius Galfridi de Ledewych injuste etc. disseisivit Agnetem filiam Johannis de Bracy de libero tenemento suo </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:9;}" id="l_153">
+        <Coords points="8,353 117,351 276,344 422,343 603,345 603,313 422,311 276,312 117,319 8,321"/>
+        <Baseline points="8,346 117,344 276,337 422,336 603,338"/>
+        <TextEquiv>
+          <Unicode>in Abbeton post primam etc. Et unde queritur quod disseisivit eam de dimidia virgata terre.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:10;}" id="l_165">
+        <Coords points="6,387 173,386 439,377 611,378 788,382 980,388 980,356 788,350 611,346 439,345 173,354 6,355"/>
+        <Baseline points="6,380 173,379 439,370 611,371 788,375 980,381"/>
+        <TextEquiv>
+          <Unicode>Et Galfridus venit et nichil clamat in predicta terra. Immo, dicit quod quidam Herbertus de Abbeton illam tenet et tenuit ante impetra</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:11;}" id="l_179">
+        <Coords points="8,416 119,420 250,415 383,418 383,386 250,383 119,388 8,384"/>
+        <Baseline points="8,409 119,413 250,408 383,411"/>
+        <TextEquiv>
+          <Unicode>cionem brevis sui et de hoc ponit se super assisam.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:12;}" id="l_189">
+        <Coords points="8,447 141,449 312,453 470,459 620,464 778,469 964,477 964,445 778,437 620,432 470,427 312,421 141,417 8,415"/>
+        <Baseline points="8,440 141,442 312,446 470,452 620,457 778,462 964,470"/>
+        <TextEquiv>
+          <Unicode>Juratores dicunt quod predictus Galfridus non disseisivit predictam Agnetem de predicta terra, quia dicunt quod Galfridus de Ledewyk, pater predicti Galfridi </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:13;}" id="l_205">
+        <Coords points="8,481 100,484 227,484 371,486 542,491 706,496 835,501 974,504 974,472 835,469 706,464 542,459 371,454 227,452 100,452 8,449"/>
+        <Baseline points="8,474 100,477 227,477 371,479 542,484 706,489 835,494 974,497"/>
+        <TextEquiv>
+          <Unicode>cujus heres ipse est aliquo tempore feoffavit predictam Agnetem de predicta terra et ipsam inde in plenariam seisinam posuit. Et postquam fuit </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:14;}" id="l_223">
+        <Coords points="11,511 113,514 244,514 302,516 466,516 655,522 778,527 969,533 969,501 778,495 655,490 466,484 302,484 244,482 113,482 11,479"/>
+        <Baseline points="11,504 113,507 244,507 302,509 466,509 655,515 778,520 969,526"/>
+        <TextEquiv>
+          <Unicode>inde in bona et pacifica seisina, predictus Galfridus ante mortem suam penituit de facto suo et ipsam Agnetem ejecit de predicta terra, unde </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:15;}" id="l_243">
+        <Coords points="10,543 147,545 290,546 403,546 488,551 657,553 833,561 977,564 977,532 833,529 657,521 488,519 403,514 290,514 147,513 10,511"/>
+        <Baseline points="10,536 147,538 290,539 403,539 488,544 657,546 833,554 977,557"/>
+        <TextEquiv>
+          <Unicode>dicunt quod, si aliqua disseisina ei inde facta fuerit, facta fuit per predictum Galfridum patrem predicti Galfridi de Ledewyk et non per ipsum Galfridum </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:16;}" id="l_261">
+        <Coords points="10,578 126,576 230,575 342,580 528,586 625,586 699,590 861,593 981,599 981,567 861,561 699,558 625,554 528,554 342,548 230,543 126,544 10,546"/>
+        <Baseline points="10,571 126,569 230,568 342,573 528,579 625,579 699,583 861,586 981,592"/>
+        <TextEquiv>
+          <Unicode>filium suum. Et ideo consideratum est quod predictus Galfridus inde sine die, et Agnes nichil capiat per assisam istam et sit in misericordia pro falso clamore. </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:17;}" id="l_281">
+        <Coords points="9,608 134,607 290,606 417,613 557,611 557,579 417,581 290,574 134,575 9,576"/>
+        <Baseline points="9,601 134,600 290,599 417,606 557,604"/>
+        <TextEquiv>
+          <Unicode>Et perquirat sibi per aliud breve si voluerit. Pardonatur misericordia quia infra etatem.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:18;}" id="l_293">
+        <Coords points="1,737 200,737 380,742 468,743 663,741 891,740 976,738 976,706 891,708 663,709 468,711 380,710 200,705 1,705"/>
+        <Baseline points="1,730 200,730 380,735 468,736 663,734 891,733 976,731"/>
+        <TextEquiv>
+          <Unicode>¶ Assisa venit recognitura si Willelmus de Kalverhale et Johannes filius ejus injuste etc. disseisiverunt Adam filium Petri de Kalverhall et Sibillam uxorem </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:19;}" id="l_309">
+        <Coords points="10,770 150,770 378,776 578,778 790,777 959,775 959,743 790,745 578,746 378,744 150,738 10,738"/>
+        <Baseline points="10,763 150,763 378,769 578,771 790,770 959,768"/>
+        <TextEquiv>
+          <Unicode>ejus. Ricardum le Fevre et Aliciam uxorem ejus. Willelmum filium Henrici de Wereslegh et Agnetem uxorem ejus de communa pasture sue in </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:20;}" id="l_339">
+        <Coords points="780,795 905,794 905,762 780,763"/>
+        <Baseline points="780,788 905,787"/>
+        <TextEquiv>
+          <Unicode> de communa sua</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:21;}" id="l_323">
+        <Coords points="15,810 91,809 216,803 368,806 561,814 826,814 968,812 968,780 826,782 561,782 368,774 216,771 91,777 15,778"/>
+        <Baseline points="15,803 91,802 216,796 368,799 561,807 826,807 968,805"/>
+        <TextEquiv>
+          <Unicode>Kalverhal que pertinet ad liberum tenementum suum in eadem villa post primam etc. Et unde queruntur quod disseisiverunt eos in triginta tribus acris </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:22;}" id="l_345">
+        <Coords points="16,845 129,844 258,842 419,844 563,848 717,850 860,847 968,849 968,817 860,815 717,818 563,816 419,812 258,810 129,812 16,813"/>
+        <Baseline points="16,838 129,837 258,835 419,837 563,841 717,843 860,840 968,842"/>
+        <TextEquiv>
+          <Unicode>bruere in quibus communicare solebat per totum annum quousque predicti Willelmus et Johannes predictam brueram frussiverunt et </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:23;}" id="l_365">
+        <Coords points="18,878 175,874 352,874 510,881 661,879 839,881 972,879 972,847 839,849 661,847 510,849 352,842 175,842 18,846"/>
+        <Baseline points="18,871 175,867 352,867 510,874 661,872 839,874 972,872"/>
+        <TextEquiv>
+          <Unicode>in culturam redegerunt et domos in ea construere fecerunt quominus ibidem communicare possint sicut solebant.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:24;}" id="l_381">
+        <Coords points="17,916 154,912 270,911 388,911 388,879 270,879 154,880 17,884"/>
+        <Baseline points="17,909 154,905 270,904 388,904"/>
+        <TextEquiv>
+          <Unicode>Et Willelmus et Johannes veniunt et nichil dicunt quare assisa remaneat.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:25;}" id="l_391">
+        <Coords points="16,951 92,949 208,953 348,957 457,960 539,966 652,966 805,967 955,968 955,936 805,935 652,934 539,934 457,928 348,925 208,921 92,917 16,919"/>
+        <Baseline points="16,944 92,942 208,946 348,950 457,953 539,959 652,959 805,960 955,961"/>
+        <TextEquiv>
+          <Unicode>Juratores dicunt quod predicti Willelmus et Johannes non disseisiverunt predictos Adam et Sibillam de predicta communa. quia dicunt quod lidem Willelmus et Johannes </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:26;}" id="l_411">
+        <Coords points="17,986 176,986 324,986 427,995 540,999 691,999 795,1000 957,1000 957,968 795,968 691,967 540,967 427,963 324,954 176,954 17,954"/>
+        <Baseline points="17,979 176,979 324,979 427,988 540,992 691,992 795,993 957,993"/>
+        <TextEquiv>
+          <Unicode>fuerunt in seisina de predicta frussura antequam predictus Adam desponsasset predictam Sibillam a Et ideo consideratum est quod predicti </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:27;}" id="l_431">
+        <Coords points="19,1019 186,1020 328,1024 459,1027 669,1034 885,1033 966,1033 966,1001 885,1001 669,1002 459,995 328,992 186,988 19,987"/>
+        <Baseline points="19,1012 186,1013 328,1017 459,1020 669,1027 885,1026 966,1026"/>
+        <TextEquiv>
+          <Unicode>Willelmus et Johannes inde sine die. et predicti Adam et Sibilla quo ad hoc nichil capiant assisam istam et sint in misericordia pro falso clamore. Dicunt </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:28;}" id="l_447">
+        <Coords points="16,1053 94,1053 186,1055 384,1063 583,1064 679,1066 849,1073 964,1072 964,1040 849,1041 679,1034 583,1032 384,1031 186,1023 94,1021 16,1021"/>
+        <Baseline points="16,1046 94,1046 186,1048 384,1056 583,1057 679,1059 849,1066 964,1065"/>
+        <TextEquiv>
+          <Unicode>eciam quod predicti Willelmus et Johannes disseisiverunt predictos Ricardum le Fevre et Ceciliamuxorem ejus, Willelmum flium Henrici et Agnetem uxorem ejus de </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:29;}" id="l_465">
+        <Coords points="23,1088 154,1090 270,1095 406,1097 550,1104 678,1104 805,1105 965,1107 965,1075 805,1073 678,1072 550,1072 406,1065 270,1063 154,1058 23,1056"/>
+        <Baseline points="23,1081 154,1083 270,1088 406,1090 550,1097 678,1097 805,1098 965,1100"/>
+        <TextEquiv>
+          <Unicode>predicta communa injuste etc. sicut breve dicit. Ideo consideratum est quod predicti Ricardus le Fevre et alii recuperent seisinam suam per visum </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:30;}" id="l_483">
+        <Coords points="22,1124 138,1129 240,1129 347,1134 347,1102 240,1097 138,1097 22,1092"/>
+        <Baseline points="22,1117 138,1122 240,1122 347,1127"/>
+        <TextEquiv>
+          <Unicode>recognitorum et Willelmus de Kaverhal et Johannes in misericordia.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

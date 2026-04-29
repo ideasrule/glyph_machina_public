@@ -1,0 +1,148 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-11-08T05:46:30.204+01:00</Created>
+        <LastChange>2023-11-20T23:17:58.096+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="61263862" pageNr="17" tsid="140253976" status="GT" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=RLIWBQHHPQXHUHVDEUVNMSXW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KBOHWEEPHZJLQWHBYFSTHUGP" imageId="49528463" />
+    </Metadata>
+    <Page imageFilename="JUST1-633m5a.jpeg" imageWidth="1091" imageHeight="670">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1700697996043" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="1084,648 0,648 0,4 1084,4" />
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="27,47 206,47 440,47 745,49 1073,57 1073,25 745,17 440,15 206,15 27,15" />
+                <Baseline points="27,40 206,40 440,40 745,42 1073,50" />
+                <TextEquiv>
+                    <Unicode>&#182; Assisa venit recognitura si Emma filia Onorii Malerbe de Norhampton, Thomas filius Simonis filii Iohannis atte Grene </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_20" custom="readingOrder {index:1;}">
+                <Coords points="26,83 168,83 368,85 599,87 852,89 1078,95 1078,63 852,57 599,55 368,53 168,51 26,51" />
+                <Baseline points="26,76 168,76 368,78 599,80 852,82 1078,88" />
+                <TextEquiv>
+                    <Unicode>de Duston Iohannes filius Iohannis atte Grene de Duston, et Galfridus de Hoghton de Duston iniuste etc. disseisiuerunt Nicholaum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_34" custom="readingOrder {index:2;}">
+                <Coords points="26,118 210,118 469,123 749,126 1068,135 1068,103 749,94 469,91 210,86 26,86" />
+                <Baseline points="26,111 210,111 469,116 749,119 1068,128" />
+                <TextEquiv>
+                    <Unicode>Selyman de Flore et Aliciam vxorem eius de libero tenemento suo in Flore post primam etc. Et vnde queruntur quod disseisiuerunt eos </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_46" custom="readingOrder {index:3;}">
+                <Coords points="27,151 214,160 470,157 470,125 214,128 27,119" />
+                <Baseline points="27,144 214,153 470,150" />
+                <TextEquiv>
+                    <Unicode>de vno mesuagio et sex acris terre cum pertinenciis etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_54" custom="readingOrder {index:4;}">
+                <Coords points="28,188 186,190 389,190 571,192 808,198 969,207 1063,211 1063,179 969,175 808,166 571,160 389,158 186,158 28,156" />
+                <Baseline points="28,181 186,183 389,183 571,185 808,191 969,200 1063,204" />
+                <TextEquiv>
+                    <Unicode>Et Emma venit. Et alii non veniunt set quidam Iohannes de Duston venit et pro omnibus preterquam pro predicta Emma respondet </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_70" custom="readingOrder {index:5;}">
+                <Coords points="31,218 185,224 361,224 513,225 757,231 928,239 1080,249 1080,217 928,207 757,199 513,193 361,192 185,192 31,186" />
+                <Baseline points="31,211 185,217 361,217 513,218 757,224 928,232 1080,242" />
+                <TextEquiv>
+                    <Unicode>tanquam eorum balliuus et dicit quod ipsi nichil habent in predictis tenementis ad presens nec aliquam inde fecerunt iniuriam seu disseisi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_86" custom="readingOrder {index:6;}">
+                <Coords points="33,253 187,254 387,255 387,223 187,222 33,221" />
+                <Baseline points="33,246 187,247 387,248" />
+                <TextEquiv>
+                    <Unicode>nam Et de hoc ponunt se super assisam etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_94" custom="readingOrder {index:7;}">
+                <Coords points="34,285 241,287 419,294 623,302 810,306 955,314 1069,322 1069,290 955,282 810,274 623,270 419,262 241,255 34,253" />
+                <Baseline points="34,278 241,280 419,287 623,295 810,299 955,307 1069,315" />
+                <TextEquiv>
+                    <Unicode>Et Emma vt tenens etc. respondet et dicit quod predicti Nicholaus et Alicia iniuste tulerunt assisam istam versus eam. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_112" custom="readingOrder {index:8;}">
+                <Coords points="29,316 181,321 371,325 516,328 789,340 978,352 1081,359 1081,327 978,320 789,308 516,296 371,293 181,289 29,284" />
+                <Baseline points="29,309 181,314 371,318 516,321 789,333 978,345 1081,352" />
+                <TextEquiv>
+                    <Unicode>Quia dicit quod predicta tenementa quondam fuerunt in seisina quorundam Onorii Malerbe et Iohanne vxoris eius matris predicte Emme </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_128" custom="readingOrder {index:9;}">
+                <Coords points="27,349 162,353 404,360 619,367 820,372 1060,390 1060,358 820,340 619,335 404,328 162,321 27,317" />
+                <Baseline points="27,342 162,346 404,353 619,360 820,365 1060,383" />
+                <TextEquiv>
+                    <Unicode>cuius heres ipsa est vt de iure ipsius Iohanne. Qui quidem Onorius et Iohanna tenementa illa dimiserunt quibusdam </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_142" custom="readingOrder {index:10;}">
+                <Coords points="24,384 161,384 348,394 588,400 868,412 1068,423 1068,391 868,380 588,368 348,362 161,352 24,352" />
+                <Baseline points="24,377 161,377 348,387 588,393 868,405 1068,416" />
+                <TextEquiv>
+                    <Unicode>Roberto Michel et Alesie vxori eius tenenda ad terminum vite eorundem Roberti et Alesie. Post quorum mortem et eciam mortem </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_156" custom="readingOrder {index:11;}">
+                <Coords points="20,418 250,425 501,429 767,440 1046,457 1046,425 767,408 501,397 250,393 20,386" />
+                <Baseline points="20,411 250,418 501,422 767,433 1046,450" />
+                <TextEquiv>
+                    <Unicode>eorundem Onori et Iohanne eadem Emma vt filia et heres predicte Iohanne intrauit in tenementis predictis vt in reuersione </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_168" custom="readingOrder {index:12;}">
+                <Coords points="22,453 235,456 431,461 677,470 913,482 1055,495 1055,463 913,450 677,438 431,429 235,424 22,421" />
+                <Baseline points="22,446 235,449 431,454 677,463 913,475 1055,488" />
+                <TextEquiv>
+                    <Unicode>sua sicut ei bene licit et absque aliqua disseisina eisdem Nicholao et Alicie xori eius facienda. Et de hoc ponit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_182" custom="readingOrder {index:13;}">
+                <Coords points="23,492 164,490 338,495 595,506 818,518 1079,531 1079,499 818,486 595,474 338,463 164,458 23,460" />
+                <Baseline points="23,485 164,483 338,488 595,499 818,511 1079,524" />
+                <TextEquiv>
+                    <Unicode>se super assisam. Et predicti Nicholaus et Alicia vxor eius similiter. Ideo capiatur assisa. --- Iuratores dicunt super sacramentum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_196" custom="readingOrder {index:14;}">
+                <Coords points="20,525 241,524 480,535 677,540 863,556 1065,570 1065,538 863,524 677,508 480,503 241,492 20,493" />
+                <Baseline points="20,518 241,517 480,528 677,533 863,549 1065,563" />
+                <TextEquiv>
+                    <Unicode>suum quod predicta Emma que nominatur sola die impetracionis predicti breuis, scilicet vicesimo tercio die Augusti vltimo preterito</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_210" custom="readingOrder {index:15;}">
+                <Coords points="17,561 234,561 458,569 635,574 887,600 1064,608 1064,576 887,568 635,542 458,537 234,529 17,529" />
+                <Baseline points="17,554 234,554 458,562 635,567 887,593 1064,601" />
+                <TextEquiv>
+                    <Unicode>habuit virum superstitem et adhuc habet, scilicet predictum Thomam filium Simonis filii Iohannis atte Grene de Duston nomine. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_224" custom="readingOrder {index:16;}">
+                <Coords points="23,588 204,591 414,598 617,610 786,621 942,636 1073,644 1073,612 942,604 786,589 617,578 414,566 204,559 23,556" />
+                <Baseline points="23,581 204,584 414,591 617,603 786,614 942,629 1073,637" />
+                <TextEquiv>
+                    <Unicode>Et quia hoc compertum est per assisam istam, ideo predicta Emma et alii inde sine die et predicti Nicholaus et Alicia nichil </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_242" custom="readingOrder {index:17;}">
+                <Coords points="23,620 170,625 358,635 570,644 570,612 358,603 170,593 23,588" />
+                <Baseline points="23,613 170,618 358,628 570,637" />
+                <TextEquiv>
+                    <Unicode>capiant per breue suum set sint in misericordia pro falso clamore etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

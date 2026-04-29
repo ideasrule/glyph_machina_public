@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>kraken 5.2.8</Creator>
+    <Created>2024-08-16T15:43:42.625423+00:00</Created>
+    <LastChange>2024-08-16T20:53:27Z</LastChange>
+  </Metadata>
+  <Page imageFilename="CP40-648m81b.jpg" imageHeight="308" imageWidth="825">
+    <TextRegion id="textblock_1">
+      <TextLine id="textblock_1_l3">
+        <Coords points="15.9266,13.0703 86.8459,16.0669 172.638,19.0596 257.713,21.0381 338.458,17.0507 467.691,17.0507 538.439,15.0578 625.331,13.0603 703.919,10.0759 802.672,4.09094 804.443,33.303 705.36,39.308 626.223,42.3132 539.187,44.314 468.103,46.3164 339.181,46.3164 258.096,50.3206 171.787,48.3134 85.718,45.311 14.6911,42.3099" />
+        <Baseline points="15,35 86,38 172,41 258,43 339,39 468,39 539,37 626,35 705,32 804,26" />
+        <TextEquiv>
+          <Unicode>Et predicti Willelmus et Ricardus per Ricardum Duffeld attornatum suum veniunt et defendunt vim et iniuriam quando etc Et quicquid etc Et predictus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="structure {type:default;}" id="fb958b77-405c-4313-ac6c-952d85cb979e">
+        <Coords points="19,71 20,88 155,86 190,82 218,78 288,72 331,72 351,74 351,74 359,72 395,72 420,72 420,72 434,70 458,70 480,70 481,70 503,67 517,68 517,68 564,65 595,66 595,66 620,63 660,62 669,61 689,62 689,62 701,61 723,62 742,64 742,64 762,61 772,59 809,59 809,54 809,57 761,58 755,58 716,60 698,59 698,59 678,60 669,60 669,60 655,61 615,61 615,61 585,64 543,63 543,63 510,66 501,65 501,65 482,67 268,70 226,67 202,65 202,65 120,66 96,69 82,71 19,70 19,71" />
+        <Baseline points="19,71 137,73 304,72 418,69 442,68 519,65 598,62 694,60 715,59 750,58 785,55 809,54" />
+        <TextEquiv>
+          <Unicode>Ricardus dicit quod ipse nunquam retentus fuit cum prefato Roberto ad deserviendum ei in officio predicto per tempus predictum prout idem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="textblock_1_l4">
+        <Coords points="10.2644,83.0523 93.2302,84.0519 204.723,85.0474 321.328,81.0609 432.031,78.0689 545.817,71.082 631.98,67.0744 633.34,96.3085 547.394,100.306 433.323,107.31 322.224,110.313 205.092,114.318 92.9233,113.316 9.91186,112.316" />
+        <Baseline points="10,105 93,106 205,107 322,103 433,100 547,93 633,89" />
+        <TextEquiv>
+          <Unicode>Robertus superius versus cum queritur Et de hoc ponit se super patriam Et predictus Robertus similiter</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="textblock_1_l5">
+        <Coords points="15.8025,115.065 97.5651,118.057 230.691,120.044 345.975,115.075 484.867,108.08 616.436,101.103 794.035,85.1389 796.655,114.287 618.521,130.299 486.378,137.307 347.342,144.308 231.103,149.319 96.8116,147.314 14.7325,144.312" />
+        <Baseline points="15,137 97,140 231,142 347,137 486,130 618,123 796,107" />
+        <TextEquiv>
+          <Unicode>Et predictus Willelmus protestando quod predictus Ricardus nunquam retentus fuit cum prefato Roberto ad deserviendum ei in officio predicto</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="textblock_1_l6">
+        <Coords points="13.224,148.052 111.189,149.052 253.766,150.049 359.127,147.067 475.603,141.094 593.365,132.112 715.931,123.143 801.465,113.198 804.845,142.267 718.69,152.286 595.545,161.296 477.466,170.302 360.291,176.311 254.078,179.317 110.937,178.316 12.9253,177.316" />
+        <Baseline points="13,170 111,171 254,172 360,169 477,163 595,154 718,145 804,135" />
+        <TextEquiv>
+          <Unicode>per tempus predictum in forma qua idem Robertus superius versus cum queritur dicit quod ipse invenit ipsum Ricardum apud Boston vagantem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="textblock_1_l7">
+        <Coords points="20.274,178.088 105.638,183.051 226.441,183.051 382.86,175.08 514.705,168.089 652.819,159.081 746.169,155.109 801.278,148.22 804.907,177.26 748.61,184.297 654.394,188.306 516.432,197.304 384.38,204.307 227.186,212.316 104.787,212.316 18.5753,207.304" />
+        <Baseline points="19,200 105,205 227,205 384,197 516,190 654,181 748,177 804,170" />
+        <TextEquiv>
+          <Unicode>extra cuius libet servicium et ipsum retinuit in servicium suum absque hoc quod idem Willelmus ipsum Ricardum admisit seu retinuit</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="structure {type:default;}" id="052ebc96-7a03-4bf6-8bff-a51d31855d47">
+        <Coords points="69,241 91,239 104,240 111,241 111,241 142,241 159,242 160,242 184,239 214,242 214,242 232,242 232,242 327,240 380,235 413,238 413,238 443,234 455,234 455,234 492,231 523,232 524,232 552,231 583,226 587,226 621,223 659,224 686,225 686,225 709,223 722,223 722,223 733,222 740,221 815,220 815,205 815,214 665,217 649,218 646,219 612,224 583,225 552,230 526,230 497,228 497,228 474,230 461,228 461,228 431,233 395,234 374,232 374,232 363,233 339,233 339,233 314,233 301,235 257,236 235,234 235,234 213,236 160,233 160,233 139,236 69,234 69,234 69,241" />
+        <Baseline points="21,234 185,238 275,237 311,234 331,234 359,231 432,228 524,227 601,223 639,220 679,215 702,215 736,211 761,209 782,208 815,205" />
+        <TextEquiv>
+          <Unicode>contra formam ordinacionis predicte prout idem Robertus versus eum narravit Et de hoc ponit se super patriam Et predictus Robertus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="textblock_1_l8">
+        <Coords points="24.9675,239.139 123.906,248.044 260.138,247.056 371.645,239.092 507.918,231.973 529.869,234.966 668.015,227.128 811.278,209.22 814.907,238.26 670.662,256.291 528.71,264.345 506.694,261.342 373.452,268.303 261.287,276.315 122.698,277.319 22.3442,268.287" />
+        <Baseline points="23,261 123,270 261,269 373,261 507,254 529,257 670,249 814,231" />
+        <TextEquiv>
+          <Unicode>similiter Ideo preceptum est vicecomiti quod venire faciat hic a die Pasche in xv dies xii etc Per quos etc Et qui nec etc ad recognoscendum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="textblock_1_l9">
+        <Coords points="24.2984,270.089 159.298,278.089 157.567,307.304 22.5672,299.304" />
+        <Baseline points="23,292 158,300" />
+        <TextEquiv>
+          <Unicode>etc Quia tam etc</Unicode>
+        </TextEquiv>
+      </TextLine>
+    <Coords points="0,0 0,308 825,308 825,0" />
+      </TextRegion>
+  </Page>
+</PcGts>

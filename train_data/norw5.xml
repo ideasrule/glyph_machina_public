@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-01-09T20:56:05.803+01:00</Created>
+        <LastChange>2024-01-09T21:00:40.706+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="63215703" pageNr="3" tsid="144718164" status="FINAL" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=NQRWVWXUYENDHDAVGHGTFPFZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RIVJISJHASEATBBFOMSUMWOU" imageId="51118159" />
+    </Metadata>
+    <Page imageFilename="norw5.jpg" imageWidth="1110" imageHeight="232">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1708823410193" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="14,40 35,41 158,44 258,43 358,50 469,47 490,57 554,57 623,60 681,65 754,66 837,70 902,70 1004,73 1077,67 1076,52 1004,58 902,55 837,55 754,51 682,50 624,45 554,42 493,42 472,32 358,35 258,28 158,29 36,26 15,25" />
+                <Baseline points="14,40 35,41 158,44 258,43 358,50 469,47 490,57 554,57 623,60 681,65 754,66 837,70 902,70 1004,73 1077,67" />
+                <TextEquiv>
+                    <Unicode>molendini apud Hoxne et quinque solidos vij denarios et j obolum quos de sexaginta et tribus gallinis et centum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_40" custom="readingOrder {index:1;}">
+                <Coords points="13,85 86,88 167,89 257,89 351,92 445,96 535,98 594,101 697,104 776,114 885,115 912,124 1005,120 1088,121 1088,106 1005,105 914,109 887,100 777,99 698,89 595,86 536,83 445,81 352,77 257,74 167,74 86,73 14,70" />
+                <Baseline points="13,85 86,88 167,89 257,89 351,92 445,96 535,98 594,101 697,104 776,114 885,115 912,124 1005,120 1088,121" />
+                <TextEquiv>
+                    <Unicode>ovis ibidem et triginta et sex solidos j obolum et j quadrantam quos de quadraginta et septem arruris xx et vj averagiis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_70" custom="readingOrder {index:2;}">
+                <Coords points="7,129 100,133 218,133 287,132 311,135 350,138 432,143 517,149 548,151 583,153 697,156 788,159 927,162 962,165 1033,169 1094,171 1094,156 1034,154 963,150 928,147 788,144 697,141 584,138 549,136 518,134 433,128 351,123 313,120 288,117 218,118 100,118 8,114" />
+                <Baseline points="7,129 100,133 218,133 287,132 311,135 350,138 432,143 517,149 548,151 583,153 697,156 788,159 927,162 962,165 1033,169 1094,171" />
+                <TextEquiv>
+                    <Unicode>octingentis quaterviginti et decem et novem operibus yemalibus viginti et quatuor operibus lunar, lx et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_104" custom="readingOrder {index:3;}">
+                <Coords points="6,178 45,179 63,184 164,182 284,181 344,179 369,185 475,193 515,196 598,200 681,202 742,205 839,211 913,213 985,210 1007,213 1100,211 1100,196 1008,198 986,195 913,198 840,196 743,190 682,187 599,185 516,181 476,178 371,170 346,164 284,166 164,167 65,169 47,164 6,163" />
+                <Baseline points="6,178 45,179 63,184 164,182 284,181 344,179 369,185 475,193 515,196 598,200 681,202 742,205 839,211 913,213 985,210 1007,213 1100,211" />
+                <TextEquiv>
+                    <Unicode>tribus operibus vocatis Daywynes quaterviginti et novem sarclature et dimidium ibidem et tresdecim solidos et iiij</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <Coords points="1105,234 5,234 8,7 1105,7" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

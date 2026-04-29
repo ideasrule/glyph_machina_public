@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>Transkribus</Creator>
+    <Created>2024-01-09T20:41:28.307+01:00</Created>
+    <LastChange>2024-05-04T07:28:07Z</LastChange>
+    <TranskribusMetadata docId="1640070" imageId="51117734" imgUrl="https://files.transkribus.eu/Get?id=KXQKTUBIABWHSJDNXXIJBYXM&amp;fileType=view" pageId="63215272" pageNr="6" status="FINAL" tsid="144714759" userId="195295" xmlUrl="https://files.transkribus.eu/Get?id=CPTBZVCGXDBPBIVJFPVPRSWV" />
+  </Metadata>
+  <Page imageFilename="norw2.jpg" imageHeight="214" imageWidth="1122">
+    <ReadingOrder>
+      <OrderedGroup caption="Regions reading order" id="ro_1708823410221">
+        <RegionRefIndexed index="0" regionRef="r" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <Relations />
+    <TextRegion custom="readingOrder {index:0;}" id="r">
+      <TextLine custom="readingOrder {index:0;}" id="l">
+        <Coords points="21,42 49,43 151,42 250,41 287,40 302,44 365,44 466,40 495,44 593,46 637,49 696,49 756,50 806,51 858,52 907,52 945,54 1014,52 1034,50 1080,49 1080,34 1033,35 1013,37 945,39 907,37 858,37 806,36 756,35 696,34 638,34 594,31 496,29 467,25 365,29 304,29 289,25 250,26 151,27 49,28 22,27" />
+        <Baseline points="21,42 49,43 151,42 250,41 287,40 302,44 365,44 466,40 495,44 593,46 637,49 696,49 756,50 806,51 858,52 907,52 945,54 1014,52 1034,50 1080,49" />
+        <TextEquiv>
+          <Unicode>ita quod de exitibus eorundem nobis responderetur postmodumque intelligentes quod idem vicecomes mandatum nostrum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:1;}" id="l_50">
+        <Coords points="23,84 82,82 111,86 140,83 235,83 295,83 331,88 403,86 477,86 492,89 585,89 640,93 708,95 771,95 782,98 845,97 900,99 922,98 1001,98 1081,98 1081,83 1001,83 922,83 900,84 845,82 784,83 773,80 708,80 641,78 586,74 493,74 478,71 403,71 332,73 296,68 235,68 139,68 111,71 83,67 22,69" />
+        <Baseline points="23,84 82,82 111,86 140,83 235,83 295,83 331,88 403,86 477,86 492,89 585,89 640,93 708,95 771,95 782,98 845,97 900,99 922,98 1001,98 1081,98" />
+        <TextEquiv>
+          <Unicode>predictum excedens quod omnia bona et catalla ipsius episcopi necnon ecclesias episcopatui predicto appropriatas ac</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:2;}" id="l_94">
+        <Coords points="23,129 68,127 141,128 164,128 214,128 288,129 357,132 420,136 485,135 504,138 603,137 626,140 655,137 701,140 765,140 810,142 833,143 865,143 911,144 936,148 1000,146 1062,143 1111,139 1110,124 1061,128 999,131 937,133 912,129 865,128 833,128 811,127 765,125 701,125 655,122 626,125 604,122 505,123 486,120 420,121 358,117 288,114 214,113 164,113 141,113 68,112 22,114" />
+        <Baseline points="23,129 68,127 141,128 164,128 214,128 288,129 357,132 420,136 485,135 504,138 603,137 626,140 655,137 701,140 765,140 810,142 833,143 865,143 911,144 936,148 1000,146 1062,143 1111,139" />
+        <TextEquiv>
+          <Unicode>eciam terras et tenementa de dotibus ecclesiarum predictarum existencia in balliva tua in manum nostram capi et seisiri fecit</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:3;}" id="l_144">
+        <Coords points="14,177 70,177 154,176 215,175 250,178 290,181 301,184 345,183 388,186 402,183 454,185 481,187 555,188 610,187 676,186 694,190 785,191 850,191 929,194 981,195 1028,197 1073,193 1110,197 1112,182 1073,178 1028,182 981,180 929,179 850,176 785,176 696,175 678,171 610,172 555,173 482,172 455,170 401,168 387,171 345,168 303,169 293,166 251,163 216,160 154,161 70,162 14,162" />
+        <Baseline points="14,177 70,177 154,176 215,175 250,178 290,181 301,184 345,183 388,186 402,183 454,185 481,187 555,188 610,187 676,186 694,190 785,191 850,191 929,194 981,195 1028,197 1073,193 1110,197" />
+        <TextEquiv>
+          <Unicode>vicesimo die Februarii anno regni nostri Anglie vicesimo primo per breve nostrum preceperimus tunc vicecomiti nostro comitatuum predictorum</Unicode>
+        </TextEquiv>
+      </TextLine>
+    <Coords points="1120,208 6,197 2,4 1113,0" />
+      </TextRegion>
+  </Page>
+</PcGts>

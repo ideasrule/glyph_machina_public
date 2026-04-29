@@ -1,0 +1,155 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-11-18T02:25:44.630+01:00</Created>
+        <LastChange>2023-11-18T02:40:06.378+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="61608105" pageNr="9" tsid="140083140" status="GT" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=HVJPBYZPZDUDKGWNUAADUVUM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XFRLFFNEKXNZESLMHPGWQZPN" imageId="49794197" />
+    </Metadata>
+    <Page imageFilename="JUST1-235m13.png" imageWidth="938" imageHeight="835">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1700697994026" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="940,823 42,822 0,0 916,4" />
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="4,63 175,58 375,50 545,53 752,51 917,46 917,6 752,11 545,13 375,10 175,18 4,23" />
+                <Baseline points="4,54 175,49 375,41 545,44 752,42 917,37" />
+                <TextEquiv>
+                    <Unicode>&#182; Willelmus de Childegate appellat per breve domini regis Willmum Thorel. Joceum Haket. Ricardum Haket Thomam Thock </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_23" custom="readingOrder {index:1;}">
+                <Coords points="14,105 134,99 280,90 424,91 579,95 690,93 792,87 913,87 913,47 792,47 690,53 579,55 424,51 280,50 134,59 14,65" />
+                <Baseline points="14,96 134,90 280,81 424,82 579,86 690,84 792,78 913,78" />
+                <TextEquiv>
+                    <Unicode>et Johannem Festhard quod ubi fuit in pace domini regis apud Westurroke ante hostium coquine predicti Willelmi circa </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_41" custom="readingOrder {index:2;}">
+                <Coords points="20,150 92,140 257,132 398,129 476,130 573,130 721,129 857,129 908,129 908,89 857,89 721,89 573,90 476,90 398,89 257,92 92,100 20,110" />
+                <Baseline points="20,141 92,131 257,123 398,120 476,121 573,121 721,120 857,120 908,120" />
+                <TextEquiv>
+                    <Unicode>horam vesperam die veneris proximo ante festum Sancti Philippi ante portam latinam. anno xxxviii venerunt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_122" custom="readingOrder {index:3;}">
+                <Coords points="480,150 554,152 554,112 480,110" />
+                <Baseline points="480,141 554,143" />
+                <TextEquiv>
+                    <Unicode>et ligaverunt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_61" custom="readingOrder {index:4;}">
+                <Coords points="23,192 68,189 208,181 352,171 498,170 666,170 775,170 915,166 915,126 775,130 666,130 498,130 352,131 208,141 68,149 23,152" />
+                <Baseline points="23,183 68,180 208,172 352,162 498,161 666,161 775,161 915,157" />
+                <TextEquiv>
+                    <Unicode>predicti Willemus et alii et ipsum ceperunt et inprisonaverunt in Curia ejusdem Willemi et ipsum in prisona de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_79" custom="readingOrder {index:5;}">
+                <Coords points="22,235 188,221 371,215 604,211 738,207 906,207 906,167 738,167 604,171 371,175 188,181 22,195" />
+                <Baseline points="22,226 188,212 371,206 604,202 738,198 906,198" />
+                <TextEquiv>
+                    <Unicode>tinuerunt per duos dies quousque deliberatus fuit per breve domini regis. Et cum ipsum abire permiserunt predictum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_93" custom="readingOrder {index:6;}">
+                <Coords points="33,276 167,265 341,260 453,253 609,253 801,249 907,248 907,208 801,209 609,213 453,213 341,220 167,225 33,236" />
+                <Baseline points="33,267 167,256 341,251 453,244 609,244 801,240 907,239" />
+                <TextEquiv>
+                    <Unicode>Willelmum verberaverunt et male-tractaverunt contra pacem etc. Et quod hoc fecit nequiter et in felonia et contra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_109" custom="readingOrder {index:7;}">
+                <Coords points="28,319 132,309 209,307 264,305 264,265 209,267 132,269 28,279" />
+                <Baseline points="28,310 132,300 209,298 264,296" />
+                <TextEquiv>
+                    <Unicode>pacem domini regis offert etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_128" custom="readingOrder {index:8;}">
+                <Coords points="27,369 108,364 265,356 381,345 572,342 797,340 920,336 920,296 797,300 572,302 381,305 265,316 108,324 27,329" />
+                <Baseline points="27,360 108,355 265,347 381,336 572,333 797,331 920,327" />
+                <TextEquiv>
+                    <Unicode>Et Willelmus Thorel. Joceus et alii veniunt et defendunt feloniam inprisonamentum. et quicquid est contra pacem </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_144" custom="readingOrder {index:9;}">
+                <Coords points="34,408 205,401 313,393 491,385 639,383 856,376 920,374 920,334 856,336 639,343 491,345 313,353 205,361 34,368" />
+                <Baseline points="34,399 205,392 313,384 491,376 639,374 856,367 920,365" />
+                <TextEquiv>
+                    <Unicode>domini regis. Et petunt sibi allocari quod quando hoc factum fieri debuit. utesium non fuit levatum nec unquam postea </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_160" custom="readingOrder {index:10;}">
+                <Coords points="37,451 166,443 329,436 540,428 659,422 813,417 918,417 918,377 813,377 659,382 540,388 329,396 166,403 37,411" />
+                <Baseline points="37,442 166,434 329,427 540,419 659,413 813,408 918,408" />
+                <TextEquiv>
+                    <Unicode>in comitatu presentatum. Et quia hoc convictum per coronatores et juratores. consideratum est quod appellum ejus nullum per </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_176" custom="readingOrder {index:11;}">
+                <Coords points="40,495 120,487 275,478 423,475 616,468 776,463 906,457 906,417 776,423 616,428 423,435 275,438 120,447 40,455" />
+                <Baseline points="40,486 120,478 275,469 423,466 616,459 776,454 906,448" />
+                <TextEquiv>
+                    <Unicode>quod etc. Set pro pace domini regis observanda inquiratur veritas per patriam. Et juratores dicunt super sacramentum suum quod </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_192" custom="readingOrder {index:12;}">
+                <Coords points="37,539 134,529 269,521 443,517 587,514 756,506 903,501 903,461 756,466 587,474 443,477 269,481 134,489 37,499" />
+                <Baseline points="37,530 134,520 269,512 443,508 587,505 756,497 903,492" />
+                <TextEquiv>
+                    <Unicode>culpabiles sunt de inprisonamento et non de verberatura. Ideo consideratum est quod predictus Willelmus de Childegate </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_208" custom="readingOrder {index:13;}">
+                <Coords points="38,580 145,568 274,564 330,559 421,558 540,558 735,546 735,506 540,518 421,518 330,519 274,524 145,528 38,540" />
+                <Baseline points="38,571 145,559 274,555 330,550 421,549 540,549 735,537" />
+                <TextEquiv>
+                    <Unicode>committatur Gaole pro falso appello. Et predicti Willelmus Torel et alii custodiantur pro transgressione.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_224" custom="readingOrder {index:14;}">
+                <Coords points="44,622 171,609 323,602 524,601 752,593 919,579 919,539 752,553 524,561 323,562 171,569 44,582" />
+                <Baseline points="44,613 171,600 323,593 524,592 752,584 919,570" />
+                <TextEquiv>
+                    <Unicode>Et Ricardus le Clav et Johannes Festhard non venerunt. Et predictus Willelmus Torel manucepit habere ipsos coram justiciariis </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_238" custom="readingOrder {index:15;}">
+                <Coords points="44,662 145,650 237,646 237,606 145,610 44,622" />
+                <Baseline points="44,653 145,641 237,637" />
+                <TextEquiv>
+                    <Unicode>et modo non habet. Ideo in misericordia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_246" custom="readingOrder {index:16;}">
+                <Coords points="43,702 145,694 292,687 485,675 631,668 791,662 914,652 914,612 791,622 631,628 485,635 292,647 145,654 43,662" />
+                <Baseline points="43,693 145,685 292,678 485,666 631,659 791,653 914,643" />
+                <TextEquiv>
+                    <Unicode>Post venit predictus Willelmus Thorel et finem fecit pro se et omnibus alis appellatis. per C solidos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_262" custom="readingOrder {index:17;}">
+                <Coords points="51,745 117,740 117,700 51,705" />
+                <Baseline points="51,736 117,731" />
+                <TextEquiv>
+                    <Unicode>per plegios.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_268" custom="readingOrder {index:18;}">
+                <Coords points="47,810 169,799 353,795 592,789 793,775 932,766 932,726 793,735 592,749 353,755 169,759 47,770" />
+                <Baseline points="47,801 169,790 353,786 592,780 793,766 932,757" />
+                <TextEquiv>
+                    <Unicode>Post venit predictus Willelmus de Childegate et finem fecit. per dimidiam. marcam. per plegium Henrici de Helgheton.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

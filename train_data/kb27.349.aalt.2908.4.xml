@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="https://github.com/mauvilsa/nw-page-editor">
+  <Metadata>
+    <Creator>nw-page-editor</Creator>
+    <Created>2025-05-03T17:16:55Z</Created>
+    <LastChange>2026-02-20T06:18:45Z</LastChange>
+  </Metadata>
+  <Page imageFilename="kb27.349.aalt.2908.4.jpg" imageHeight="502" imageWidth="1186">
+    <TextRegion id="r1">
+      <Coords points="5,5 1173,5 1172,492 8,494"/>
+      <TextLine id="r1_l1">
+        <Coords points="63.1342,12.5709 162.835,8.54256 243.47,10.5584 455.818,14.565 542.956,19.5729 605.952,21.5728 641.122,23.5825 724.117,27.5347 833.23,23.5305 918.945,28.514 997.257,23.5575 1163.87,22.5538 1164.04,51.1488 998.247,52.1476 919.018,57.1621 832.923,52.1566 723.961,56.1552 639.626,52.1392 604.683,50.1425 541.681,48.1424 454.727,43.1451 242.843,39.1473 163.055,37.1526 64.2886,41.1431"/>
+        <Baseline points="64,34 163,30 243,32 455,36 542,41 605,43 640,45 724,49 833,45 919,50 998,45 1164,44"/>
+        <TextEquiv>
+          <Unicode>predictus Johannes de Crokhill comittitur prisone mareschalsie Regis salvo custodiendum etc et super hoc predictus Johannes </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l2">
+        <Coords points="62.7464,47.1021 118.587,49.0964 167.102,50.0865 260.693,49.0909 368.712,47.0718 460.907,55.0888 533.131,55.0888 614.393,56.1046 680.263,64.0888 764.143,64.0888 837.271,65.0906 1000.26,67.0904 999.914,94.9699 836.909,92.9698 763.952,91.9704 678.579,91.9704 612.536,83.9651 532.956,82.9704 459.698,82.9704 367.763,74.976 261.102,76.9697 166.966,77.9711 117.804,76.9678 61.7512,74.966"/>
+        <Baseline points="62,68 118,70 167,71 261,70 368,68 460,76 533,76 613,77 679,85 764,85 837,86 1000,88"/>
+        <TextEquiv>
+          <Unicode>de Arkham asserit se ulterius nolle presequi versus predictos Johannem Wrey et Philipum etc</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l3">
+        <Coords points="332.224,282.59 457.784,285.579 500.952,282.567 585.559,287.604 584.814,300.132 501.016,295.145 458.072,298.141 331.925,295.137"/>
+        <Baseline points="332,292 458,295 501,292 585,297"/>
+        <TextEquiv>
+          <Unicode>Dampnum. S. Librarum.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l4">
+        <Coords points="74.192,357.59 123.504,358.596 192.349,364.583 270.786,363.59 331.949,361.584 423.223,363.59 540.499,366.572 608.519,357.569 776.995,362.583 873.788,359.59 944.256,358.597 1020.21,347.605 1141.77,344.591 1142.08,357.136 1021.26,360.132 945.248,371.134 874.071,372.137 777.002,375.139 609.16,370.144 541.167,379.143 422.926,376.137 332.017,374.139 271.071,376.137 191.884,377.139 122.832,371.135 73.936,370.137"/>
+        <Baseline points="74,367 123,368 192,374 271,373 332,371 423,373 541,376 609,367 777,372 874,369 945,368 1021,357 1142,354"/>
+        <TextEquiv>
+          <Unicode>Idem Johannes optulit se quarto die versus Johannem Wrey et Philipum de Tonsoure de predicto placito Et ipsi non veniunt Et </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l5">
+        <Coords points="67.9066,391.632 129.454,397.588 183.348,397.588 264.241,403.58 351.775,401.59 431.882,399.588 496.755,399.588 611.993,393.575 691.238,397.588 749.847,397.588 841.637,394.595 953.475,389.602 1087.17,380.622 1141.98,374.643 1143.34,387.119 1088.28,393.126 954.175,402.133 842.121,407.135 750.051,410.137 690.921,410.137 612.002,406.142 497.082,412.137 432.039,412.137 352.075,414.137 263.92,416.14 182.884,410.137 128.849,410.137 66.6978,404.123"/>
+        <Baseline points="67,401 129,407 183,407 264,413 352,411 432,409 497,409 612,403 691,407 750,407 842,404 954,399 1088,390 1143,384"/>
+        <TextEquiv>
+          <Unicode>preceptum fuit vicecomiti quod attachiat eos Et vicecomes inde mandavit quod nichil habet Ideo preceptum est vicecomiti quod capiat eos si etc et </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l6">
+        <Coords points="75.0078,426.642 139.45,433.582 223.992,432.587 323.084,433.588 450.707,434.585 507.48,430.601 606.629,426.595 684.787,423.589 832.936,422.588 833.021,435.137 685.071,436.137 607.124,439.135 508.173,443.133 451.098,447.138 322.972,446.137 224.003,445.137 138.85,446.139 73.6641,439.119"/>
+        <Baseline points="74,436 139,443 224,442 323,443 451,444 508,440 607,436 685,433 833,432"/>
+        <TextEquiv>
+          <Unicode>salvo etc ita quod habeat corpora eorum hic ac prefatum terminum ubicumque etc</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

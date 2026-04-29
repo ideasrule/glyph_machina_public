@@ -1,0 +1,275 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-01-02T23:41:21.925+01:00</Created>
+        <LastChange>2024-01-03T07:45:24.664+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="63046337" pageNr="2" tsid="144288236" status="FINAL" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=QWRVKMJIJUJCDZBGCPUGOAWZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IAYVVEVXBUZVOFQMDRTTZIYQ" imageId="50965825" />
+    </Metadata>
+    <Page imageFilename="JUST1-633m84d.jpeg" imageWidth="1152" imageHeight="1347">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1704264367091" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="7,50 120,50 162,51 285,41 331,43 433,42 568,43 715,40 786,39 881,44 976,45 1024,49 1063,54 1137,60 1137,25 1063,19 1024,14 976,10 881,9 786,4 715,5 568,8 433,7 331,8 285,6 162,16 120,15 7,15" />
+                <Baseline points="7,42 120,42 162,43 285,33 331,35 433,34 568,35 715,32 786,31 881,36 976,37 1024,41 1063,46 1137,52" />
+                <TextEquiv>
+                    <Unicode>¶ Thomas filius Hugonis de Staunton per Robertum de Chanceux attornatum suum petit versus priorem de Lenton </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_38" custom="readingOrder {index:1;}">
+                <Coords points="22,83 84,83 233,81 366,78 489,78 614,76 719,78 813,78 869,84 984,89 1034,91 1124,97 1124,62 1034,56 984,54 869,49 813,43 719,43 614,41 489,43 366,43 233,46 84,48 22,48" />
+                <Baseline points="22,75 84,75 233,73 366,70 489,70 614,68 719,70 813,70 869,76 984,81 1034,83 1124,89" />
+                <TextEquiv>
+                    <Unicode>aduocacionem ecclesie de Herleston vt jus etc. per breue de recto clausum etc. Et vnde idem Thomas per attornatum suum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_64" custom="readingOrder {index:2;}">
+                <Coords points="17,121 120,118 234,113 350,110 441,113 568,113 657,114 801,117 848,121 954,125 1052,131 1133,139 1133,104 1052,96 954,90 848,86 801,82 657,79 568,78 441,78 350,75 234,78 120,83 17,86" />
+                <Baseline points="17,113 120,110 234,105 350,102 441,105 568,105 657,106 801,109 848,113 954,117 1052,123 1133,131" />
+                <TextEquiv>
+                    <Unicode>dicit quod quidam Willelmus de Staunton antecessor etc. fuit seisitus de predicta aduocacione vt de feodo et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_92" custom="readingOrder {index:3;}">
+                <Coords points="14,157 111,154 212,151 347,149 447,149 535,152 654,152 774,157 909,160 1006,165 1053,171 1127,175 1127,140 1053,136 1006,130 909,125 774,122 654,117 535,117 447,114 347,114 212,116 111,119 14,122" />
+                <Baseline points="14,149 111,146 212,143 347,141 447,141 535,144 654,144 774,149 909,152 1006,157 1053,163 1127,167" />
+                <TextEquiv>
+                    <Unicode>jure tempore pacis tempore regis H. proaui domini regis nunc. Qui quidem Willelmus eodem tempore ad predictam ecclesiam </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_55" custom="readingOrder {index:4;}">
+                <Coords points="12,193 85,192 241,187 430,187 563,189 641,189 755,195 884,199 920,200 991,202 1144,209 1144,174 991,167 920,165 884,164 755,160 641,154 563,154 430,152 241,152 85,157 12,158" />
+                <Baseline points="12,185 85,184 241,179 430,179 563,181 641,181 755,187 884,191 920,192 991,194 1144,201" />
+                <TextEquiv>
+                    <Unicode>presentauit quemdam Willelmum de Grendon clericum suum qui ad presentacionem suam fuit admissus et institutus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_79" custom="readingOrder {index:5;}">
+                <Coords points="17,231 116,228 240,225 316,226 401,228 597,228 747,231 864,235 977,241 1069,246 1124,245 1124,210 1069,211 977,206 864,200 747,196 597,193 401,193 316,191 240,190 116,193 17,196" />
+                <Baseline points="17,223 116,220 240,217 316,218 401,220 597,220 747,223 864,227 977,233 1069,238 1124,237" />
+                <TextEquiv>
+                    <Unicode>tempore pacis tempore eiusdem regis H. capiendo inde explecia vt in grossis decimis et minutis oblacionibus et ob</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_77" custom="readingOrder {index:6;}">
+                <Coords points="13,266 146,265 249,265 355,264 481,267 610,265 672,270 769,271 849,277 976,284 1119,289 1119,254 976,249 849,242 769,236 672,235 610,230 481,232 355,229 249,230 146,230 13,231" />
+                <Baseline points="13,258 146,257 249,257 355,256 481,259 610,257 672,262 769,263 849,269 976,276 1119,281" />
+                <TextEquiv>
+                    <Unicode>uencionibus. ad valenciam etc. vt de jure ecclesie sue predicte. Et de ipso Willelmo de Staunton descendit jus etc. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_101" custom="readingOrder {index:7;}">
+                <Coords points="10,303 105,303 155,304 295,304 433,303 596,304 672,309 795,312 894,317 997,324 1052,329 1116,330 1116,295 1052,294 997,289 894,282 795,277 672,274 596,269 433,268 295,269 155,269 105,268 10,268" />
+                <Baseline points="10,295 105,295 155,296 295,296 433,295 596,296 672,301 795,304 894,309 997,316 1052,321 1116,322" />
+                <TextEquiv>
+                    <Unicode>cuidam Willelmo vt filio et heredi etc. et de ipso Willelmo cuidam Willelmo vt filio et heredi etc. et de ipso Willelmo </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_129" custom="readingOrder {index:8;}">
+                <Coords points="6,340 58,340 75,342 137,343 231,342 299,342 395,338 427,340 535,340 574,344 639,347 744,350 859,355 959,359 1001,363 1140,366 1140,331 1001,328 959,324 859,320 744,315 639,312 574,309 535,305 427,305 395,303 299,307 231,307 137,308 75,307 58,305 6,305" />
+                <Baseline points="6,332 58,332 75,334 137,335 231,334 299,334 395,330 427,332 535,332 574,336 639,339 744,342 859,347 959,351 1001,355 1140,358" />
+                <TextEquiv>
+                    <Unicode>quia obiit sine herede de se descendit jus etc. cuidam Ricardo vt fratri et heredi etc. et de ipso Ricardo quia obiit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_165" custom="readingOrder {index:9;}">
+                <Coords points="6,381 52,381 141,381 272,381 424,378 555,382 577,385 726,385 782,390 892,394 1011,402 1128,402 1128,367 1011,367 892,359 782,355 726,350 577,350 555,347 424,343 272,346 141,346 52,346 6,346" />
+                <Baseline points="6,373 52,373 141,373 272,373 424,370 555,374 577,377 726,377 782,382 892,386 1011,394 1128,394" />
+                <TextEquiv>
+                    <Unicode>sine herede de se descendit jus etc. cuidam Clemencie vt sorori et heredi etc. et de ipsa Clemencia descendit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_194" custom="readingOrder {index:10;}">
+                <Coords points="5,421 124,420 170,421 247,418 349,416 414,416 439,417 544,419 641,423 719,423 852,430 943,432 999,435 999,400 943,397 852,395 719,388 641,388 544,384 439,382 414,381 349,381 247,383 170,386 124,385 5,386" />
+                <Baseline points="5,413 124,412 170,413 247,410 349,408 414,408 439,409 544,411 641,415 719,415 852,422 943,424 999,427" />
+                <TextEquiv>
+                    <Unicode>jus etc. predicto Thome qui nunc petit vt filio et heredi. Et quod tale sit jus etc. offert etc. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_222" custom="readingOrder {index:11;}">
+                <Coords points="5,469 133,463 214,460 263,459 362,456 490,457 588,461 708,464 803,466 907,469 992,473 1038,477 1121,478 1121,443 1038,442 992,438 907,434 803,431 708,429 588,426 490,422 362,421 263,424 214,425 133,428 5,434" />
+                <Baseline points="5,461 133,455 214,452 263,451 362,448 490,449 588,453 708,456 803,458 907,461 992,465 1038,469 1121,470" />
+                <TextEquiv>
+                    <Unicode>Et prior per Simonem Tebaud attornatum suum venit. Et defendit jus suum quando etc. Et seisinam predicti Willelmi de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_250" custom="readingOrder {index:12;}">
+                <Coords points="7,506 113,504 237,499 370,492 500,496 624,499 758,503 865,505 893,508 1021,513 1111,518 1111,483 1021,478 893,473 865,470 758,468 624,464 500,461 370,457 237,464 113,469 7,471" />
+                <Baseline points="7,498 113,496 237,491 370,484 500,488 624,491 758,495 865,497 893,500 1021,505 1111,510" />
+                <TextEquiv>
+                    <Unicode>Staunton antecessoris etc. de cuius seisina etc. vt de feodo et jure etc. et totum etc. Et paratus est defendere </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_274" custom="readingOrder {index:13;}">
+                <Coords points="7,543 115,541 212,540 310,535 384,534 444,533 537,537 627,539 697,535 854,545 965,552 1008,551 1117,553 1117,518 1008,516 965,517 854,510 697,500 627,504 537,502 444,498 384,499 310,500 212,505 115,506 7,508" />
+                <Baseline points="7,535 115,533 212,532 310,527 384,526 444,525 537,529 627,531 697,527 854,537 965,544 1008,543 1117,545" />
+                <TextEquiv>
+                    <Unicode>per corpus cuiusdam liberi hominis sui Willelmi filii Iohannis nomine qui presens est et paratus hoc defendere per corpus suum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_302" custom="readingOrder {index:14;}">
+                <Coords points="12,581 145,576 216,577 368,575 498,577 607,581 739,581 739,546 607,546 498,542 368,540 216,542 145,541 12,546" />
+                <Baseline points="12,573 145,568 216,569 368,567 498,569 607,573 739,573" />
+                <TextEquiv>
+                    <Unicode>vel alio modo sicut curia considerauerit. Et si de eo etc. quod per alium etc. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_404" custom="readingOrder {index:15;}">
+                <Coords points="803,606 849,607 849,572 803,571" />
+                <Baseline points="803,598 849,599" />
+                <TextEquiv>
+                    <Unicode>predicti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_318" custom="readingOrder {index:16;}">
+                <Coords points="14,616 184,609 280,613 357,617 466,615 610,621 740,625 851,631 968,643 1047,644 1111,644 1111,609 1047,609 968,608 851,596 740,590 610,586 466,580 357,582 280,578 184,574 14,581" />
+                <Baseline points="14,608 184,601 280,605 357,609 466,607 610,613 740,617 851,623 968,635 1047,636 1111,636" />
+                <TextEquiv>
+                    <Unicode>Et Thomas dicit quod predictus prior iniuste defendit jus suum etc. et seisinam predicti Willelmi antecessoris sui etc. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_344" custom="readingOrder {index:17;}">
+                <Coords points="16,647 157,649 367,655 454,655 560,655 710,661 847,666 959,677 1117,682 1117,647 959,642 847,631 710,626 560,620 454,620 367,620 157,614 16,612" />
+                <Baseline points="16,639 157,641 367,647 454,647 560,647 710,653 847,658 959,669 1117,674" />
+                <TextEquiv>
+                    <Unicode>Et ideo iniuste quia predictus Willelmus antecessor etc. de predicta aduocacione fuit seisitus vt de feodo et jure tempore </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_364" custom="readingOrder {index:18;}">
+                <Coords points="19,680 134,684 227,686 345,687 491,693 634,696 792,698 923,707 1018,714 1124,722 1124,687 1018,679 923,672 792,663 634,661 491,658 345,652 227,651 134,649 19,645" />
+                <Baseline points="19,672 134,676 227,678 345,679 491,685 634,688 792,690 923,699 1018,706 1124,714" />
+                <TextEquiv>
+                    <Unicode>pacis tempore predicti regis. H. proaui domini regis nunc et de ipso Willelmo descendit jus etc. cuidam Willelmo vt filio et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_386" custom="readingOrder {index:19;}">
+                <Coords points="14,720 119,721 243,726 418,727 546,729 604,733 752,738 806,742 891,743 999,750 1055,754 1109,759 1109,724 1055,719 999,715 891,708 806,707 752,703 604,698 546,694 418,692 243,691 119,686 14,685" />
+                <Baseline points="14,712 119,713 243,718 418,719 546,721 604,725 752,730 806,734 891,735 999,742 1055,746 1109,751" />
+                <TextEquiv>
+                    <Unicode>heredi etc. et de ipso Willelmo cuidam Willelmo vt filio et heredi etc. et de ipso Willelmo quia obit sine herede </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_412" custom="readingOrder {index:20;}">
+                <Coords points="20,757 117,757 257,761 391,761 407,764 452,770 588,768 663,771 739,777 851,780 897,784 1016,788 1084,793 1123,794 1123,759 1084,758 1016,753 897,749 851,745 739,742 663,736 588,733 452,735 407,729 391,726 257,726 117,722 20,722" />
+                <Baseline points="20,749 117,749 257,753 391,753 407,756 452,762 588,760 663,763 739,769 851,772 897,776 1016,780 1084,785 1123,786" />
+                <TextEquiv>
+                    <Unicode>de se descendit jus etc. cuidam Ricardo vt fratri et heredi etc. et de ipso Ricardo quia obit sine herede de se descendit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_444" custom="readingOrder {index:21;}">
+                <Coords points="22,796 126,796 274,799 442,802 604,805 702,812 890,819 1001,827 1108,834 1108,799 1001,792 890,784 702,777 604,770 442,767 274,764 126,761 22,761" />
+                <Baseline points="22,788 126,788 274,791 442,794 604,797 702,804 890,811 1001,819 1108,826" />
+                <TextEquiv>
+                    <Unicode>jus etc. cuidam Clemencie vt sorori et heredi etc. et de ipsa Clemencia descendit jus etc. ipsi Thome </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_470" custom="readingOrder {index:22;}">
+                <Coords points="22,835 113,836 162,833 377,838 457,842 606,847 747,853 852,861 895,861 1047,867 1110,872 1110,837 1047,832 895,826 852,826 747,818 606,812 457,807 377,803 162,798 113,801 22,800" />
+                <Baseline points="22,827 113,828 162,825 377,830 457,834 606,839 747,845 852,853 895,853 1047,859 1110,864" />
+                <TextEquiv>
+                    <Unicode>qui nunc petit vt filio et heredi etc. Et quod tale sit jus suum offert disracionare per corpus cuiusdam liberi hominis </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_494" custom="readingOrder {index:23;}">
+                <Coords points="23,871 131,873 291,875 451,878 566,885 717,894 825,897 953,899 982,903 1112,905 1112,870 982,868 953,864 825,862 717,859 566,850 451,843 291,840 131,838 23,836" />
+                <Baseline points="23,863 131,865 291,867 451,870 566,877 717,886 825,889 953,891 982,895 1112,897" />
+                <TextEquiv>
+                    <Unicode>sui Willelmi filii Thome nomine qui presens est et paratus hoc disracionare per corpus suum vel alio modo sicut </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_516" custom="readingOrder {index:24;}">
+                <Coords points="19,912 172,910 237,916 313,910 331,914 459,918 585,926 700,931 786,935 819,939 953,945 1106,949 1106,914 953,910 819,904 786,900 700,896 585,891 459,883 331,879 313,875 237,881 172,875 19,877" />
+                <Baseline points="19,904 172,902 237,908 313,902 331,906 459,910 585,918 700,923 786,927 819,931 953,937 1106,941" />
+                <TextEquiv>
+                    <Unicode>curia considerauerit. Et si de eo etc. quod per alium etc. Ideo consideratum est quod duellum sit inde inter eos. Et predictus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_546" custom="readingOrder {index:25;}">
+                <Coords points="18,951 141,950 284,952 448,956 529,960 610,965 726,970 845,974 925,979 990,985 1123,991 1123,956 990,950 925,944 845,939 726,935 610,930 529,925 448,921 284,917 141,915 18,916" />
+                <Baseline points="18,943 141,942 284,944 448,948 529,952 610,957 726,962 845,966 925,971 990,977 1123,983" />
+                <TextEquiv>
+                    <Unicode>Willelmus filius Iohannis det vadium defendendi et predictus Willelmus filius Thome det vadiumdisracionandi plegii </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_572" custom="readingOrder {index:26;}">
+                <Coords points="22,984 134,989 238,985 318,990 467,994 557,999 670,1003 798,1008 894,1011 917,1013 944,1016 1024,1024 1124,1026 1124,991 1024,989 944,981 917,978 894,976 798,973 670,968 557,964 467,959 318,955 238,950 134,954 22,949" />
+                <Baseline points="22,976 134,981 238,977 318,982 467,986 557,991 670,995 798,1000 894,1003 917,1005 944,1008 1024,1016 1124,1018" />
+                <TextEquiv>
+                    <Unicode>predicti prioris de duello Petrus le fitz Waryn et Willelmus de Leycestre plegii predicti Thome de duello </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_600" custom="readingOrder {index:27;}">
+                <Coords points="18,1020 114,1023 257,1028 415,1028 483,1034 505,1033 572,1037 653,1043 834,1049 949,1055 1085,1063 1117,1063 1117,1028 1085,1028 949,1020 834,1014 653,1008 572,1002 505,998 483,999 415,993 257,993 114,988 18,985" />
+                <Baseline points="18,1012 114,1015 257,1020 415,1020 483,1026 505,1025 572,1029 653,1035 834,1041 949,1047 1085,1055 1117,1055" />
+                <TextEquiv>
+                    <Unicode>Robertus de Chaunceux et Iohannes Sebot de Herleston. Dies datus est partibus hic die Lune in secunda septimana </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_626" custom="readingOrder {index:28;}">
+                <Coords points="20,1056 131,1056 153,1058 332,1066 471,1068 614,1073 750,1082 890,1090 982,1094 1048,1099 1113,1103 1113,1068 1048,1064 982,1059 890,1055 750,1047 614,1038 471,1033 332,1031 153,1023 131,1021 20,1021" />
+                <Baseline points="20,1048 131,1048 153,1050 332,1058 471,1060 614,1065 750,1074 890,1082 982,1086 1048,1091 1113,1095" />
+                <TextEquiv>
+                    <Unicode>quadragesime et tunc veniant predicti seruientes armati etc. Ad quem diem venerunt partes predicte </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_650" custom="readingOrder {index:29;}">
+                <Coords points="22,1096 144,1095 227,1098 374,1099 506,1103 598,1111 732,1119 836,1122 863,1123 948,1131 1060,1135 1101,1137 1101,1102 1060,1100 948,1096 863,1088 836,1087 732,1084 598,1076 506,1068 374,1064 227,1063 144,1060 22,1061" />
+                <Baseline points="22,1088 144,1087 227,1090 374,1091 506,1095 598,1103 732,1111 836,1114 863,1115 948,1123 1060,1127 1101,1129" />
+                <TextEquiv>
+                    <Unicode>in propriis personis et similiter predicti seruientes armati. Et ad barram prout moris est jurati ac a barra proce</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_676" custom="readingOrder {index:30;}">
+                <Coords points="19,1132 134,1136 276,1137 408,1138 531,1143 628,1150 755,1157 878,1162 973,1167 1009,1174 1106,1177 1106,1142 1009,1139 973,1132 878,1127 755,1122 628,1115 531,1108 408,1103 276,1102 134,1101 19,1097" />
+                <Baseline points="19,1124 134,1128 276,1129 408,1130 531,1135 628,1142 755,1149 878,1154 973,1159 1009,1166 1106,1169" />
+                <TextEquiv>
+                    <Unicode>dentes venerunt ad campum pro duello ordinatum. Et ibidem tam predictus Thomas quam predictus prior ve</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_700" custom="readingOrder {index:31;}">
+                <Coords points="20,1169 108,1168 242,1173 411,1177 593,1185 720,1191 824,1197 956,1205 1120,1212 1120,1177 956,1170 824,1162 720,1156 593,1150 411,1142 242,1138 108,1133 20,1134" />
+                <Baseline points="20,1161 108,1160 242,1165 411,1169 593,1177 720,1183 824,1189 956,1197 1120,1204" />
+                <TextEquiv>
+                    <Unicode>nerunt coram justiciariis et pecierunt licenciam concordandi. Et predictus prior dat domino regi viginti solidos </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_720" custom="readingOrder {index:32;}">
+                <Coords points="6,1201 129,1207 252,1205 402,1209 594,1220 712,1229 803,1233 907,1239 1053,1243 1094,1247 1094,1212 1053,1208 907,1204 803,1198 712,1194 594,1185 402,1174 252,1170 129,1172 6,1166" />
+                <Baseline points="6,1193 129,1199 252,1197 402,1201 594,1212 712,1221 803,1225 907,1231 1053,1235 1094,1239" />
+                <TextEquiv>
+                    <Unicode>pro licencia concordandi. Et est concordia talis scilicet quod predictus Thomas recognouit predictam aduocacionem </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_744" custom="readingOrder {index:33;}">
+                <Coords points="19,1238 111,1239 249,1243 283,1241 383,1244 460,1250 587,1254 687,1261 718,1266 863,1275 921,1278 1016,1280 1040,1285 1111,1293 1111,1258 1040,1250 1016,1245 921,1243 863,1240 718,1231 687,1226 587,1219 460,1215 383,1209 283,1206 249,1208 111,1204 19,1203" />
+                <Baseline points="19,1230 111,1231 249,1235 283,1233 383,1236 460,1242 587,1246 687,1253 718,1258 863,1267 921,1270 1016,1272 1040,1277 1111,1285" />
+                <TextEquiv>
+                    <Unicode>esse jus ipsius prioris et ecclesie sue Sancte Trinitatis de Lenton et illam remisit et quietumclamauit de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_774" custom="readingOrder {index:34;}">
+                <Coords points="17,1274 95,1276 212,1280 338,1281 476,1286 586,1289 604,1291 754,1299 796,1303 935,1315 1010,1316 1032,1322 1103,1334 1103,1299 1032,1287 1010,1281 935,1280 796,1268 754,1264 604,1256 586,1254 476,1251 338,1246 212,1245 95,1241 17,1239" />
+                <Baseline points="17,1266 95,1268 212,1272 338,1273 476,1278 586,1281 604,1283 754,1291 796,1295 935,1307 1010,1308 1032,1314 1103,1326" />
+                <TextEquiv>
+                    <Unicode>se et heredibus suis predicto priori et successoribus suis et ecclesie sue predicte imperpetuum. Et habent cyrographum per </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_802" custom="readingOrder {index:35;}">
+                <Coords points="13,1312 74,1314 141,1315 221,1319 292,1320 292,1285 221,1284 141,1280 74,1279 13,1277" />
+                <Baseline points="13,1304 74,1306 141,1307 221,1311 292,1312" />
+                <TextEquiv>
+                    <Unicode>Rogerum Hyllary narratorem etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <Coords points="1142,1340 5,1340 5,8 1151,9" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

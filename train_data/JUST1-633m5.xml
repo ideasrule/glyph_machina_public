@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="https://github.com/mauvilsa/nw-page-editor">
+  <Metadata>
+    <Creator>Transkribus</Creator>
+    <Created>2023-11-08T05:04:32.542+01:00</Created>
+    <LastChange>2026-02-20T05:34:34Z</LastChange>
+    <TranskribusMetadata docId="1640070" imageId="49528426" imgUrl="https://files.transkribus.eu/Get?id=QXJFQYDYVGUBQLFSFDGWBTKU&amp;fileType=view" pageId="61263825" pageNr="18" status="GT" tsid="140254812" userId="195295" xmlUrl="https://files.transkribus.eu/Get?id=NVTSNGNIIWYESSJJLODAJSBH"/>
+  </Metadata>
+  <Page imageFilename="JUST1-633m5.jpeg" imageHeight="2292" imageWidth="1187">
+    <ReadingOrder>
+      <OrderedGroup caption="Regions reading order" id="ro_1700697996414">
+        <RegionRefIndexed index="0" regionRef="r_9"/>
+      </OrderedGroup>
+    </ReadingOrder>
+    <Relations/>
+    <TextRegion custom="readingOrder {index:0;}" id="r_9">
+      <Coords points="1181,2278 39,2286 15,4 1181,6"/>
+      <TextLine custom="readingOrder {index:0;}" id="l">
+        <Coords points="74,44 216,49 361,45 537,43 687,48 809,55 912,61 912,29 809,23 687,16 537,11 361,13 216,17 74,12"/>
+        <Baseline points="74,37 216,42 361,38 537,36 687,41 809,48 912,54"/>
+        <TextEquiv>
+          <Unicode>Radulfus Basset de Welledon chiualer et Iohanna vxor eius in misericordia pro pluribus defaltis.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:1;}" id="l_33">
+        <Coords points="93,67 387,70 589,69 790,73 871,82 1145,103 1145,71 871,50 790,41 589,37 387,38 93,35"/>
+        <Baseline points="93,60 387,63 589,62 790,66 871,75 1145,96"/>
+        <TextEquiv>
+          <Unicode>Iidem Radulfus et Iohanna sumoniti fuerunt ad respondendum abbati de Pipwell de placito quod permittant ipsum abbatem </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:2;}" id="l_47">
+        <Coords points="86,104 288,101 452,101 577,103 779,107 903,115 1154,134 1154,102 903,83 779,75 577,71 452,69 288,69 86,72"/>
+        <Baseline points="86,97 288,94 452,94 577,96 779,100 903,108 1154,127"/>
+        <TextEquiv>
+          <Unicode>presentare idoneam personam ad ecclesiam de Asshele que vacat et ad suam spectat donacionem etc. Et nde idem abbas </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:3;}" id="l_63">
+        <Coords points="89,147 196,141 320,135 483,137 600,137 781,142 958,156 1148,169 1148,137 958,124 781,110 600,105 483,105 320,103 196,109 89,115"/>
+        <Baseline points="89,140 196,134 320,128 483,130 600,130 781,135 958,149 1148,162"/>
+        <TextEquiv>
+          <Unicode>per Nicholaum de Stamford attornatum suum dicit quod ad ipsum pertinet ad predictam ecclesiam presentare. Dicit enim quod quidam </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:4;}" id="l_81">
+        <Coords points="88,186 249,174 453,170 644,175 826,185 928,189 1083,199 1152,206 1152,174 1083,167 928,157 826,153 644,143 453,138 249,142 88,154"/>
+        <Baseline points="88,179 249,167 453,163 644,168 826,178 928,182 1083,192 1152,199"/>
+        <TextEquiv>
+          <Unicode>Ricardus de Daunz et quidam Robertus quondam abbas de Pipwell predecessor istius abbatis fuerunt coniunctim seisiti </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:5;}" id="l_99">
+        <Coords points="89,221 229,212 390,209 583,210 764,218 927,226 1077,236 1156,242 1156,210 1077,204 927,194 764,186 583,178 390,177 229,180 89,189"/>
+        <Baseline points="89,214 229,205 390,202 583,203 764,211 927,219 1077,229 1156,235"/>
+        <TextEquiv>
+          <Unicode>de aduocacione ecclesie predict tempore pacis tempore domini Ricardi regis consanguinei domini regis nunc qui eodem tempore presenta</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:6;}" id="l_117">
+        <Coords points="87,259 229,243 379,246 583,246 782,255 1026,269 1154,276 1154,244 1026,237 782,223 583,214 379,214 229,211 87,227"/>
+        <Baseline points="87,252 229,236 379,239 583,239 782,248 1026,262 1154,269"/>
+        <TextEquiv>
+          <Unicode>runt ad predictam ecclesiam quemdam Rogerum de Pateshull clericum suum qui ad presentacionem suum fuit admissus et </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:7;}" id="l_133">
+        <Coords points="88,295 171,285 413,281 593,283 790,291 976,303 1152,314 1152,282 976,271 790,259 593,251 413,249 171,253 88,263"/>
+        <Baseline points="88,288 171,278 413,274 593,276 790,284 976,296 1152,307"/>
+        <TextEquiv>
+          <Unicode>institutus. Et de ipso Ricardo descendit is partis sue de aduocacione predicta cuidam Agneti vt filie et heredi et de </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:8;}" id="l_155">
+        <Coords points="89,330 178,322 391,319 546,321 724,327 937,335 1148,346 1148,314 937,303 724,295 546,289 391,287 178,290 89,298"/>
+        <Baseline points="89,323 178,315 391,312 546,314 724,320 937,328 1148,339"/>
+        <TextEquiv>
+          <Unicode>ipsa Agnete cuidam Petro Peuerel vt filio et heredi. ita quod vacante predicta ecclesia tempore domini regis Iohannis dissencio oriebatur </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:9;}" id="l_174">
+        <Coords points="84,360 192,356 337,354 497,355 632,357 888,367 1019,374 1151,386 1151,354 1019,342 888,335 632,325 497,323 337,322 192,324 84,328"/>
+        <Baseline points="84,353 192,349 337,347 497,348 632,350 888,360 1019,367 1151,379"/>
+        <TextEquiv>
+          <Unicode>inter predictum Petrum Peuerel et quemdam Rogerum tunc abbatem predecessorem etc. de presentacione ecclesie predicte. Super qua quidem </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:10;}" id="l_198">
+        <Coords points="84,395 289,394 464,391 597,390 764,394 856,398 929,402 1156,418 1156,386 929,370 856,366 764,362 597,358 464,359 289,362 84,363"/>
+        <Baseline points="84,388 289,387 464,384 597,383 764,387 856,391 929,395 1156,411"/>
+        <TextEquiv>
+          <Unicode>dissencione ita conuenit inter eos, quod idem Petrus haberet primam presentacionem et predicts abbas et successors sui haberent </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:11;}" id="l_224">
+        <Coords points="82,433 259,426 383,425 550,423 671,426 853,429 995,437 1166,453 1166,421 995,405 853,397 671,394 550,391 383,393 259,394 82,401"/>
+        <Baseline points="82,426 259,419 383,418 550,416 671,419 853,422 995,430 1166,446"/>
+        <TextEquiv>
+          <Unicode>secundam presentacionem ad eandem, et sic predicts Petrus et heredes sui et predictus abbas et successores sui alternis vicibus </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:12;}" id="l_242">
+        <Coords points="82,467 251,463 468,460 794,462 978,471 1157,487 1157,455 978,439 794,430 468,428 251,431 82,435"/>
+        <Baseline points="82,460 251,456 468,453 794,455 978,464 1157,480"/>
+        <TextEquiv>
+          <Unicode>ad predictam ecclesiam clericos sos presentarent imperpetuum. Et dicit quod vacante predicta ecclesia per mortem predicti Rogeri de Pa</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:13;}" id="l_256">
+        <Coords points="80,501 262,498 480,492 667,495 883,501 1086,511 1159,518 1159,486 1086,479 883,469 667,463 480,460 262,466 80,469"/>
+        <Baseline points="80,494 262,491 480,485 667,488 883,494 1086,504 1159,511"/>
+        <TextEquiv>
+          <Unicode>teshull idem Petrus virtue conuencionis predicte ad predictam ecclesiam presentauit quemdam Magistrum Ricardum de </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:14;}" id="l_272">
+        <Coords points="81,540 276,532 467,527 669,528 935,535 981,540 1152,549 1152,517 981,508 935,503 669,496 467,495 276,500 81,508"/>
+        <Baseline points="81,533 276,525 467,520 669,521 935,528 981,533 1152,542"/>
+        <TextEquiv>
+          <Unicode>Langton clericum suum qui ad presentacionem suam fuit admissus et institutus tempore pacis tempore eiusdem regis </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:15;}" id="l_288">
+        <Coords points="78,578 205,569 346,570 477,566 733,568 981,576 1142,586 1142,554 981,544 733,536 477,534 346,538 205,537 78,546"/>
+        <Baseline points="78,571 205,562 346,563 477,559 733,561 981,569 1142,579"/>
+        <TextEquiv>
+          <Unicode>Iohannis. Et vacante predicta ecclesia per resignacionem eiusdem magistri Ricardi quidam Thomas quondam abbas predecessor etc. </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:16;}" id="l_304">
+        <Coords points="82,611 162,606 330,606 482,603 612,603 726,602 825,606 1007,613 1145,623 1145,591 1007,581 825,574 726,570 612,571 482,571 330,574 162,574 82,579"/>
+        <Baseline points="82,604 162,599 330,599 482,596 612,596 726,595 825,599 1007,606 1145,616"/>
+        <TextEquiv>
+          <Unicode>ad eandem ecclesiam presentauit quemdam Elyam de Grafton clericum suum qui ad presentacionem suam fuit admissus </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:17;}" id="l_324">
+        <Coords points="80,647 197,643 372,643 571,643 729,644 884,644 1147,658 1147,626 884,612 729,612 571,611 372,611 197,611 80,615"/>
+        <Baseline points="80,640 197,636 372,636 571,636 729,637 884,637 1147,651"/>
+        <TextEquiv>
+          <Unicode>et institutus tempore pacis tempore domini Henrici regis proaui domini regis nunc. Et dicit quod de predicto Petro descendit jus </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:18;}" id="l_340">
+        <Coords points="75,689 178,683 493,676 786,678 1075,690 1153,696 1153,664 1075,658 786,646 493,644 178,651 75,657"/>
+        <Baseline points="75,682 178,676 493,669 786,671 1075,683 1153,689"/>
+        <TextEquiv>
+          <Unicode>presentandi cuidam Agneti vt file et heredi que quidem Agnes vacante predicta ecclesia per mortem predicte Elie ad </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:19;}" id="l_354">
+        <Coords points="77,722 311,717 504,717 767,714 1060,727 1168,737 1168,705 1060,695 767,682 504,685 311,685 77,690"/>
+        <Baseline points="77,715 311,710 504,710 767,707 1060,720 1168,730"/>
+        <TextEquiv>
+          <Unicode>candem ecclesiam presentauit quemdam Willelmum Peuerel clericum suum qui ad presentacionem suam fuit admissus et insti</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:20;}" id="l_368">
+        <Coords points="79,758 243,754 405,752 641,751 867,751 1067,763 1163,771 1163,739 1067,731 867,719 641,719 405,720 243,722 79,726"/>
+        <Baseline points="79,751 243,747 405,745 641,744 867,744 1067,756 1163,764"/>
+        <TextEquiv>
+          <Unicode>tutus tempore pacis tempore eiusdem domini regis Henrici. Ita quod vacante ecclesia predicta per mortem predicti Willelmi Peuerel quidam </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:21;}" id="l_384">
+        <Coords points="76,793 212,793 356,788 545,787 782,786 973,790 1167,803 1167,771 973,758 782,754 545,755 356,756 212,761 76,761"/>
+        <Baseline points="76,786 212,786 356,781 545,780 782,779 973,783 1167,796"/>
+        <TextEquiv>
+          <Unicode>Iohannes quondam abbas predecessor etc. racione turni sui ad ipsum tun spectantis ad eandem ecclesiam presentauit quendam </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:22;}" id="l_400">
+        <Coords points="74,828 310,823 531,820 775,824 1046,831 1166,840 1166,808 1046,799 775,792 531,788 310,791 74,796"/>
+        <Baseline points="74,821 310,816 531,813 775,817 1046,824 1166,833"/>
+        <TextEquiv>
+          <Unicode>Andream le Burguylloun clericum suum qui ad presentacionem suam admissus fuit et institutus tempore pacis tempore </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:23;}" id="l_414">
+        <Coords points="75,861 291,857 552,861 778,863 994,867 1155,879 1155,847 994,835 778,831 552,829 291,825 75,829"/>
+        <Baseline points="75,854 291,850 552,854 778,856 994,860 1155,872"/>
+        <TextEquiv>
+          <Unicode>domini Edwardi regis aui domini regis nunc. Et dicit quod de predicta Agnete descendit jus etc. cuidam Radulfo vt filio et heredi et de </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:24;}" id="l_428">
+        <Coords points="80,896 238,894 410,894 591,894 764,898 957,903 1040,906 1155,910 1155,878 1040,874 957,871 764,866 591,862 410,862 238,862 80,864"/>
+        <Baseline points="80,889 238,887 410,887 591,887 764,891 957,896 1040,899 1155,903"/>
+        <TextEquiv>
+          <Unicode>ipso Radulfo quia obiit sine herede de se descendit is etc. cuidam Ricardo de Pydyngton vt consanguineo et heredi</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:25;}" id="l_446">
+        <Coords points="82,926 409,926 634,931 793,930 992,939 1151,948 1151,916 992,907 793,898 634,899 409,894 82,894"/>
+        <Baseline points="82,919 409,919 634,924 793,923 992,932 1151,941"/>
+        <TextEquiv>
+          <Unicode>qui quidem Ricardus partem suam aduocacionis ecclesie predicte alienauit cuidam Waltero de Langton qui quidam Walterus vacante </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:26;}" id="l_460">
+        <Coords points="82,962 294,962 585,965 937,970 1148,979 1148,947 937,938 585,933 294,930 82,930"/>
+        <Baseline points="82,955 294,955 585,958 937,963 1148,972"/>
+        <TextEquiv>
+          <Unicode>predicta ecclesia per mortem predicti Andree per predictum abbatem vltimo presentati ad eandem ecclesiam racione perquisiti de predicto Ricardo </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:27;}" id="l_472">
+        <Coords points="82,998 317,995 495,1000 700,1000 867,1005 1154,1017 1154,985 867,973 700,968 495,968 317,963 82,966"/>
+        <Baseline points="82,991 317,988 495,993 700,993 867,998 1154,1010"/>
+        <TextEquiv>
+          <Unicode>ad quem in illa vacacione pertinuit presentasse racione turni etc. presentauit quemdam Nicholaum de Misterton clericum suum qui </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:28;}" id="l_486">
+        <Coords points="84,1034 298,1031 546,1033 739,1036 867,1041 1145,1052 1145,1020 867,1009 739,1004 546,1001 298,999 84,1002"/>
+        <Baseline points="84,1027 298,1024 546,1026 739,1029 867,1034 1145,1045"/>
+        <TextEquiv>
+          <Unicode>ad presentacionem suam fuit admissus et institutus tempore pacis tempore eiusdem regis Edwardi aui etc. Et dicit quod vacante cadem </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:29;}" id="l_500">
+        <Coords points="89,1066 264,1063 534,1070 808,1073 1138,1085 1138,1053 808,1041 534,1038 264,1031 89,1034"/>
+        <Baseline points="89,1059 264,1056 534,1063 808,1066 1138,1078"/>
+        <TextEquiv>
+          <Unicode>ecclesia per resignacionem predicti Nicholai quidam Ricardus abbas predecessor etc. ad eandem ecclesiam presentauit quemdam Radulfum </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:30;}" id="l_512">
+        <Coords points="88,1101 250,1100 470,1101 689,1106 891,1114 1033,1121 1147,1126 1147,1094 1033,1089 891,1082 689,1074 470,1069 250,1068 88,1069"/>
+        <Baseline points="88,1094 250,1093 470,1094 689,1099 891,1107 1033,1114 1147,1119"/>
+        <TextEquiv>
+          <Unicode>de Stokes clericum suum qui ad presentacionem suum fuit admissus et institutus tempore pacis tempore eiusdem regis Edwardi aui </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:31;}" id="l_528">
+        <Coords points="88,1135 303,1135 558,1141 833,1148 1076,1159 1148,1160 1148,1128 1076,1127 833,1116 558,1109 303,1103 88,1103"/>
+        <Baseline points="88,1128 303,1128 558,1134 833,1141 1076,1152 1148,1153"/>
+        <TextEquiv>
+          <Unicode>etc. Et dicit quod vacante eadem ecclesia per resignacionem predicti Radulfi predicts Walterus de Langton in turno suo ad ipsum </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:32;}" id="l_544">
+        <Coords points="84,1173 364,1170 577,1177 758,1180 923,1185 1142,1196 1142,1164 923,1153 758,1148 577,1145 364,1138 84,1141"/>
+        <Baseline points="84,1166 364,1163 577,1170 758,1173 923,1178 1142,1189"/>
+        <TextEquiv>
+          <Unicode>tunc spectate ad eandem ecclesiam presentauit quemdam Thomam de Blaston clericum suum qui ad presentacionem suam fit ad</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:33;}" id="l_558">
+        <Coords points="93,1203 283,1203 510,1205 761,1214 917,1221 1140,1230 1140,1198 917,1189 761,1182 510,1173 283,1171 93,1171"/>
+        <Baseline points="93,1196 283,1196 510,1198 761,1207 917,1214 1140,1223"/>
+        <TextEquiv>
+          <Unicode>missus et institutus tempore pacis tempore eiusdem regis Edwardi aui etc. Ita quod vacante eadem ecclesia per mortem predicti Thome </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:34;}" id="l_572">
+        <Coords points="91,1241 383,1239 639,1245 879,1254 1137,1263 1137,1231 879,1222 639,1213 383,1207 91,1209"/>
+        <Baseline points="91,1234 383,1232 639,1238 879,1247 1137,1256"/>
+        <TextEquiv>
+          <Unicode>quidam Thomas abbas predecessor etc. ad eandem ecclesiam presentauit quemdam Willelmum le Hunte clericum suum qui </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:35;}" id="l_584">
+        <Coords points="88,1275 275,1275 530,1275 730,1283 959,1292 1145,1302 1145,1270 959,1260 730,1251 530,1243 275,1243 88,1243"/>
+        <Baseline points="88,1268 275,1268 530,1268 730,1276 959,1285 1145,1295"/>
+        <TextEquiv>
+          <Unicode>ad presentacionem suam fuit admissus et institutus tempore pacis tempore domini Edwardi regis patris domini regis nunc. Et dicit </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:36;}" id="l_598">
+        <Coords points="86,1309 244,1311 437,1310 595,1315 741,1317 983,1328 1154,1334 1154,1302 983,1296 741,1285 595,1283 437,1278 244,1279 86,1277"/>
+        <Baseline points="86,1302 244,1304 437,1303 595,1308 741,1310 983,1321 1154,1327"/>
+        <TextEquiv>
+          <Unicode>quod vacate predicta ecclesia per mortem predicti Willelmi predicts Walterus de Langton racione turni sui ad predictam ecclesiam </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:37;}" id="l_619">
+        <Coords points="85,1343 335,1345 535,1345 815,1352 1157,1369 1157,1337 815,1320 535,1313 335,1313 85,1311"/>
+        <Baseline points="85,1336 335,1338 535,1338 815,1345 1157,1362"/>
+        <TextEquiv>
+          <Unicode>presentauit quemdam Magistrum Robertum de Weston clericum suum qui ad presentacionem suam fuit admissus et institutus tempore </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:38;}" id="l_631">
+        <Coords points="90,1381 257,1382 477,1379 667,1384 908,1391 1132,1402 1132,1370 908,1359 667,1352 477,1347 257,1350 90,1349"/>
+        <Baseline points="90,1374 257,1375 477,1372 667,1377 908,1384 1132,1395"/>
+        <TextEquiv>
+          <Unicode>pacis tempore eiusdem regis Edwardi patris etc. per cuius resignacionem predicta ecclesia modo vacat. Et dicit quod racione turni in </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:39;}" id="l_645">
+        <Coords points="92,1410 352,1415 668,1415 947,1428 1133,1433 1133,1401 947,1396 668,1383 352,1383 92,1378"/>
+        <Baseline points="92,1403 352,1408 668,1408 947,1421 1133,1426"/>
+        <TextEquiv>
+          <Unicode>ista vacacione ad ipsum abbatem spectantis ad ipsum pertinet ad predictam ecclesiam ad presens presentare. Vnde per hoc quod predicti </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:40;}" id="l_657">
+        <Coords points="91,1439 344,1448 657,1448 995,1466 1136,1468 1136,1436 995,1434 657,1416 344,1416 91,1407"/>
+        <Baseline points="91,1432 344,1441 657,1441 995,1459 1136,1461"/>
+        <TextEquiv>
+          <Unicode>Radulfus et Iohanna cum iniuste impediunt dicit quod deteriorates est et dampnum habet ad valenciam ducentarum librarum. </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:41;}" id="l_669">
+        <Coords points="92,1475 348,1479 348,1447 92,1443"/>
+        <Baseline points="92,1468 348,1472"/>
+        <TextEquiv>
+          <Unicode>Et inde producit sectam etc.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:42;}" id="l_675">
+        <Coords points="93,1507 456,1516 746,1518 1133,1533 1133,1501 746,1486 456,1484 93,1475"/>
+        <Baseline points="93,1500 456,1509 746,1511 1133,1526"/>
+        <TextEquiv>
+          <Unicode>Et Radulfus et Iohanna per Iohannem de Helpeston attornatum suum veniunt et dicunt quod ipsi habent statum quem predicts Walterus de </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:43;}" id="l_685">
+        <Coords points="94,1534 330,1544 587,1544 832,1555 994,1563 1135,1569 1135,1537 994,1531 832,1523 587,1512 330,1512 94,1502"/>
+        <Baseline points="94,1527 330,1537 587,1537 832,1548 994,1556 1135,1562"/>
+        <TextEquiv>
+          <Unicode>Langton habuit in aduocacione ecclesie predicte. Et non possunt dedicere quin ad predictum abbatem ad predictam ecclesiam </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:44;}" id="l_701">
+        <Coords points="97,1566 378,1573 641,1578 935,1593 1125,1599 1125,1567 935,1561 641,1546 378,1541 97,1534"/>
+        <Baseline points="97,1559 378,1566 641,1571 935,1586 1125,1592"/>
+        <TextEquiv>
+          <Unicode>ad presens pertinet presentare, immo bene concedunt quod idem abbas habeat presentacionem suam ad ecclesiam predictam </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:45;}" id="l_715">
+        <Coords points="98,1599 512,1611 778,1615 970,1626 1136,1634 1136,1602 970,1594 778,1583 512,1579 98,1567"/>
+        <Baseline points="98,1592 512,1604 778,1608 970,1619 1136,1627"/>
+        <TextEquiv>
+          <Unicode>ista vice salua sibi presentacione sua ad eandem in proxima vacacione sequente. Ideo consideratum est quod predicts abbas recuperet </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:46;}" id="l_727">
+        <Coords points="100,1630 212,1638 495,1641 821,1649 986,1661 1124,1662 1124,1630 986,1629 821,1617 495,1609 212,1606 100,1598"/>
+        <Baseline points="100,1623 212,1631 495,1634 821,1642 986,1654 1124,1655"/>
+        <TextEquiv>
+          <Unicode>versus eos presentacionem suam ad predictam ecclesiam et dampna sua ad valorem eiusdem ecclesie duorum annorum o quod predicti </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:47;}" id="l_741">
+        <Coords points="101,1663 192,1674 495,1671 785,1679 1110,1690 1110,1658 785,1647 495,1639 192,1642 101,1631"/>
+        <Baseline points="101,1656 192,1667 495,1664 785,1672 1110,1683"/>
+        <TextEquiv>
+          <Unicode>Radulfus et Iohanna cognoscunt quod tempus labitur. Et habeat breue episcopo Lincolniensi quod non obstante reclamacione ipsorum Radulfi et </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:48;}" id="l_753">
+        <Coords points="106,1698 291,1697 548,1703 753,1709 1125,1722 1125,1690 753,1677 548,1671 291,1665 106,1666"/>
+        <Baseline points="106,1691 291,1690 548,1696 753,1702 1125,1715"/>
+        <TextEquiv>
+          <Unicode>Iohanne ad presentacionem predict abbatis ad ecclesiam predictam idoneam personam admittat. Et Radulfus et Iohanna in misericordia. </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:49;}" id="l_765">
+        <Coords points="111,1726 495,1735 784,1742 1080,1755 1130,1756 1130,1724 1080,1723 784,1710 495,1703 111,1694"/>
+        <Baseline points="111,1719 495,1728 784,1735 1080,1748 1130,1749"/>
+        <TextEquiv>
+          <Unicode>Set quia nescitur quantum predicta ecclesia valeat per annum et eciam dubitatur de fraude contra statutum etc. preceptum est vicecomiti </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:50;}" id="l_777">
+        <Coords points="110,1757 317,1761 467,1766 723,1773 999,1784 1123,1788 1123,1756 999,1752 723,1741 467,1734 317,1729 110,1725"/>
+        <Baseline points="110,1750 317,1754 467,1759 723,1766 999,1777 1123,1781"/>
+        <TextEquiv>
+          <Unicode>quod venire faciat hic die Mercurii proxima post festum Sancti Martini .xxiiij . etc. per quos etc. et qui predictum abbatem nulla etc. </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:51;}" id="l_791">
+        <Coords points="115,1786 257,1790 578,1802 790,1807 1127,1826 1127,1794 790,1775 578,1770 257,1758 115,1754"/>
+        <Baseline points="115,1779 257,1783 578,1795 790,1800 1127,1819"/>
+        <TextEquiv>
+          <Unicode>ad recognoscendum in forma predicta etc. et quod scire faciat capitalibus dominis feodi mediatis et immediatis quod tunc sint etc. </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:52;}" id="l_805">
+        <Coords points="113,1820 424,1828 683,1838 964,1849 1138,1859 1138,1827 964,1817 683,1806 424,1796 113,1788"/>
+        <Baseline points="113,1813 424,1821 683,1831 964,1842 1138,1852"/>
+        <TextEquiv>
+          <Unicode>si etc. Et interim cesset execucio.  Ad quem diem venit predictus abbas per predictum attornatum suum. Et vicecomes mandauit quod </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:53;}" id="l_819">
+        <Coords points="114,1848 434,1860 675,1868 1056,1889 1129,1894 1129,1862 1056,1857 675,1836 434,1828 114,1816"/>
+        <Baseline points="114,1841 434,1853 675,1861 1056,1882 1129,1887"/>
+        <TextEquiv>
+          <Unicode>sire fecit capitalibus dominis feodi mediatis et immediatis essendi hic etc. si etc. Et iuratores veniunt, qui dicunt super sacramentum </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:54;}" id="l_831">
+        <Coords points="111,1884 430,1891 660,1900 926,1916 1124,1926 1124,1894 926,1884 660,1868 430,1859 111,1852"/>
+        <Baseline points="111,1877 430,1884 660,1893 926,1909 1124,1919"/>
+        <TextEquiv>
+          <Unicode>suum quod quidam Robertus abbas de Pipwell predecessor istius abbatis et quidam Ricardus de Daunz tempore regis Ricardi </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:55;}" id="l_845">
+        <Coords points="111,1913 445,1922 763,1940 1119,1958 1119,1926 763,1908 445,1890 111,1881"/>
+        <Baseline points="111,1906 445,1915 763,1933 1119,1951"/>
+        <TextEquiv>
+          <Unicode>consanguinei domini regis nunc tenuerunt coniunctim aduocacionem predicte ecclesie et ad eandem ecclesiam presentarunt quemdam </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:56;}" id="l_857">
+        <Coords points="115,1945 289,1947 492,1955 734,1970 1132,1992 1132,1960 734,1938 492,1923 289,1915 115,1913"/>
+        <Baseline points="115,1938 289,1940 492,1948 734,1963 1132,1985"/>
+        <TextEquiv>
+          <Unicode>Rogerum de Pateshull clericum suum qui ad eorum presentacionem fuit admissus et institutus eodem tempore et quod postea </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:57;}" id="l_869">
+        <Coords points="111,1975 285,1978 488,1988 708,2000 1034,2015 1119,2022 1119,1990 1034,1983 708,1968 488,1956 285,1946 111,1943"/>
+        <Baseline points="111,1968 285,1971 488,1981 708,1993 1034,2008 1119,2015"/>
+        <TextEquiv>
+          <Unicode>tempore regis Iohannis super quadam dissencione inter quemdam Petrum Peuerel consanguineum et heredem predicti Ricardi et </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:58;}" id="l_883">
+        <Coords points="112,2010 326,2015 570,2023 882,2038 1113,2053 1113,2021 882,2006 570,1991 326,1983 112,1978"/>
+        <Baseline points="112,2003 326,2008 570,2016 882,2031 1113,2046"/>
+        <TextEquiv>
+          <Unicode>quemdam Rogerum abbatem de Pipwell predecessorem istius abbatis mota de aduocacione predicta ita conuenit inter </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:59;}" id="l_895">
+        <Coords points="114,2035 271,2040 480,2052 682,2063 959,2078 1113,2086 1113,2054 959,2046 682,2031 480,2020 271,2008 114,2003"/>
+        <Baseline points="114,2028 271,2033 480,2045 682,2056 959,2071 1113,2079"/>
+        <TextEquiv>
+          <Unicode>eosdem scilicet quod idem Petrus et heredes sui et idem Rogers abbas et successores sui alternis vicibus ad ecclesiam </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:60;}" id="l_909">
+        <Coords points="114,2073 283,2081 502,2083 778,2099 960,2111 1117,2115 1117,2083 960,2079 778,2067 502,2051 283,2049 114,2041"/>
+        <Baseline points="114,2066 283,2074 502,2076 778,2092 960,2104 1117,2108"/>
+        <TextEquiv>
+          <Unicode>predictam clericos sos imperpetuum presentarent. Et dicunt quod ab illo tempore semper hactenus quilibet abbas in </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:61;}" id="l_925">
+        <Coords points="116,2106 438,2119 685,2128 1008,2142 1125,2145 1125,2113 1008,2110 685,2096 438,2087 116,2074"/>
+        <Baseline points="116,2099 438,2112 685,2121 1008,2135 1125,2138"/>
+        <TextEquiv>
+          <Unicode>qualibet altera vacacione ad ecclesiam predictam clericum suum presentauit virtute conuencionis predicte sicut superius </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:62;}" id="l_937">
+        <Coords points="109,2139 432,2149 687,2164 946,2175 1099,2178 1099,2146 946,2143 687,2132 432,2117 109,2107"/>
+        <Baseline points="109,2132 432,2142 687,2157 946,2168 1099,2171"/>
+        <TextEquiv>
+          <Unicode>in narracione predicti abbatis continetur. Vnde dicunt quod predicts abbas nunc habet ius presentandi ad ecclesiam pre</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:63;}" id="l_949">
+        <Coords points="114,2167 428,2182 610,2193 911,2207 1073,2209 1073,2177 911,2175 610,2161 428,2150 114,2135"/>
+        <Baseline points="114,2160 428,2175 610,2186 911,2200 1073,2202"/>
+        <TextEquiv>
+          <Unicode>dictam. et quod non est aliqua fraus inter ipsum abbatem et predictos Radulfum et Iohannam prelocuta. Et iuratores quesiti de </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:64;}" id="l_961">
+        <Coords points="117,2194 363,2212 564,2223 838,2236 1018,2242 1109,2242 1109,2210 1018,2210 838,2204 564,2191 363,2180 117,2162"/>
+        <Baseline points="117,2187 363,2205 564,2216 838,2229 1018,2235 1109,2235"/>
+        <TextEquiv>
+          <Unicode>valore ecclesie per annum dicunt quod predicta ecclesia valet per annum viginti libras. Ideo predicts abbas habeat </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:65;}" id="l_975">
+        <Coords points="118,2225 334,2243 516,2251 696,2256 886,2264 990,2267 1126,2261 1126,2229 990,2235 886,2232 696,2224 516,2219 334,2211 118,2193"/>
+        <Baseline points="118,2218 334,2236 516,2244 696,2249 886,2257 990,2260 1126,2254"/>
+        <TextEquiv>
+          <Unicode>execucionem predicti iudicii etc. et recuperet versus predictos Radulfum et Iohannam quadraginta libras pro dampnis suis ad </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:66;}" id="l_991">
+        <Coords points="117,2249 303,2264 481,2275 568,2278 640,2278 640,2246 568,2246 481,2243 303,2232 117,2217"/>
+        <Baseline points="117,2242 303,2257 481,2268 568,2271 640,2271"/>
+        <TextEquiv>
+          <Unicode>valorem eiusdem ecclesie durum annorum eo quod tempus labitur etc.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

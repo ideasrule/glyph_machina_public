@@ -1,0 +1,282 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-12-30T22:35:57.627+01:00</Created>
+        <LastChange>2023-12-30T23:10:59.285+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="63018388" pageNr="15" tsid="144210350" status="FINAL" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=LDQDHOMEEMEUZSNZKQBTIKVL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BLCAHXYFTBLFEEVLRWOAOHJS" imageId="50942384" />
+    </Metadata>
+    <Page imageFilename="JUST1-633m12d.jpeg" imageWidth="1121" imageHeight="1171">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1704262311444" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="5,83 128,76 395,59 604,50 822,43 1111,36 1111,7 822,14 604,21 395,30 128,47 5,54" />
+                <Baseline points="5,77 128,70 395,53 604,44 822,37 1111,30" />
+                <TextEquiv>
+                    <Unicode>¶ Assisa venit recognitura si Willelmus de Sancto Mauro senior iniuste etc. disseisiuit Willelmum Broun de Glapthorn de communa pasture </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_23" custom="readingOrder {index:1;}">
+                <Coords points="38,114 167,105 311,95 465,86 605,84 754,79 893,74 1101,74 1101,45 893,45 754,50 605,55 465,57 311,66 167,76 38,85" />
+                <Baseline points="38,108 167,99 311,89 465,80 605,78 754,73 893,68 1101,68" />
+                <TextEquiv>
+                    <Unicode>sue in Hanyngton que pertinet ad liberum tenementum suum in eadem villa post primam etc. Et vnde queritur quod disseisiuit eum de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_41" custom="readingOrder {index:2;}">
+                <Coords points="38,141 140,138 289,129 440,120 591,116 711,112 816,109 1094,106 1094,77 816,80 711,83 591,87 440,91 289,100 140,109 38,112" />
+                <Baseline points="38,135 140,132 289,123 440,114 591,110 711,106 816,103 1094,100" />
+                <TextEquiv>
+                    <Unicode>communa pasture communicandi in sex acris prati cum omnimodis auseris --- quolibet anno a tempore falcacionis </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_59" custom="readingOrder {index:3;}">
+                <Coords points="40,174 142,172 303,162 462,154 651,149 811,142 955,140 1086,139 1086,110 955,111 811,113 651,120 462,125 303,133 142,143 40,145" />
+                <Baseline points="40,168 142,166 303,156 462,148 651,143 811,136 955,134 1086,133" />
+                <TextEquiv>
+                    <Unicode>et leuacionis feni vsque ad festum Purificacionis Beate Marie. Et Willelmus de Sancto Mauro venit et dicit quod assisa non </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_475" custom="readingOrder {index:4;}">
+                <Coords points="168,184 230,180 230,151 168,155" />
+                <Baseline points="168,178 230,174" />
+                <TextEquiv>
+                    <Unicode>inter eos </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_77" custom="readingOrder {index:5;}">
+                <Coords points="43,208 195,201 362,191 644,180 879,173 965,172 1097,168 1097,139 965,143 879,144 644,151 362,162 195,172 43,179" />
+                <Baseline points="43,202 195,195 362,185 644,174 879,167 965,166 1097,162" />
+                <TextEquiv>
+                    <Unicode>debet inde fieri dicit enim quod tempore regis E. patris domini regis nunc tam tenementa ipsius Willelmi Broun ad que </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_93" custom="readingOrder {index:6;}">
+                <Coords points="45,242 186,234 346,221 464,217 622,214 754,211 865,210 984,208 1100,206 1100,177 984,179 865,181 754,182 622,185 464,188 346,192 186,205 45,213" />
+                <Baseline points="45,236 186,228 346,215 464,211 622,208 754,205 865,204 984,202 1100,200" />
+                <TextEquiv>
+                    <Unicode>dicit communam pasture in predicto prato esse pertinentem quam ipsum pratum quod idem Willelmus de Sancto Mauro nunc tenet </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_115" custom="readingOrder {index:7;}">
+                <Coords points="49,274 104,270 278,260 355,258 625,246 782,242 929,243 1098,240 1098,211 929,214 782,213 625,217 355,229 278,231 104,241 49,245" />
+                <Baseline points="49,268 104,264 278,254 355,252 625,240 782,236 929,237 1098,234" />
+                <TextEquiv>
+                    <Unicode>fuerunt in seisina cuiusdam Radulfi de Hanyngton in dominico suo vt de feodo quo tempore communa pasture in aliquo </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_133" custom="readingOrder {index:8;}">
+                <Coords points="32,313 93,306 336,294 554,286 698,281 870,277 1019,277 1109,277 1109,248 1019,248 870,248 698,252 554,257 336,265 93,277 32,284" />
+                <Baseline points="32,307 93,300 336,288 554,280 698,275 870,271 1019,271 1109,271" />
+                <TextEquiv>
+                    <Unicode>proprio solo suo ad aliquod aliud proprium solum eiusdem non pertinuit nec de iure dici potuit pertinere cum durante possessione </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_151" custom="readingOrder {index:9;}">
+                <Coords points="42,337 129,329 235,325 345,318 432,317 575,313 686,308 714,311 879,304 1096,304 1096,275 879,275 714,282 686,279 575,284 432,288 345,289 235,296 129,300 42,308" />
+                <Baseline points="42,331 129,323 235,319 345,312 432,311 575,307 686,302 714,305 879,298 1096,298" />
+                <TextEquiv>
+                    <Unicode>predicti Radulfi de vtroque tenemento simul et semel nulla dependencia commune in no predictorum tenementorum ad aliud tenementum attrahi </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_173" custom="readingOrder {index:10;}">
+                <Coords points="41,363 160,354 282,347 431,344 608,339 837,333 960,330 1107,328 1107,299 960,301 837,304 608,310 431,315 282,318 160,325 41,334" />
+                <Baseline points="41,357 160,348 282,341 431,338 608,333 837,327 960,324 1107,322" />
+                <TextEquiv>
+                    <Unicode>potuit. Vnde petit iudicium etc. Et Willelmus Broun non dedicit quin vtraque tenementa predicta fuerunt simul et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_191" custom="readingOrder {index:11;}">
+                <Coords points="41,391 168,379 334,371 506,367 645,365 805,361 989,355 1102,352 1102,323 989,326 805,332 645,336 506,338 334,342 168,350 41,362" />
+                <Baseline points="41,385 168,373 334,365 506,361 645,359 805,355 989,349 1102,346" />
+                <TextEquiv>
+                    <Unicode>semel in seisina predicti Radulfi. Set dicit quod ipse habet in predicta villa diuersas antiquas tenuras ad quas communa </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_213" custom="readingOrder {index:12;}">
+                <Coords points="44,421 116,411 251,402 412,395 549,393 638,391 784,390 982,385 1113,380 1113,351 982,356 784,361 638,362 549,364 412,366 251,373 116,382 44,392" />
+                <Baseline points="44,415 116,405 251,396 412,389 549,387 638,385 784,384 982,379 1113,374" />
+                <TextEquiv>
+                    <Unicode>pasture in predicto prato pertinet et ab antiquo pertinuit de qua tam ipsemet quam Willelmus pater eius et Robertus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_245" custom="readingOrder {index:13;}">
+                <Coords points="46,449 189,439 314,429 446,424 577,419 743,418 892,409 1005,408 1108,410 1108,381 1005,379 892,380 743,389 577,390 446,395 314,400 189,410 46,420" />
+                <Baseline points="46,443 189,433 314,423 446,418 577,413 743,412 892,403 1005,402 1108,404" />
+                <TextEquiv>
+                    <Unicode>auunculus eius quam eciam alii ipsa tenementa tenentes fuerunt seisiti vt pertinente etc. Vnde cum predictus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_265" custom="readingOrder {index:14;}">
+                <Coords points="42,480 170,469 333,457 497,449 622,448 941,438 1100,439 1100,410 941,409 622,419 497,420 333,428 170,440 42,451" />
+                <Baseline points="42,474 170,463 333,451 497,443 622,442 941,432 1100,433" />
+                <TextEquiv>
+                    <Unicode>Willelmus de Sancto Mauro nullam separalitatem in predicto prato allegat fuisse tempore predicti Radulfi et idem </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_281" custom="readingOrder {index:15;}">
+                <Coords points="45,511 186,500 337,493 577,483 695,477 746,478 932,471 1099,467 1099,438 932,442 746,449 695,448 577,454 337,464 186,471 45,482" />
+                <Baseline points="45,505 186,494 337,487 577,477 695,471 746,472 932,465 1099,461" />
+                <TextEquiv>
+                    <Unicode>Willelmus Broun propriam possessionem suam de predicta communa paratus sit verificare per assisam petit iudicium </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_299" custom="readingOrder {index:16;}">
+                <Coords points="49,541 184,532 339,522 466,520 636,514 795,509 930,505 1088,504 1088,475 930,476 795,480 636,485 466,491 339,493 184,503 49,512" />
+                <Baseline points="49,535 184,526 339,516 466,514 636,508 795,503 930,499 1088,498" />
+                <TextEquiv>
+                    <Unicode>si ab assisa ista repelli debeat etc. Et Willelmus de Sancto Mauro dicit quod ex quo predictus Willelmus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_317" custom="readingOrder {index:17;}">
+                <Coords points="45,571 177,563 368,552 538,548 678,541 861,536 1092,529 1092,500 861,507 678,512 538,519 368,523 177,534 45,542" />
+                <Baseline points="45,565 177,557 368,546 538,542 678,535 861,530 1092,523" />
+                <TextEquiv>
+                    <Unicode>Broun non dedicit vnicam seisinam predicti Radulfi in forma predica in vtroque tenemento habitamcuius seisina </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_333" custom="readingOrder {index:18;}">
+                <Coords points="48,601 171,594 357,584 582,577 661,573 722,572 947,563 1002,565 1084,561 1096,561 1096,561 1096,532 1096,532 1084,532 1002,536 947,534 722,543 661,544 582,548 357,555 171,565 48,572" />
+                <Baseline points="48,595 171,588 357,578 582,571 661,567 722,566 947,557 1002,559 1084,555 1096,555 1096,555" />
+                <TextEquiv>
+                    <Unicode>omnimodam communam exclusit de iure et idem Willelmus nullum titulum ostendit per quem ius communicandi </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_154" custom="readingOrder {index:19;}">
+                <Coords points="53,631 311,617 453,612 568,608 712,605 879,599 1109,594 1109,565 879,570 712,576 568,579 453,583 311,588 53,602" />
+                <Baseline points="53,625 311,611 453,606 568,602 712,599 879,593 1109,588" />
+                <TextEquiv>
+                    <Unicode>ibidem ei accrescere potuit post seisinam predicti Radulfi predictam petit iudicium si ad aliquam possissionem </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_170" custom="readingOrder {index:20;}">
+                <Coords points="50,661 156,658 300,655 460,645 592,637 666,633 789,631 976,626 1051,624 1105,623 1105,594 1051,595 976,597 789,602 666,604 592,608 460,616 300,626 156,629 50,632" />
+                <Baseline points="50,655 156,652 300,649 460,639 592,631 666,627 789,625 976,620 1051,618 1105,617" />
+                <TextEquiv>
+                    <Unicode>commune sicut predicitur excluse verificandam de tam tardo tempore admitti debeat nisi de aliquo nouo titulo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_192" custom="readingOrder {index:21;}">
+                <Coords points="54,693 170,688 356,683 510,676 700,665 851,660 1006,657 1104,655 1104,626 1006,628 851,631 700,636 510,647 356,654 170,659 54,664" />
+                <Baseline points="54,687 170,682 356,677 510,670 700,659 851,654 1006,651 1104,649" />
+                <TextEquiv>
+                    <Unicode>communam attribuente docere possit etc. --- Et Willelmus Broun dicit quod diuerse tenure terrarum et pratorum in predicta </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_210" custom="readingOrder {index:22;}">
+                <Coords points="60,725 175,719 349,715 471,708 634,700 806,690 951,687 1081,684 1081,655 951,658 806,661 634,671 471,679 349,686 175,690 60,696" />
+                <Baseline points="60,719 175,713 349,709 471,702 634,694 806,684 951,681 1081,678" />
+                <TextEquiv>
+                    <Unicode>villa de Hanyngton sparsim iacent racione quarum quilibet tenens in alterius tenuris semper </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_228" custom="readingOrder {index:23;}">
+                <Coords points="58,756 253,746 428,740 630,730 786,722 840,721 973,717 1089,707 1089,678 973,688 840,692 786,693 630,701 428,711 253,717 58,727" />
+                <Baseline points="58,750 253,740 428,734 630,724 786,716 840,715 973,711 1089,701" />
+                <TextEquiv>
+                    <Unicode>hactenus a tempore quo non extat memoria post vesturam asportatam intercommunicarunt pari iure et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_246" custom="readingOrder {index:24;}">
+                <Coords points="63,787 196,781 359,774 515,766 736,755 893,748 1037,742 1112,734 1112,705 1037,713 893,719 736,726 515,737 359,745 196,752 63,758" />
+                <Baseline points="63,781 196,775 359,768 515,760 736,749 893,742 1037,736 1112,728" />
+                <TextEquiv>
+                    <Unicode>adhuc intercommunicant. Et quo ad hoc quod predictus Willelmus de Sancto Mauro asserit predictam communam tempore vite </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_264" custom="readingOrder {index:25;}">
+                <Coords points="63,820 197,812 326,809 504,798 709,787 881,775 1005,772 1067,766 1067,737 1005,743 881,746 709,758 504,769 326,780 197,783 63,791" />
+                <Baseline points="63,814 197,806 326,803 504,792 709,781 881,769 1005,766 1067,760" />
+                <TextEquiv>
+                    <Unicode>seisine predicti Radulfi fuisse exclusam cum non sit immo e tempore durante pocius in quendam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_282" custom="readingOrder {index:26;}">
+                <Coords points="66,846 188,843 367,835 501,827 594,822 640,822 805,811 838,811 940,804 1088,794 1088,765 940,775 838,782 805,782 640,793 594,793 501,798 367,806 188,814 66,817" />
+                <Baseline points="66,840 188,837 367,829 501,821 594,816 640,816 805,805 838,805 940,798 1088,788" />
+                <TextEquiv>
+                    <Unicode>modum pascendi conuersa dicit quod quamcicius ipsa tenementa in manibus diuersorum dispersa fuerunt statim communa </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_304" custom="readingOrder {index:27;}">
+                <Coords points="64,877 228,870 370,867 562,856 649,855 778,847 934,837 1054,829 1107,824 1107,795 1054,800 934,808 778,818 649,826 562,827 370,838 228,841 64,848" />
+                <Baseline points="64,871 228,864 370,861 562,850 649,849 778,841 934,831 1054,823 1107,818" />
+                <TextEquiv>
+                    <Unicode>predicta tenemento ad quod prius pertinuit se adhesit et reuinxit. Per quod ex quo paratus sit per assisam </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_324" custom="readingOrder {index:28;}">
+                <Coords points="67,909 217,901 286,901 389,900 557,890 689,884 832,876 943,869 1091,860 1091,831 943,840 832,847 689,855 557,861 389,871 286,872 217,872 67,880" />
+                <Baseline points="67,903 217,895 286,895 389,894 557,884 689,878 832,870 943,863 1091,854" />
+                <TextEquiv>
+                    <Unicode>verificare tam possessionem suam propriam quam longtinam seisinam predictorum Willelmi patris Roberti auunculi sui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_344" custom="readingOrder {index:29;}">
+                <Coords points="65,939 181,932 313,930 452,927 616,919 743,916 884,903 1062,890 1062,861 884,874 743,887 616,890 452,898 313,901 181,903 65,910" />
+                <Baseline points="65,933 181,926 313,924 452,921 616,913 743,910 884,897 1062,884" />
+                <TextEquiv>
+                    <Unicode>et ceterorum tenencium predictorum modo quo predicitur de tanto tempore vsitatas videtur ei quod hoc sibi </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_362" custom="readingOrder {index:30;}">
+                <Coords points="67,966 187,963 298,961 427,958 550,952 705,944 841,938 996,928 996,899 841,909 705,915 550,923 427,929 298,932 187,934 67,937" />
+                <Baseline points="67,960 187,957 298,955 427,952 550,946 705,938 841,932 996,922" />
+                <TextEquiv>
+                    <Unicode>sufficere debet pro titulo ad assisam istam in casu isto attingendam et petit iudicium etc. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_380" custom="readingOrder {index:31;}">
+                <Coords points="67,1003 231,995 399,991 544,983 634,980 810,972 950,964 1113,952 1113,923 950,935 810,943 634,951 544,954 399,962 231,966 67,974" />
+                <Baseline points="67,997 231,989 399,985 544,977 634,974 810,966 950,958 1113,946" />
+                <TextEquiv>
+                    <Unicode>Et predictus Willelmus de Sancto Mauro dici vIterius pro predicta assisa euidencius excludenda quod predictus Willelmus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_398" custom="readingOrder {index:32;}">
+                <Coords points="62,1034 193,1024 304,1025 482,1017 712,1006 853,998 963,990 1086,982 1086,953 963,961 853,969 712,977 482,988 304,996 193,995 62,1005" />
+                <Baseline points="62,1028 193,1018 304,1019 482,1011 712,1000 853,992 963,984 1086,976" />
+                <TextEquiv>
+                    <Unicode>Broun nullam aliam terram tenet in predicta villa de Hanyngton nisi illam tantum quam predictus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_416" custom="readingOrder {index:33;}">
+                <Coords points="70,1060 185,1057 360,1054 505,1048 695,1039 868,1031 1098,1011 1098,982 868,1002 695,1010 505,1019 360,1025 185,1028 70,1031" />
+                <Baseline points="70,1054 185,1051 360,1048 505,1042 695,1033 868,1025 1098,1005" />
+                <TextEquiv>
+                    <Unicode>Radulfus de Hanyngton tenuit vnanimiter cum predicto prato. Vnde racionibus predictis consideratis petit iudicium </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_432" custom="readingOrder {index:34;}">
+                <Coords points="69,1092 185,1089 330,1085 487,1078 602,1075 805,1068 931,1060 1092,1048 1092,1019 931,1031 805,1039 602,1046 487,1049 330,1056 185,1060 69,1063" />
+                <Baseline points="69,1086 185,1083 330,1079 487,1072 602,1069 805,1062 931,1054 1092,1042" />
+                <TextEquiv>
+                    <Unicode>si assisa ista sine nouo titulo procedere debeat etc. Postea predictus Willelmus Broun non est prosecutus. Ideo </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_450" custom="readingOrder {index:35;}">
+                <Coords points="66,1122 235,1116 417,1110 639,1102 841,1093 1102,1076 1102,1047 841,1064 639,1073 417,1081 235,1087 66,1093" />
+                <Baseline points="66,1116 235,1110 417,1104 639,1096 841,1087 1102,1070" />
+                <TextEquiv>
+                    <Unicode>consideratum est quod predictus Willelmus de Sancto Mauro eat inde sine die. Et predictus Willelmus Broun et plegii </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_464" custom="readingOrder {index:36;}">
+                <Coords points="66,1153 211,1146 453,1137 697,1131 697,1102 453,1108 211,1117 66,1124" />
+                <Baseline points="66,1147 211,1140 453,1131 697,1125" />
+                <TextEquiv>
+                    <Unicode>sui de prosequendo scilicet Iohannes Broun et Ricardus le Rede in misericordia etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <Coords points="1121,1122 3,1167 8,38 1119,-2" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

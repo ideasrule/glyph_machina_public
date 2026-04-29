@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="https://github.com/mauvilsa/nw-page-editor">
+  <Metadata>
+    <Creator>Transkribus</Creator>
+    <Created>2024-01-02T20:06:02.794+01:00</Created>
+    <LastChange>2026-02-20T05:33:01Z</LastChange>
+    <TranskribusMetadata docId="1640070" imageId="50963751" imgUrl="https://files.transkribus.eu/Get?id=NNELGOLGQURHONYBNPVJNNVD&amp;fileType=view" pageId="63044210" pageNr="7" status="FINAL" tsid="144280731" userId="195295" xmlUrl="https://files.transkribus.eu/Get?id=CHICWVLBWJXRHTRXLEQZIITO"/>
+  </Metadata>
+  <Page imageFilename="JUST1-633m48d.jpeg" imageHeight="948" imageWidth="1188">
+    <ReadingOrder>
+      <OrderedGroup caption="Regions reading order" id="ro_1704262309784">
+        <RegionRefIndexed index="0" regionRef="r"/>
+      </OrderedGroup>
+    </ReadingOrder>
+    <Relations/>
+    <TextRegion custom="readingOrder {index:0;}" id="r">
+      <Coords points="1183,938 1,934 5,45 1183,0"/>
+      <TextLine custom="readingOrder {index:0;}" id="l_330">
+        <Coords points="30,85 102,77 102,41 30,49"/>
+        <Baseline points="30,77 102,69"/>
+        <TextEquiv>
+          <Unicode>Willelmus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:2;}" id="l">
+        <Coords points="10,118 205,106 520,81 847,68 1080,59 1160,56 1160,20 1080,23 847,32 520,45 205,70 10,82"/>
+        <Baseline points="10,110 205,98 520,73 847,60 1080,51 1160,48"/>
+        <TextEquiv>
+          <Unicode>¶ abbas de Sancto Wandregesilio prebendarius prebende de Vpauene in ecclesia beate Marie Saresburiensi per Bernardum Le </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:1;}" id="l_336">
+        <Coords points="914,88 1008,82 1008,46 914,52"/>
+        <Baseline points="914,80 1008,74"/>
+        <TextEquiv>
+          <Unicode>tresdecim</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:3;}" id="l_22">
+        <Coords points="37,153 226,142 473,126 758,114 1052,100 1159,98 1159,62 1052,64 758,78 473,90 226,106 37,117"/>
+        <Baseline points="37,145 226,134 473,118 758,106 1052,92 1159,90"/>
+        <TextEquiv>
+          <Unicode>Engleys attornatum suum petit versus Thomam de Boketon. Chyualer sexaginta et --- solidatas et quatuor </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:4;}" id="l_36">
+        <Coords points="39,189 240,180 491,166 779,160 1043,149 1176,146 1176,110 1043,113 779,124 491,130 240,144 39,153"/>
+        <Baseline points="39,181 240,172 491,158 779,152 1043,141 1176,138"/>
+        <TextEquiv>
+          <Unicode>denarratas redditus cum pertinenciis in Boketon et Multon et versus Iulianam que fuit vxor Iohannis de Boketon triginta </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:5;}" id="l_50">
+        <Coords points="45,230 236,223 448,207 621,203 855,202 1167,196 1167,160 855,166 621,167 448,171 236,187 45,194"/>
+        <Baseline points="45,222 236,215 448,199 621,195 855,194 1167,188"/>
+        <TextEquiv>
+          <Unicode>et sex solidatas et octo denarratas redditus cum pertinenciis in eisdem villis vt --- jus prebende sue predicte </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:6;}" id="l_64">
+        <Coords points="50,268 248,260 510,247 752,242 996,243 1174,241 1174,205 996,207 752,206 510,211 248,224 50,232"/>
+        <Baseline points="50,260 248,252 510,239 752,234 996,235 1174,233"/>
+        <TextEquiv>
+          <Unicode>et in quas iidem Thomas et Juliana non habent ingressum nisi per Iohannem de Boketon cui Willelmus de Nutriuilla </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:7;}" id="l_78">
+        <Coords points="55,306 273,296 549,285 816,278 977,281 1135,279 1135,243 977,245 816,242 549,249 273,260 55,270"/>
+        <Baseline points="55,298 273,288 549,277 816,270 977,273 1135,271"/>
+        <TextEquiv>
+          <Unicode>quondam abbas de Sancto Wandregesilio prebendarius predicte prebende predecessor predicti prebendarii illas dimisit </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:8;}" id="l_92">
+        <Coords points="56,342 285,330 561,322 912,318 1170,318 1170,282 912,282 561,286 285,294 56,306"/>
+        <Baseline points="56,334 285,322 561,314 912,310 1170,310"/>
+        <TextEquiv>
+          <Unicode>sine assensu et voluntate decani et capituli loci predicti. Et vnde idem abbas per predictum attornatum suum dicit quod predictus </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:9;}" id="l_104">
+        <Coords points="59,377 263,366 548,359 804,359 1139,365 1139,329 804,323 548,323 263,330 59,341"/>
+        <Baseline points="59,369 263,358 548,351 804,351 1139,357"/>
+        <TextEquiv>
+          <Unicode>Willelmus de Nutriuilla quondam Abbas etc. predecessor. predicti prebendarii etc. fuit seisitus de predictis redditubus </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:10;}" id="l_116">
+        <Coords points="65,418 227,411 483,400 723,397 750,402 1027,405 1127,405 1127,369 1027,369 750,366 723,361 483,364 227,375 65,382"/>
+        <Baseline points="65,410 227,403 483,392 723,389 750,394 1027,397 1127,397"/>
+        <TextEquiv>
+          <Unicode>in dominico suo vt de feodo et iure prebende sue predicte tempore pacis. Tempore. E. Regis aui domini regis nunc </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:11;}" id="l_132">
+        <Coords points="65,456 298,447 592,441 858,447 858,411 592,405 298,411 65,420"/>
+        <Baseline points="65,448 298,439 592,433 858,439"/>
+        <TextEquiv>
+          <Unicode>capiendo inde explecia ad valenciam. etc. et in quas etc. Et inde producit sectam etc.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:12;}" id="l_142">
+        <Coords points="69,493 232,487 506,481 748,486 928,489 1081,491 1146,493 1146,457 1081,455 928,453 748,450 506,445 232,451 69,457"/>
+        <Baseline points="69,485 232,479 506,473 748,478 928,481 1081,483 1146,485"/>
+        <TextEquiv>
+          <Unicode>Et Thomas et Iuliana veniunt. Et predicta Juliana quo ad redditum versus cam petitum dicit quod ipsa tenet predictum </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:13;}" id="l_158">
+        <Coords points="69,529 177,527 436,521 689,523 958,528 1132,535 1132,499 958,492 689,487 436,485 177,491 69,493"/>
+        <Baseline points="69,521 177,519 436,513 689,515 958,520 1132,527"/>
+        <TextEquiv>
+          <Unicode>redditum in dotem ex dotacione predicti Iohannis de Boketon quondam viri etc. de hereditate predicti Thome </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:14;}" id="l_172">
+        <Coords points="72,568 229,562 426,562 660,560 863,562 1151,577 1151,541 863,526 660,524 426,526 229,526 72,532"/>
+        <Baseline points="72,560 229,554 426,554 660,552 863,554 1151,569"/>
+        <TextEquiv>
+          <Unicode>et in forma predicta vocat ipsum Thomam ad Warantum qui presens est in curia. et gratis ei Warantizat. Et idem Thomas </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:15;}" id="l_188">
+        <Coords points="77,605 162,601 384,600 627,602 880,602 1149,613 1149,577 880,566 627,566 384,564 162,565 77,569"/>
+        <Baseline points="77,597 162,593 384,592 627,594 880,594 1149,605"/>
+        <TextEquiv>
+          <Unicode>tam quo ad predictum. redditum versus eum petitum quam ad predictum redditum quem eidem Juliane Warantizat defendit jus </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:16;}" id="l_202">
+        <Coords points="77,638 251,634 490,636 810,640 1022,645 1164,651 1164,615 1022,609 810,604 490,600 251,598 77,602"/>
+        <Baseline points="77,630 251,626 490,628 810,632 1022,637 1164,643"/>
+        <TextEquiv>
+          <Unicode>ipsius abbatis quando etc. Et dicit quod predictus Willelmus de Nutriuilla predecessor etc. nunquam seisitus fuit de predictis </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:17;}" id="l_216">
+        <Coords points="78,676 266,669 490,672 704,674 934,682 1164,690 1164,654 934,646 704,638 490,636 266,633 78,640"/>
+        <Baseline points="78,668 266,661 490,664 704,666 934,674 1164,682"/>
+        <TextEquiv>
+          <Unicode>redditibus vt de jure prebende sue predicte prout jdem Willelmus abbas per breue suum supponit immo vt de jure ecclesie </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:18;}" id="l_230">
+        <Coords points="85,710 248,710 535,708 732,713 938,714 938,678 732,677 535,672 248,674 85,674"/>
+        <Baseline points="85,702 248,702 535,700 732,705 938,706"/>
+        <TextEquiv>
+          <Unicode>ipsius abbatis de Sancto Wandregesilio etc. Et hoc paratus est verificare etc. vnde petit iudicium etc.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:19;}" id="l_242">
+        <Coords points="86,746 323,743 603,747 831,757 1073,760 1155,763 1155,727 1073,724 831,721 603,711 323,707 86,710"/>
+        <Baseline points="86,738 323,735 603,739 831,749 1073,752 1155,755"/>
+        <TextEquiv>
+          <Unicode>Et abbas dicit quod predictus Willelmus predecessor etc. seisitus fuit de predictis redditibus ut de jure prebende sue predicte. </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:20;}" id="l_256">
+        <Coords points="87,780 323,778 514,781 728,788 945,796 1171,799 1171,763 945,760 728,752 514,745 323,742 87,744"/>
+        <Baseline points="87,772 323,770 514,773 728,780 945,788 1171,791"/>
+        <TextEquiv>
+          <Unicode>Et hoc paratus est verificare per patriam. Et predictus Thomas similiter. Ideo preceptum est vicecomiti quod venire faciat hic die Lune </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:21;}" id="l_270">
+        <Coords points="83,819 243,815 457,816 471,819 605,820 850,829 1073,837 1073,801 850,793 605,784 471,783 457,780 243,779 83,783"/>
+        <Baseline points="83,811 243,807 457,808 471,811 605,812 850,821 1073,829"/>
+        <TextEquiv>
+          <Unicode>proxima post festum Purificacionis beate Marie. xij. etc. per quos etc. et qui nec etc. ad recognoscendum etc. qua tam etc.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:22;}" id="l_288">
+        <Coords points="87,854 188,853 402,855 701,857 969,868 1162,871 1162,835 969,832 701,821 402,819 188,817 87,818"/>
+        <Baseline points="87,846 188,845 402,847 701,849 969,860 1162,863"/>
+        <TextEquiv>
+          <Unicode>Postea ad diem illum predictus Thomas venit et optulit se versus prefatum Willelmum abbatem de placito predicto. Et ipse </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:23;}" id="l_302">
+        <Coords points="92,895 255,889 482,891 677,896 916,897 1168,902 1168,866 916,861 677,860 482,855 255,853 92,859"/>
+        <Baseline points="92,887 255,881 482,883 677,888 916,889 1168,894"/>
+        <TextEquiv>
+          <Unicode>non venit. Et fuit petens. Ideo predictus Thomas inde sine die et predictus Willelmus abbas et plegii sui de prosequendo in </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine custom="readingOrder {index:24;}" id="l_316">
+        <Coords points="97,929 317,922 373,923 558,923 558,887 373,887 317,886 97,893"/>
+        <Baseline points="97,921 317,914 373,915 558,915"/>
+        <TextEquiv>
+          <Unicode>misericordia videlicet Iohannes Alman et Thomas Page.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

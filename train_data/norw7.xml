@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-01-09T21:05:05.244+01:00</Created>
+        <LastChange>2024-01-09T21:08:02.038+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="norw7.jpg" imageWidth="1128" imageHeight="194">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1708823410175" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="16,46 89,44 164,39 264,39 299,38 320,45 341,48 410,50 469,50 547,56 607,60 670,64 727,65 775,68 818,73 899,76 953,74 989,72 1009,76 1114,77 1114,62 1011,61 990,57 952,59 899,61 819,58 776,53 728,50 671,49 608,45 548,41 470,35 410,35 342,33 323,30 301,23 264,24 164,24 88,29 16,31" />
+                <Baseline points="16,46 89,44 164,39 264,39 299,38 320,45 341,48 410,50 469,50 547,56 607,60 670,64 727,65 775,68 818,73 899,76 953,74 989,72 1009,76 1114,77" />
+                <TextEquiv>
+                    <Unicode>predictas prefato episcopo per dictum Willelmum sic liberatas de spiritualibus episcopatus predicti levatas fuisse, tunc easdem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_50" custom="readingOrder {index:1;}">
+                <Coords points="10,94 86,93 166,90 203,87 249,86 265,89 318,91 400,92 421,95 505,91 519,97 599,102 667,105 739,109 780,114 852,119 929,120 1028,123 1104,120 1103,105 1028,108 929,105 853,104 781,99 740,94 668,90 600,87 522,82 508,76 422,80 401,77 318,76 267,74 250,71 202,72 165,75 86,78 10,79" />
+                <Baseline points="10,94 86,93 166,90 203,87 249,86 265,89 318,91 400,92 421,95 505,91 519,97 599,102 667,105 739,109 780,114 852,119 929,120 1028,123 1104,120" />
+                <TextEquiv>
+                    <Unicode>summas prefato Willelmo in compoto suo ad dictam scaccarium allocari et ipsum inde exonerari facere. Teste me</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_92" custom="readingOrder {index:2;}">
+                <Coords points="13,142 77,141 151,137 228,136 249,140 308,141 394,139 418,140 473,145 544,145 619,149 663,154 725,157 840,159 932,165 1038,163 1097,161 1096,146 1038,148 932,150 841,144 725,142 664,139 620,134 544,130 474,130 419,125 394,124 308,126 251,125 229,121 150,122 76,126 13,127" />
+                <Baseline points="13,142 77,141 151,137 228,136 249,140 308,141 394,139 418,140 473,145 544,145 619,149 663,154 725,157 840,159 932,165 1038,163 1097,161" />
+                <TextEquiv>
+                    <Unicode>ipso apud Westmonasterium x die Junii anno regni nostri Anglie vicesimo quarto regni vero nostri Francie undecimo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <Coords points="1121,195 7,195 7,1 1121,1" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

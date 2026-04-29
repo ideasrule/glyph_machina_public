@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-12-30T21:41:18.566+01:00</Created>
+        <LastChange>2023-12-30T22:35:35.076+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="63018197" pageNr="16" tsid="144209683" status="FINAL" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=DQNTKIIOSRREALRQQWBGLFTJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PLGCUDDKUIWSBXDRBMDZVHKE" imageId="50942204" />
+    </Metadata>
+    <Page imageFilename="JUST1-633m11.jpeg" imageWidth="1090" imageHeight="954">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1704262311681" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2,57 182,57 434,53 628,53 928,55 1074,58 1074,24 928,21 628,19 434,19 182,23 2,23" />
+                <Baseline points="2,50 182,50 434,46 628,46 928,48 1074,51" />
+                <TextEquiv>
+                    <Unicode>Assisa venit recognitura si Laurencius filius Laurencii de Preston chiualer iniuste etc. disesiuit Elyam </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_22" custom="readingOrder {index:1;}">
+                <Coords points="7,101 101,100 272,95 459,94 609,95 782,98 991,96 1082,99 1088,100 1088,66 1082,65 991,62 782,64 609,61 459,60 272,61 101,66 7,67" />
+                <Baseline points="7,94 101,93 272,88 459,87 609,88 782,91 991,89 1082,92 1088,93" />
+                <TextEquiv>
+                    <Unicode>filium Humfridi Cut de libero tenemento suo in Preston iuta Norhamton post primam etc. Et vnde queritur quod disseisiuit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_41" custom="readingOrder {index:2;}">
+                <Coords points="7,140 156,135 286,129 378,129 482,132 598,134 798,140 1064,138 1064,104 798,106 598,100 482,98 378,95 286,95 156,101 7,106" />
+                <Baseline points="7,133 156,128 286,122 378,122 482,125 598,127 798,133 1064,131" />
+                <TextEquiv>
+                    <Unicode>eum de quodam proficuo capiendo pro custodia parci de Preston et bosci vocati Harnho et duarum culturarum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_462" custom="readingOrder {index:3;}">
+                <Coords points="743,158 830,160 830,126 743,124" />
+                <Baseline points="743,151 830,153" />
+                <TextEquiv>
+                    <Unicode>capiendo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_59" custom="readingOrder {index:4;}">
+                <Coords points="7,178 125,171 284,168 478,172 679,179 863,180 1066,181 1066,147 863,146 679,145 478,138 284,134 125,137 7,144" />
+                <Baseline points="7,171 125,164 284,161 478,165 679,172 863,173 1066,174" />
+                <TextEquiv>
+                    <Unicode>que vocantur Harnho Stokkyng et vnius culture vocate la Hale scilicet vnum denarium et obolum singulis </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_75" custom="readingOrder {index:5;}">
+                <Coords points="10,216 187,211 388,211 566,218 779,221 905,224 1073,226 1073,192 905,190 779,187 566,184 388,177 187,177 10,182" />
+                <Baseline points="10,209 187,204 388,204 566,211 779,214 905,217 1073,219" />
+                <TextEquiv>
+                    <Unicode>diebus anni pro victualibus suis et decem solidos vel vnam robam preci decem solidorum ad Natale Domini singulis </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_91" custom="readingOrder {index:6;}">
+                <Coords points="12,257 115,253 248,252 490,253 667,264 758,263 999,265 1083,263 1083,229 999,231 758,229 667,230 490,219 248,218 115,219 12,223" />
+                <Baseline points="12,250 115,246 248,245 490,246 667,257 758,256 999,258 1083,256" />
+                <TextEquiv>
+                    <Unicode>annis etc. Et pro titulo liberi tenementi in hac parte etc. dicit quod quidam Laurencius dominus de Preston miles pater </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_109" custom="readingOrder {index:7;}">
+                <Coords points="13,294 186,291 392,290 519,291 590,300 742,305 906,308 1070,306 1070,272 906,274 742,271 590,266 519,257 392,256 186,257 13,260" />
+                <Baseline points="13,287 186,284 392,283 519,284 590,293 742,298 906,301 1070,299" />
+                <TextEquiv>
+                    <Unicode>predicti Laurencii cuius heres ipse est dedit concessit et carta sua confirmauit cuidam Humfrido </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_127" custom="readingOrder {index:8;}">
+                <Coords points="10,337 160,334 302,334 460,336 650,341 797,346 940,345 1073,354 1073,320 940,311 797,312 650,307 460,302 302,300 160,300 10,303" />
+                <Baseline points="10,330 160,327 302,327 460,329 650,334 797,339 940,338 1073,347" />
+                <TextEquiv>
+                    <Unicode>de Benyngfeld patri predicti Elie cuius heres ipse est custodiam parci sui de Preston et bosci vo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_145" custom="readingOrder {index:9;}">
+                <Coords points="11,363 162,368 505,370 718,381 906,386 1083,385 1083,351 906,352 718,347 505,336 162,334 11,329" />
+                <Baseline points="11,356 162,361 505,363 718,374 906,379 1083,378" />
+                <TextEquiv>
+                    <Unicode>cati Harnho et duarum culturarum terre cum pertinenciis que vocantur Harnho Stokkyng et vnius culture </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_159" custom="readingOrder {index:10;}">
+                <Coords points="16,404 377,407 578,416 790,423 1051,425 1051,391 790,389 578,382 377,373 16,370" />
+                <Baseline points="16,397 377,400 578,409 790,416 1051,418" />
+                <TextEquiv>
+                    <Unicode>vocate la Hale etc. habendam et tenendam eidem Humfrido et heredibus suis de corpore suo legitime procreatis etc. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_171" custom="readingOrder {index:11;}">
+                <Coords points="8,436 141,435 278,442 400,450 548,452 766,461 926,464 1068,462 1068,428 926,430 766,427 548,418 400,416 278,408 141,401 8,402" />
+                <Baseline points="8,429 141,428 278,435 400,443 548,445 766,454 926,457 1068,455" />
+                <TextEquiv>
+                    <Unicode>Et concessit pro se et heredibus suis et assignatis quod idem Humfridus et heredes sui de corpore suo legitime procreati</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_189" custom="readingOrder {index:12;}">
+                <Coords points="5,470 175,472 320,478 434,487 562,490 757,498 962,501 1087,501 1087,467 962,467 757,464 562,456 434,453 320,444 175,438 5,436" />
+                <Baseline points="5,463 175,465 320,471 434,480 562,483 757,491 962,494 1087,494" />
+                <TextEquiv>
+                    <Unicode>per manus suas seu heredum suorum balliuorum seu assignatorum in manerio de Preston qui pro tempore fuerunt percipient quolibet </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_207" custom="readingOrder {index:13;}">
+                <Coords points="13,509 141,510 318,517 457,521 655,524 791,534 870,537 1086,532 1086,498 870,503 791,500 655,490 457,487 318,483 141,476 13,475" />
+                <Baseline points="13,502 141,503 318,510 457,514 655,517 791,527 870,530 1086,525" />
+                <TextEquiv>
+                    <Unicode>die ad victualia sua num denarium et obolum et quolibet anno decem solidos vel vnam robam precii decem solidorum quolibet </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_227" custom="readingOrder {index:14;}">
+                <Coords points="9,546 81,544 162,542 268,545 366,552 537,556 695,563 855,569 991,572 1072,567 1072,533 991,538 855,535 695,529 537,522 366,518 268,511 162,508 81,510 9,512" />
+                <Baseline points="9,539 81,537 162,535 268,538 366,545 537,549 695,556 855,562 991,565 1072,560" />
+                <TextEquiv>
+                    <Unicode>anno ad Natale Domini etc. et quod predictus Laurencius et heredes seu assignati sui in quorumcumque manus manerium de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_249" custom="readingOrder {index:15;}">
+                <Coords points="11,580 90,581 205,578 325,579 480,586 585,593 729,599 821,601 885,603 961,604 1074,603 1074,569 961,570 885,569 821,567 729,565 585,559 480,552 325,545 205,544 90,547 11,546" />
+                <Baseline points="11,573 90,574 205,571 325,572 480,579 585,586 729,592 821,594 885,596 961,597 1074,596" />
+                <TextEquiv>
+                    <Unicode>de Preston cum pertinencis imposterum deuenerit seu parcus predictus custodiam predictam in forma predicta predicto Humfrido et heredibus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_273" custom="readingOrder {index:16;}">
+                <Coords points="13,619 127,621 269,617 373,621 479,624 614,628 736,631 815,637 1075,636 1075,602 815,603 736,597 614,594 479,590 373,587 269,583 127,587 13,585" />
+                <Baseline points="13,612 127,614 269,610 373,614 479,617 614,621 736,624 815,630 1075,629" />
+                <TextEquiv>
+                    <Unicode>suis predictis warantizabunt etc. Et profert cartam predicti Laurencii que hoc idem testatur etc. Vnde dicit quod ipse sei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_293" custom="readingOrder {index:17;}">
+                <Coords points="14,662 105,661 270,655 456,659 645,665 783,675 1056,670 1056,636 783,641 645,631 456,625 270,621 105,627 14,628" />
+                <Baseline points="14,655 105,654 270,648 456,652 645,658 783,668 1056,663" />
+                <TextEquiv>
+                    <Unicode>situs fuit de proficuo predicto vt de libero tenemento capiendo in forma predica quousque predictus Laurencius ipsum iniuste disseisiuit. Et hoc petit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_309" custom="readingOrder {index:18;}">
+                <Coords points="11,700 104,700 204,696 243,694 243,660 204,662 104,666 11,666" />
+                <Baseline points="11,693 104,693 204,689 243,687" />
+                <TextEquiv>
+                    <Unicode>quod inquiratur per assisam etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_319" custom="readingOrder {index:19;}">
+                <Coords points="10,734 168,734 297,733 464,736 540,740 626,743 790,746 897,748 967,746 1057,743 1057,709 967,712 897,714 790,712 626,709 540,706 464,702 297,699 168,700 10,700" />
+                <Baseline points="10,727 168,727 297,726 464,729 540,733 626,736 790,739 897,741 967,739 1057,736" />
+                <TextEquiv>
+                    <Unicode>Et Laurencius non venit set quidam Iohannes de Helpiston respondit pro e tanquam eius balliuus etc. et pro ipso vt tenente etc. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_343" custom="readingOrder {index:20;}">
+                <Coords points="15,766 119,766 253,765 377,766 508,770 650,778 794,782 882,784 986,783 1065,782 1065,748 986,749 882,750 794,748 650,744 508,736 377,732 253,731 119,732 15,732" />
+                <Baseline points="15,759 119,759 253,758 377,759 508,763 650,771 794,775 882,777 986,776 1065,775" />
+                <TextEquiv>
+                    <Unicode>dicit quod non tenetur ei ad hoc breue respondere. Quia dicit quod cum predictus Elias se questus sit disseisiri de predicto proficuo annu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_365" custom="readingOrder {index:21;}">
+                <Coords points="18,802 132,801 329,800 510,805 672,807 880,816 992,820 1075,818 1075,784 992,786 880,782 672,773 510,771 329,766 132,767 18,768" />
+                <Baseline points="18,795 132,794 329,793 510,798 672,800 880,809 992,813 1075,811" />
+                <TextEquiv>
+                    <Unicode>atim capiendo de manerio de Preston etc. quidam Henricus le Feuere tenet de eodem manerio vnum mesuagium et medieta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_383" custom="readingOrder {index:22;}">
+                <Coords points="22,836 97,837 237,837 365,836 491,836 623,841 822,846 982,850 1052,850 1052,816 982,816 822,812 623,807 491,802 365,802 237,803 97,803 22,802" />
+                <Baseline points="22,829 97,830 237,830 365,829 491,829 623,834 822,839 982,843 1052,843" />
+                <TextEquiv>
+                    <Unicode>tem vnius virgate terre cum pertinenciis et Gilbertus Robyn num mesuagium et medietatem vnius virgate terre cum pertinenciis de eodem </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_403" custom="readingOrder {index:23;}">
+                <Coords points="18,868 133,866 298,871 461,871 622,877 764,879 903,878 977,880 1066,884 1066,850 977,846 903,844 764,845 622,843 461,837 298,837 133,832 18,834" />
+                <Baseline points="18,861 133,859 298,864 461,864 622,870 764,872 903,871 977,873 1066,877" />
+                <TextEquiv>
+                    <Unicode>manerio et tenuerunt die impetracionis breuis etc. videlicet duodecimo die Maii vltimo preterito qui quidem Henricus et Gilbertus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_423" custom="readingOrder {index:24;}">
+                <Coords points="20,893 123,895 247,896 366,899 518,906 671,910 819,911 948,915 1054,917 1054,883 948,881 819,877 671,876 518,872 366,865 247,862 123,861 20,859" />
+                <Baseline points="20,886 123,888 247,889 366,892 518,899 671,903 819,904 948,908 1054,910" />
+                <TextEquiv>
+                    <Unicode>non nominantur in breui. Et petit iudicium etc. Et predictus Elias hoc non potest dedicere. Ideo consideratum est quod predictus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_443" custom="readingOrder {index:25;}">
+                <Coords points="23,927 138,928 354,931 444,935 553,940 790,941 991,948 991,914 790,907 553,906 444,901 354,897 138,894 23,893" />
+                <Baseline points="23,920 138,921 354,924 444,928 553,933 790,934 991,941" />
+                <TextEquiv>
+                    <Unicode>Elyas nichil capiat per breue etc. set sit in misericordia pro falso clamore etc. Et predictus Laurencius inde sine die etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <Coords points="1085,950 1,950 1,2 1091,4" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

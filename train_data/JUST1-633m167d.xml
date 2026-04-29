@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-11-09T04:36:08.912+01:00</Created>
+        <LastChange>2023-11-09T18:57:07.959+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="61295642" pageNr="15" tsid="139188240" status="GT" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=LRCLDOFCVLLDEHMVUCFCCFXM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZWFHSQBSQKGVBQDPXDLWJRBK" imageId="49558070" />
+    </Metadata>
+    <Page imageFilename="JUST1-633m167d.jpeg" imageWidth="1121" imageHeight="722">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1700697995495" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <TextLine id="l_10" custom="readingOrder {index:0;}">
+                <Coords points="19,44 142,39 297,31 474,23 673,25 935,33 1071,39 1071,7 935,1 673,0 474,0 297,0 142,7 19,12" />
+                <Baseline points="19,37 142,32 297,24 474,16 673,18 935,26 1071,32" />
+                <TextEquiv>
+                    <Unicode>Iuetta Sope per Iohannem Leche attornatum suum petit versus Hugonem Gobyon et Agnetem vxorem eius vnam acram prati et dimidiam </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_26" custom="readingOrder {index:1;}">
+                <Coords points="46,70 179,64 351,57 507,53 678,50 678,18 507,21 351,25 179,32 46,38" />
+                <Baseline points="46,63 179,57 351,50 507,46 678,43" />
+                <TextEquiv>
+                    <Unicode>cum pertinenciis in villa de Burgo Sancti Petri vt ius etc. per breue de ingressu etc. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_38" custom="readingOrder {index:2;}">
+                <Coords points="43,105 173,94 375,86 538,78 769,78 952,78 1063,83 1063,51 952,46 769,46 538,46 375,54 173,62 43,73" />
+                <Baseline points="43,98 173,87 375,79 538,71 769,71 952,71 1063,76" />
+                <TextEquiv>
+                    <Unicode>Et Hugo et Agnes per Iohannem de Burgh attornatum suum venit. Et vocat inde ad warantum Thomam filium et heredem Roberti </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_54" custom="readingOrder {index:3;}">
+                <Coords points="49,136 213,123 438,116 655,110 776,109 776,77 655,78 438,84 213,91 49,104" />
+                <Baseline points="49,129 213,116 438,109 655,103 776,102" />
+                <TextEquiv>
+                    <Unicode>Cobbe, qui est infra etatem, et petit quod loquela illa remaneat sque ad etatem etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_66" custom="readingOrder {index:4;}">
+                <Coords points="45,169 170,160 365,154 563,147 726,143 969,144 1076,146 1076,114 969,112 726,111 563,115 365,122 170,128 45,137" />
+                <Baseline points="45,162 170,153 365,147 563,140 726,136 969,137 1076,139" />
+                <TextEquiv>
+                    <Unicode>Et Iuetta dicit quod predictus Thomas est plene etatis. Ideo preceptum est vicecomiti quod venire faciat hic die Lune proxima post </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_82" custom="readingOrder {index:5;}">
+                <Coords points="43,201 197,192 413,188 693,181 848,178 1079,176 1079,144 848,146 693,149 413,156 197,160 43,169" />
+                <Baseline points="43,194 197,185 413,181 693,174 848,171 1079,169" />
+                <TextEquiv>
+                    <Unicode>festum Ascensionis Domini predictum Thomam vt per aspectum corporis liqueri posit curie vtrum dem Thomas sit plene etatis </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_96" custom="readingOrder {index:6;}">
+                <Coords points="45,231 226,224 448,220 666,214 884,211 1074,207 1074,175 884,179 666,182 448,188 226,192 45,199" />
+                <Baseline points="45,224 226,217 448,213 666,207 884,204 1074,200" />
+                <TextEquiv>
+                    <Unicode>necne etc. Ad quem diem venit tam predicta Iuetta quam predicti Hugo et Agnes per predictos attornatos suos, et predictus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_110" custom="readingOrder {index:7;}">
+                <Coords points="42,268 204,261 403,257 632,250 875,242 1067,237 1067,205 875,210 632,218 403,225 204,229 42,236" />
+                <Baseline points="42,261 204,254 403,250 632,243 875,235 1067,230" />
+                <TextEquiv>
+                    <Unicode>Thomas non venit. Et vicecomes modo mandate quod idem Thomas nichil habet in balliua sua per quod potest attachiari </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_124" custom="readingOrder {index:8;}">
+                <Coords points="37,301 186,297 403,290 645,281 820,281 1086,271 1086,239 820,249 645,249 403,258 186,265 37,269" />
+                <Baseline points="37,294 186,290 403,283 645,274 820,274 1086,264" />
+                <TextEquiv>
+                    <Unicode>siue distringi etc. Et testatum est quod idem Thomas satis habet in villa de Burgo Sancti Petri per quod etc. Ideo sicut </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_138" custom="readingOrder {index:9;}">
+                <Coords points="38,338 167,331 359,324 542,318 665,318 931,308 1081,304 1081,272 931,276 665,286 542,286 359,292 167,299 38,306" />
+                <Baseline points="38,331 167,324 359,317 542,311 665,311 931,301 1081,297" />
+                <TextEquiv>
+                    <Unicode>prius preceptum est vicecomiti quod venire faciat hic predictum Thomam die Lune in crastino Sancte Trinitatis vt per aspectum corporis </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_154" custom="readingOrder {index:10;}">
+                <Coords points="35,370 197,365 341,359 549,351 744,347 964,342 1095,337 1095,305 964,310 744,315 549,319 341,327 197,333 35,338" />
+                <Baseline points="35,363 197,358 341,352 549,344 744,340 964,335 1095,330" />
+                <TextEquiv>
+                    <Unicode>etc. et vnde etc. Ad quem diem venit predicta luetta per predictum attornatum suum, et similiter predicti Hugo et Agnes per predictum attornatum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_172" custom="readingOrder {index:11;}">
+                <Coords points="32,408 259,395 451,392 596,384 953,373 1097,370 1097,338 953,341 596,352 451,360 259,363 32,376" />
+                <Baseline points="32,401 259,388 451,385 596,377 953,366 1097,363" />
+                <TextEquiv>
+                    <Unicode>suum. Et vicecomes modo mandate quod predicts Thomas manucaptus est per Gilbertum Cobbe et Robertum le Rede. Ideo ipsi in misericordia etc. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_186" custom="readingOrder {index:12;}">
+                <Coords points="36,441 240,431 457,427 789,416 906,405 1088,400 1088,368 906,373 789,384 457,395 240,399 36,409" />
+                <Baseline points="36,434 240,424 457,420 789,409 906,398 1088,393" />
+                <TextEquiv>
+                    <Unicode>Et preceptum est vicecomiti quod distringat eum per omnes terras etc. et quod de exitibus etc. et quod habeat corpus eius hic die Veneris proxima </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_200" custom="readingOrder {index:13;}">
+                <Coords points="31,474 150,469 307,466 476,457 649,453 804,447 970,439 1101,439 1101,407 970,407 804,415 649,421 476,425 307,434 150,437 31,442" />
+                <Baseline points="31,467 150,462 307,459 476,450 649,446 804,440 970,432 1101,432" />
+                <TextEquiv>
+                    <Unicode>post octabas Sancte Trinitatis etc. Idem dies datus est partibus predictis hic etc. Ad quem diem venit predicta luetta per predictum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_218" custom="readingOrder {index:14;}">
+                <Coords points="32,509 201,504 360,499 562,489 729,486 881,475 1001,472 1097,470 1097,438 1001,440 881,443 729,454 562,457 360,467 201,472 32,477" />
+                <Baseline points="32,502 201,497 360,492 562,482 729,479 881,468 1001,465 1097,463" />
+                <TextEquiv>
+                    <Unicode>attornatum suum, et eciam predicti Hugo et Agnes per predictum Iohannem de Burgh attornatum suum. Et vicecomes mandauit quod precepit Iohanni </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_236" custom="readingOrder {index:15;}">
+                <Coords points="27,546 178,538 338,533 592,522 738,516 875,509 1087,504 1087,472 875,477 738,484 592,490 338,501 178,506 27,514" />
+                <Baseline points="27,539 178,531 338,526 592,515 738,509 875,502 1087,497" />
+                <TextEquiv>
+                    <Unicode>de Harewedon balliuo libertatis abbatis de Burgo Sancti Petri, qui sibi respondidit quod predictus heres nichil habet </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_252" custom="readingOrder {index:16;}">
+                <Coords points="31,582 222,574 408,565 522,557 579,559 674,557 780,549 933,541 1100,540 1100,508 933,509 780,517 674,525 579,527 522,525 408,533 222,542 31,550" />
+                <Baseline points="31,575 222,567 408,558 522,550 579,552 674,550 780,542 933,534 1100,533" />
+                <TextEquiv>
+                    <Unicode>in balliua sua per quod potest distringi et idem vicecomes dicit quod idem heres nichil habet in balliua sua extra libertatem predictam </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_272" custom="readingOrder {index:17;}">
+                <Coords points="25,619 170,612 300,606 399,598 568,592 681,597 840,584 941,581 1082,575 1082,543 941,549 840,552 681,565 568,560 399,566 300,574 170,580 25,587" />
+                <Baseline points="25,612 170,605 300,599 399,591 568,585 681,590 840,577 941,574 1082,568" />
+                <TextEquiv>
+                    <Unicode>per quod potest distringi etc. Ideo ad peticionem predicti Iohannis de Burgh attornati predictorum tenencium preceptum est vicecomiti </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_292" custom="readingOrder {index:18;}">
+                <Coords points="28,656 191,653 368,641 461,634 597,640 740,633 907,619 1086,608 1086,576 907,587 740,601 597,608 461,602 368,609 191,621 28,624" />
+                <Baseline points="28,649 191,646 368,634 461,627 597,633 740,626 907,612 1086,601" />
+                <TextEquiv>
+                    <Unicode>quod distringat eum per omnes terras etc. et quod de exitibus etc. et quod habeat corpus eius hic die Mercurii proxima post quindenam </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_310" custom="readingOrder {index:19;}">
+                <Coords points="26,693 176,692 344,681 497,674 577,670 577,638 497,642 344,649 176,660 26,661" />
+                <Baseline points="26,686 176,685 344,674 497,667 577,663" />
+                <TextEquiv>
+                    <Unicode>Sancte Trinitatis etc. Idem dies datus est partibus predictis hic etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <Coords points="1109,698 11,698 11,-1 1109,-1" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-11-20T21:58:09.978+01:00</Created>
+        <LastChange>2023-11-20T22:06:09.465+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="61667307" pageNr="4" tsid="140248139" status="GT" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=HKGQUKBQBMLZAZGKMJFZGPTE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AWAGZLGACXIGGYVIBRPLCDBM" imageId="49850882" />
+    </Metadata>
+    <Page imageFilename="JUST1-734m3a.jpeg" imageWidth="972" imageHeight="602">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1700697992734" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="6,68 156,59 266,58 501,51 702,47 951,38 951,1 702,10 501,14 266,21 156,22 6,31" />
+                <Baseline points="6,60 156,51 266,50 501,43 702,39 951,30" />
+                <TextEquiv>
+                    <Unicode>¶ Assisa venit recognitura si Michaelis de Morton injuste etc. disseisivit Willemum flium Thome de libero tenemento suo in Norton post </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_22" custom="readingOrder {index:1;}">
+                <Coords points="20,98 110,97 280,94 468,87 667,83 853,79 963,78 963,41 853,42 667,46 468,50 280,57 110,60 20,61" />
+                <Baseline points="20,90 110,89 280,86 468,79 667,75 853,71 963,70" />
+                <TextEquiv>
+                    <Unicode>primam etc. Et unde queritur quod disseisivit eum de uno mesuagio et dimidia virgata terre. Et Michaelis venit et dicit quod assisa non deberi de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_38" custom="readingOrder {index:2;}">
+                <Coords points="16,135 156,133 298,132 457,126 608,124 772,120 955,123 955,86 772,83 608,87 457,89 298,95 156,96 16,98" />
+                <Baseline points="16,127 156,125 298,124 457,118 608,116 772,112 955,115" />
+                <TextEquiv>
+                    <Unicode>fieri. quia dicit quod Northton est membrum de Conedovre quod est antiquum dominicum domini Regis in quo </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_54" custom="readingOrder {index:3;}">
+                <Coords points="18,170 169,171 359,166 528,163 736,154 946,156 946,119 736,117 528,126 359,129 169,134 18,133" />
+                <Baseline points="18,162 169,163 359,158 528,155 736,146 946,148" />
+                <TextEquiv>
+                    <Unicode>nullum tale breve currit nisi parvum breve de recto clausum. Et de hoc ponit se super assisam. Et juratores veniunt et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_68" custom="readingOrder {index:4;}">
+                <Coords points="22,212 150,209 325,205 500,202 704,197 858,195 953,193 953,156 858,158 704,160 500,165 325,168 150,172 22,175" />
+                <Baseline points="22,204 150,201 325,197 500,194 704,189 858,187 953,185" />
+                <TextEquiv>
+                    <Unicode>super sacramentum suum hoc idem testantur. Et ideo consideratum est quod predictus Michaelis inde sine die. et Willmus filius Thome nichil </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_84" custom="readingOrder {index:5;}">
+                <Coords points="21,251 161,244 300,238 431,241 431,204 300,201 161,207 21,214" />
+                <Baseline points="21,243 161,236 300,230 431,233" />
+                <TextEquiv>
+                    <Unicode>capiat per assisam istam et sit in misericordia pro falso clamore.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_94" custom="readingOrder {index:6;}">
+                <Coords points="9,308 68,306 271,302 461,297 574,300 651,296 878,290 961,287 961,250 878,253 651,259 574,263 461,260 271,265 68,269 9,271" />
+                <Baseline points="9,300 68,298 271,294 461,289 574,292 651,288 878,282 961,279" />
+                <TextEquiv>
+                    <Unicode>¶ Assisa venit recognitura si Rogerus filius Celestrie et Nicholaus Tubbe injuste etc. disseisiverunt Willemum le Flemmeng de commu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_113" custom="readingOrder {index:7;}">
+                <Coords points="20,349 113,344 242,347 400,340 520,337 687,334 935,325 935,288 687,297 520,300 400,303 242,310 113,307 20,312" />
+                <Baseline points="20,341 113,336 242,339 400,332 520,329 687,326 935,317" />
+                <TextEquiv>
+                    <Unicode>na pasture sue in Northbyr que pertinet ad liberum tenementum suum in eadem villa post primam etc. Et unde queritur </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_129" custom="readingOrder {index:8;}">
+                <Coords points="21,385 124,382 272,383 444,380 640,374 804,374 961,377 961,340 804,337 640,337 444,343 272,346 124,345 21,348" />
+                <Baseline points="21,377 124,374 272,375 444,372 640,366 804,366 961,369" />
+                <TextEquiv>
+                    <Unicode>quod, cum habere solebat communam suam in tribus acris bruere per totum annum cum omnimodis averis suis, predicti Rogerus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_145" custom="readingOrder {index:9;}">
+                <Coords points="20,422 169,418 342,418 553,412 727,407 886,407 939,407 939,370 886,370 727,370 553,375 342,381 169,381 20,385" />
+                <Baseline points="20,414 169,410 342,410 553,404 727,399 886,399 939,399" />
+                <TextEquiv>
+                    <Unicode>et Nicholaus frussire fecerunt et in culturam redigere predictam brueram quo minus in ea communicare possit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_161" custom="readingOrder {index:10;}">
+                <Coords points="25,453 173,454 173,417 25,416" />
+                <Baseline points="25,445 173,446" />
+                <TextEquiv>
+                    <Unicode>tempore inbladicionis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_167" custom="readingOrder {index:11;}">
+                <Coords points="27,481 162,481 386,479 547,476 634,477 726,477 869,480 945,479 945,442 869,443 726,440 634,440 547,439 386,442 162,444 27,444" />
+                <Baseline points="27,473 162,473 386,471 547,468 634,469 726,469 869,472 945,471" />
+                <TextEquiv>
+                    <Unicode>Et Rogerus venit et nichil dicit quare assisa remaneat. Et Nicholaus non venit nec fuit attachiatus quia non fuit inventus. Ideo capiatur </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_185" custom="readingOrder {index:12;}">
+                <Coords points="32,514 147,514 214,512 214,475 147,477 32,477" />
+                <Baseline points="32,506 147,506 214,504" />
+                <TextEquiv>
+                    <Unicode>assisa versus eum per defaltam.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_193" custom="readingOrder {index:13;}">
+                <Coords points="35,551 153,549 294,547 447,542 656,544 798,541 950,545 950,508 798,504 656,507 447,505 294,510 153,512 35,514" />
+                <Baseline points="35,543 153,541 294,539 447,534 656,536 798,533 950,537" />
+                <TextEquiv>
+                    <Unicode>Juratores dicunt quod predicti Rogerus et Nicholaus disseisiverunt predictum Willelmum de predicta communa pasture injuste etc. sicut breve dicit. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_209" custom="readingOrder {index:14;}">
+                <Coords points="38,586 106,587 214,589 341,587 469,586 557,583 752,586 752,549 557,546 469,549 341,550 214,552 106,550 38,549" />
+                <Baseline points="38,578 106,579 214,581 341,579 469,578 557,575 752,578" />
+                <TextEquiv>
+                    <Unicode>Ideo consideratum est quod predictus Willelmus recuperet seisinam suam per visum recognitorum et Rogerus et Nicholaus in misericordia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <Coords points="964,598 17,598 10,299 3,2 964,2" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-11-17T22:39:41.433+01:00</Created>
+        <LastChange>2023-11-17T22:53:43.156+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="61606385" pageNr="11" tsid="140068751" status="GT" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=UOQMMZNTMMSPKZGRALVEBXLH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XEGUJPWCKVAWTURCTNSVIUSQ" imageId="49792608" />
+    </Metadata>
+    <Page imageFilename="JUST1-633m2d.jpeg" imageWidth="1064" imageHeight="712">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1700697994524" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <TextLine id="l_10" custom="readingOrder {index:0;}">
+                <Coords points="15,66 139,65 344,63 606,58 847,50 1041,44 1041,17 847,23 606,31 344,36 139,38 15,39" />
+                <Baseline points="15,60 139,59 344,57 606,52 847,44 1041,38" />
+                <TextEquiv>
+                    <Unicode>Iohannes de la Mare de Bernewell petit versus Iohannem de Thorp de Clopton vnum mesuagium cum pertinenciis in Clopton </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_24" custom="readingOrder {index:1;}">
+                <Coords points="23,97 293,96 562,90 886,82 1040,77 1040,50 886,55 562,63 293,69 23,70" />
+                <Baseline points="23,91 293,90 562,84 886,76 1040,71" />
+                <TextEquiv>
+                    <Unicode>vt -- ius et hereditatem suam et in quod idem Iohannes de Thorp non habet ingressum nisi per Henricum quon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_38" custom="readingOrder {index:2;}">
+                <Coords points="23,122 146,122 376,122 582,117 777,114 1016,106 1040,105 1040,78 1016,79 777,87 582,90 376,95 146,95 23,95" />
+                <Baseline points="23,116 146,116 376,116 582,111 777,108 1016,100 1040,99" />
+                <TextEquiv>
+                    <Unicode>dam personam ecclesie de Clopton cui Margeria que fuit vxor Willelmi de la Mare illud dimisit que illud tenuit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_54" custom="readingOrder {index:3;}">
+                <Coords points="28,149 177,151 424,149 664,145 804,140 1040,135 1040,108 804,113 664,118 424,122 177,124 28,122" />
+                <Baseline points="28,143 177,145 424,143 664,139 804,134 1040,129" />
+                <TextEquiv>
+                    <Unicode>ad vitam suam ex dimissione quam Iohannes le Carpentere de Wynewyk et Muriella vxor eius inde fecerunt </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_68" custom="readingOrder {index:4;}">
+                <Coords points="25,176 164,179 414,178 734,173 974,169 1042,164 1042,137 974,142 734,146 414,151 164,152 25,149" />
+                <Baseline points="25,170 164,173 414,172 734,167 974,163 1042,158" />
+                <TextEquiv>
+                    <Unicode>eidem Margerie et prefato Willelmo quondam viro suo et heredibus ipsius Willelmi patris predicti Iohannis de la Mare cuius</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_82" custom="readingOrder {index:5;}">
+                <Coords points="28,208 231,209 486,209 756,203 886,198 1039,195 1039,168 886,171 756,176 486,182 231,182 28,181" />
+                <Baseline points="28,202 231,203 486,203 756,197 886,192 1039,189" />
+                <TextEquiv>
+                    <Unicode>heres ipse est et quod post dimissionem per ipsam Margeriam prefato Henrico inde factam in feodo ad prefatum Iohannem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_96" custom="readingOrder {index:6;}">
+                <Coords points="29,233 178,238 434,235 677,234 677,207 434,208 178,211 29,206" />
+                <Baseline points="29,227 178,232 434,229 677,228" />
+                <TextEquiv>
+                    <Unicode>de la Mare reuerti debet per formam statuti in casu consimili prouisi etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_106" custom="readingOrder {index:7;}">
+                <Coords points="22,268 141,267 364,268 597,267 855,256 1024,252 1024,225 855,229 597,240 364,241 141,240 22,241" />
+                <Baseline points="22,262 141,261 364,262 597,261 855,250 1024,246" />
+                <TextEquiv>
+                    <Unicode>Et Iohannes de Thorp venit et defendit is suum quando etc. et dicit quod predictus Iohannes de la Mare nichil juris clamare </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_120" custom="readingOrder {index:8;}">
+                <Coords points="27,292 111,293 441,295 618,294 852,284 1031,281 1031,254 852,257 618,267 441,268 111,266 27,265" />
+                <Baseline points="27,286 111,287 441,289 618,288 852,278 1031,275" />
+                <TextEquiv>
+                    <Unicode>potest in predicto mesuagio, quia dicit quod in seisina cuiusdam Willelmi de la Mare patris eiusdem Iohannis cuius heres </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_134" custom="readingOrder {index:9;}">
+                <Coords points="34,318 171,321 338,323 552,322 812,315 876,313 928,311 1030,309 1030,282 928,284 876,286 812,288 552,295 338,296 171,294 34,291" />
+                <Baseline points="34,312 171,315 338,317 552,316 812,309 876,307 928,305 1030,303" />
+                <TextEquiv>
+                    <Unicode>ipse est fuit quedam place terre non edificata in qua predictum mesuagium modo situatur. Et dicit quod idem Willelmus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_152" custom="readingOrder {index:10;}">
+                <Coords points="33,349 172,349 408,353 632,350 825,342 1037,337 1037,310 825,315 632,323 408,326 172,322 33,322" />
+                <Baseline points="33,343 172,343 408,347 632,344 825,336 1037,331" />
+                <TextEquiv>
+                    <Unicode>placeam illam dedit Henrico de Audewyncle person ecclesie de Clopton consanguineo predicti Iohannis de Thorp cuius </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_166" custom="readingOrder {index:11;}">
+                <Coords points="35,378 172,379 364,383 536,380 702,372 823,373 1024,366 1024,339 823,346 702,345 536,353 364,356 172,352 35,351" />
+                <Baseline points="35,372 172,373 364,377 536,374 702,366 823,367 1024,360" />
+                <TextEquiv>
+                    <Unicode>heres ipse est habendam et tenendam sibi et heredibus suis imperpetuum. Et obligauit se et heredes suos ad warantizandum etc. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_182" custom="readingOrder {index:12;}">
+                <Coords points="34,405 211,409 396,411 520,409 593,406 706,405 757,404 811,403 903,402 1042,396 1042,369 903,375 811,376 757,377 706,378 593,379 520,382 396,384 211,382 34,378" />
+                <Baseline points="34,399 211,403 396,405 520,403 593,400 706,399 757,398 811,397 903,396 1042,390" />
+                <TextEquiv>
+                    <Unicode>Et profert quandam cartam sub nomine predicti Willelmi, que hoc idem testatur. Et petit judicium ex quo dem Iohannes de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_204" custom="readingOrder {index:13;}">
+                <Coords points="35,432 127,437 264,439 423,439 619,434 796,433 980,430 1025,429 1025,402 980,403 796,406 619,407 423,412 264,412 127,410 35,405" />
+                <Baseline points="35,426 127,431 264,433 423,433 619,428 796,427 980,424 1025,423" />
+                <TextEquiv>
+                    <Unicode>la Mare vt filius et heres predicti Willelmi teneretur ipsi Iohanni de Thorp predictam placeam warantizare si ab alio </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_222" custom="readingOrder {index:14;}">
+                <Coords points="31,459 152,464 292,469 432,463 578,462 578,435 432,436 292,442 152,437 31,432" />
+                <Baseline points="31,453 152,458 292,463 432,457 578,456" />
+                <TextEquiv>
+                    <Unicode>implacitaretur, si contra cartam predictam accionem habere possit etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_234" custom="readingOrder {index:15;}">
+                <Coords points="33,501 179,505 389,502 591,499 787,497 927,495 1041,490 1041,463 927,468 787,470 591,472 389,475 179,478 33,474" />
+                <Baseline points="33,495 179,499 389,496 591,493 787,491 927,489 1041,484" />
+                <TextEquiv>
+                    <Unicode>Et Iohannes de la Mare bene cognouit predictam cartam esse factum predicti Willelmi set dicit quod per cartam illam ab agendo </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_254" custom="readingOrder {index:16;}">
+                <Coords points="39,530 182,538 372,533 567,529 754,528 956,527 1041,522 1041,495 956,500 754,501 567,502 372,506 182,511 39,503" />
+                <Baseline points="39,524 182,532 372,527 567,523 754,522 956,521 1041,516" />
+                <TextEquiv>
+                    <Unicode>precludi non debet in hac parte. Quia dicit quod predicts Henricus de Audewyncle nunquam aliquid habuit in predicta placea de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_270" custom="readingOrder {index:17;}">
+                <Coords points="39,560 165,564 348,564 528,562 698,560 815,560 889,559 932,559 1040,557 1040,530 932,532 889,532 815,533 698,533 528,535 348,537 165,537 39,533" />
+                <Baseline points="39,554 165,558 348,558 528,556 698,554 815,554 889,553 932,553 1040,551" />
+                <TextEquiv>
+                    <Unicode>dono predicti Willelmi patris etc. sicut idem Iohannes de Thorp dicit. Et hoc petit quod inquiratur per patriam. Et Iohannes de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_290" custom="readingOrder {index:18;}">
+                <Coords points="40,588 203,592 491,592 709,590 914,590 1048,585 1048,558 914,563 709,563 491,565 203,565 40,561" />
+                <Baseline points="40,582 203,586 491,586 709,584 914,584 1048,579" />
+                <TextEquiv>
+                    <Unicode>Thorp similiter. Ideo preceptum est vicecomiti quod venire faciat hic die louis proximo post festum Sancti Martini proximo futurum .xij. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_304" custom="readingOrder {index:19;}">
+                <Coords points="40,613 189,619 321,625 321,598 189,592 40,586" />
+                <Baseline points="40,607 189,613 321,619" />
+                <TextEquiv>
+                    <Unicode>etc. per quos etc. quia tam etc. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_312" custom="readingOrder {index:20;}">
+                <Coords points="37,642 224,649 400,655 604,656 833,655 1013,648 1032,647 1044,644 1044,617 1032,620 1013,621 833,628 604,629 400,628 224,622 37,615" />
+                <Baseline points="37,636 224,643 400,649 604,650 833,649 1013,642 1032,641 1044,638" />
+                <TextEquiv>
+                    <Unicode>Ad quem diem predicts Iohannes de la Mare de Bernewell non est prosecutus. Ideo predictus Iohannes de Thorp inde sine die. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_330" custom="readingOrder {index:21;}">
+                <Coords points="41,668 188,680 387,686 576,687 772,686 944,682 1045,677 1045,650 944,655 772,659 576,660 387,659 188,653 41,641" />
+                <Baseline points="41,662 188,674 387,680 576,681 772,680 944,676 1045,671" />
+                <TextEquiv>
+                    <Unicode>Et predictus Iohannes de la Mare de Bernewell et plegii sui de prosequendo in misericordia, videlicet Willelmus de Radburn et Robertus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_348" custom="readingOrder {index:22;}">
+                <Coords points="39,697 179,704 179,677 39,670" />
+                <Baseline points="39,691 179,698" />
+                <TextEquiv>
+                    <Unicode>de Sutton etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <Coords points="1057,705 19,704 11,7 1047,7" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

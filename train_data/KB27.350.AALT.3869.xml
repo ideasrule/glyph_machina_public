@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="https://schema.omnius.com/pagesformat/2020.02.04">
+  <Metadata>
+    <Creator>nw-page-editor</Creator>
+    <Created>2025-05-08T03:54:47Z</Created>
+    <LastChange>2026-04-21T00:57:31Z</LastChange>
+  </Metadata>
+  <Page imageFilename="KB27.350.AALT.3869.jpg" imageHeight="516" imageWidth="1214">
+    <TextRegion id="r1">
+      <Coords points="6,5 1206,10 1207,511 6,510"/>
+      <TextLine id="r1_l1">
+        <Coords points="84.1491,36.0041 131.574,33.986 160.459,33.986 271.817,27.9667 384.357,31.986 549.892,31.986 643.247,30.9822 784.355,35.986 863.294,35.986 930.961,37.9762 1020.82,34.981 1087.87,35.9819 1195.44,32.9937 1196.19,59.6689 1088.04,62.6728 1021.06,61.6731 931.013,64.6747 862.902,62.6714 783.882,62.6714 642.918,57.6727 550.036,58.6714 383.881,58.6714 272.061,54.6779 161.18,60.6714 132.142,60.6714 85.2836,62.6654"/>
+        <Baseline points="85,56 132,54 161,54 272,48 384,52 550,52 643,51 784,56 863,56 931,58 1021,55 1088,56 1196,53"/>
+        <TextEquiv>
+          <Unicode>¶ Dominus Rex per Johannem de Lincoln qui sequitur pro eo optulit se quarto die versus Hugonem de Seton Johannem de Holand Laurencium Goderiche et</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l2">
+        <Coords points="102.463,70.9507 172.768,68.9702 241.902,61.9567 313.337,60.9505 385.611,56.9353 454.031,57.9415 540.494,56.9477 612.828,53.9337 740.574,56.9514 849.63,60.9534 917.28,62.9431 1016.2,62.9431 1063.97,63.9383 1146.15,61.958 1191.76,58.9835 1193.41,84.3388 1147.28,87.3473 1064.01,89.3539 1015.93,88.3523 916.907,88.3523 848.79,86.3489 739.809,82.3495 613.057,79.3554 541.169,82.3508 453.99,83.3528 386.13,82.3549 314.221,86.3498 243.366,87.3478 174.411,94.3433 103.179,96.3498"/>
+        <Baseline points="103,90 174,88 243,81 314,80 386,76 454,77 541,76 613,73 740,76 849,80 917,82 1016,82 1064,83 1147,81 1193,78"/>
+        <TextEquiv>
+          <Unicode>Johannem Vyse de placito quare cum dominus Rex nuper in curia sua per considerationem eiusdem curie recuperasset versus Priorem de </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l3">
+        <Coords points="83.3209,106.187 142.29,101.19 233.863,93.1392 309.051,91.1342 396.555,85.0995 480.131,87.1134 572.334,86.1112 616.84,88.0892 682.651,84.1007 801.498,87.1222 882.036,89.1108 977.333,87.1046 1032.66,90.1226 1114.12,91.116 1202,91.116 1202,117.629 1113.96,117.629 1031.78,116.626 976.889,113.632 881.988,115.63 800.834,113.627 683.116,110.634 617.053,114.638 571.889,112.63 479.956,113.63 397.148,111.634 310.317,117.623 235.379,119.621 144.57,127.604 85.5597,132.605"/>
+        <Baseline points="85,126 144,121 235,113 310,111 397,105 480,107 572,106 617,108 683,104 801,107 882,109 977,107 1032,110 1114,111 1202,111"/>
+        <TextEquiv>
+          <Unicode>Oterton presentationem suam ad vicariam ecclesie de Harpford nuper vacantem et ad Regis donacionem spectantem ratione temporalium Prioratus </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l4">
+        <Coords points="79.6109,136.774 127.636,133.772 211.112,128.744 262.054,127.745 368.809,120.761 441.411,117.736 530.488,116.735 645.376,112.739 740.365,110.718 814.385,114.719 917.126,112.724 1047.8,116.744 1194.91,122.749 1193.7,152.417 1046.73,146.419 916.958,142.425 813.872,144.427 739.878,140.427 646.208,142.42 531.171,146.422 442.196,147.421 370.397,150.413 263.315,157.418 212.296,158.419 129.455,163.409 81.463,166.409"/>
+        <Baseline points="81,159 129,156 212,151 263,150 370,143 442,140 531,139 646,135 740,133 814,137 917,135 1047,139 1194,145"/>
+        <TextEquiv>
+          <Unicode>predicti in manu ipsius Regis occasione querre inter ipsum Regem et ipsos de Francie mote existencium et dilectum clericum Regis Johannem de </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l5">
+        <Coords points="77.3004,177.304 154.748,170.264 225.228,167.243 301.017,164.251 408.03,157.25 513.129,153.247 586.562,149.223 709.909,150.226 765.548,149.232 864.716,146.227 949.256,146.227 1059.8,149.242 1163.78,155.241 1203.47,156.233 1202.84,181.254 1162.74,180.252 1058.73,174.251 948.915,171.256 865.095,171.256 766.151,174.255 710.03,175.257 587.146,174.258 514.29,178.25 409.323,182.249 302.328,189.248 226.257,192.251 156.417,195.244 79.5664,202.231"/>
+        <Baseline points="79,196 156,189 226,186 302,183 409,176 514,172 587,168 710,169 766,168 865,165 949,165 1059,168 1163,174 1203,175"/>
+        <TextEquiv>
+          <Unicode>Sibthorp Regio iure suo presentasset idem Rex ad eandem et prohibuerit omnibus et singulis ne quis provocationes appellaciones cita</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l6">
+        <Coords points="78.6987,209.526 136.558,208.528 256.196,204.541 358.05,198.549 497.813,191.561 614.248,181.523 733.938,181.523 876.343,180.521 1027.61,187.533 1198.41,191.528 1197.86,214.824 1026.8,210.823 875.886,203.827 734.021,204.826 615.251,204.826 499.396,214.813 359.317,221.817 257.268,227.82 137.147,231.824 79.1004,232.825"/>
+        <Baseline points="79,227 137,226 257,222 359,216 499,209 615,199 734,199 876,198 1027,205 1198,209"/>
+        <TextEquiv>
+          <Unicode>tiones notificationes inhibitiones instrumenta nex quicquid aliud quod in enervationem seu derogationem iuris Regis cedere</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l7">
+        <Coords points="78.9011,244.945 151.977,240.941 278.988,234.941 427.494,226.967 489.89,220.929 633.86,218.915 758.329,218.915 819.208,220.911 985.516,218.908 1049.03,222.94 1201.79,228.931 1200.74,255.689 1047.66,249.686 984.828,245.697 818.931,247.696 757.89,245.694 634.047,245.694 491.37,247.69 429.502,253.677 280.337,261.686 153.341,267.686 80.3663,271.684"/>
+        <Baseline points="80,265 153,261 280,255 429,247 491,241 634,239 758,239 819,241 985,239 1048,243 1201,249"/>
+        <TextEquiv>
+          <Unicode>valeret attemptaret seu attemptari faceret quovismodo Iidem Hugo Johannes Laurencius et Johannes dictam prohibitionem Regis </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l8">
+        <Coords points="83.3826,285.935 147.971,283.948 286.778,273.962 527.239,261.939 720.656,256.928 839.631,255.928 981.067,251.916 1095.91,255.945 1204.11,261.957 1202.63,288.68 1094.7,282.684 980.978,278.694 840.123,282.69 721.115,283.69 528.254,288.686 288.407,300.679 149.343,310.683 84.2058,312.688"/>
+        <Baseline points="84,306 149,304 288,294 528,282 721,277 840,276 981,272 1095,276 1203,282"/>
+        <TextEquiv>
+          <Unicode>minime ponderantes provocationes appellaciones citationes notificationes inhibitiones instrumenta moniciones et quam plura </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l9">
+        <Coords points="80.2409,326.934 199.389,321.928 316.237,318.932 468.594,309.97 540.755,302.954 761.272,293.933 887.996,288.904 990.56,292.926 1122.54,295.926 1204.66,298.93 1203.78,323.023 1121.82,320.025 989.813,317.025 888.001,313.032 762.243,318.022 542.415,327.015 470.469,334.01 317.254,343.023 200.204,346.024 81.253,351.022"/>
+        <Baseline points="81,345 200,340 317,337 470,328 542,321 762,312 888,307 990,311 1122,314 1204,317"/>
+        <TextEquiv>
+          <Unicode>impedimenta ac diversos alios processus faciunt et indies fulminari non desistunt in Regis et corone sue preiudicium </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l10">
+        <Coords points="73.826,372.162 147.648,364.072 224.066,362.061 401.83,350.077 762.353,332.051 963.851,329.044 1083.56,329.044 1155.15,333.077 1206.17,336.078 1204.61,362.641 1153.62,359.642 1082.81,355.653 964.05,355.653 763.216,358.65 403.39,376.642 225.311,388.647 149.451,390.643 76.7247,398.613"/>
+        <Baseline points="76,392 149,384 225,382 403,370 763,352 964,349 1083,349 1154,353 1205,356"/>
+        <TextEquiv>
+          <Unicode>et iudicii pro domino Rege in hac parte redditi enervationem manifestam et predicti Johannis de Sibthorp grave dampnum et contra pacem </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l11">
+        <Coords points="73.6822,406.124 255.034,394.101 417.185,389.096 514.875,384.112 676.085,374.099 810.789,370.078 926.087,371.08 1008.13,371.08 1157.38,373.083 1198.49,374.086 1197.84,400.637 1156.87,399.638 1007.96,397.639 925.971,397.639 811.07,396.64 677.305,400.633 516.375,410.629 418.272,415.634 256.322,420.632 75.4392,432.625"/>
+        <Baseline points="75,426 256,414 418,409 516,404 677,394 811,390 926,391 1008,391 1157,393 1198,394"/>
+        <TextEquiv>
+          <Unicode>Regis Et ipsi non veniunt Et preceptum fuit vicecomiti quod non omitteret propter libertatem Comitatis Exonie qui attachiaret eos </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l12">
+        <Coords points="76.457,444.009 156.381,442.035 221.256,434.051 388.501,428.006 496.282,427.008 603.104,421.018 839.596,415.005 1016.78,413.003 1126.73,412.003 1192.67,411.004 1193.11,440.332 1127.09,441.332 1017.07,442.332 840.135,444.332 604.299,450.327 497.239,456.331 389.166,457.331 223.581,463.316 158.54,471.322 77.181,473.33"/>
+        <Baseline points="77,466 158,464 223,456 389,450 497,449 604,443 840,437 1017,435 1127,434 1193,433"/>
+        <TextEquiv>
+          <Unicode>etc. Et vice comites retornavit quod non sunt inventi nec aliquid etc Ideo preceptum est vice comites quod capiat eos si inventi etc Et</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1_l13">
+        <Coords points="78.9676,479.352 159.31,475.335 278.493,473.332 433.234,468.34 648.668,459.322 855.201,461.327 854.933,488.892 649.111,486.893 434.255,495.887 279.169,500.89 160.23,502.889 80.3442,506.883"/>
+        <Baseline points="80,500 160,496 279,494 434,489 649,480 855,482"/>
+        <TextEquiv>
+          <Unicode>salvo etc ita quod habeat corpora eorum coram domino Rege in Octabis Sancti Hillarii ubicumque etc</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

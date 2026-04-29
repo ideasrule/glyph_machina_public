@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-01-09T20:32:52.568+01:00</Created>
+        <LastChange>2024-01-09T20:37:58.482+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="63215195" pageNr="7" tsid="144712915" status="FINAL" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=KKFLNEQSMZGCOKNLVKETDMHB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZOOAXRMQCZSPLOSAAPAXUIOS" imageId="51117662" />
+    </Metadata>
+    <Page imageFilename="norw1.jpg" imageWidth="1260" imageHeight="216">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1708823410230" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="11,51 124,45 233,44 355,43 430,46 515,48 616,48 706,51 745,54 803,55 865,53 942,54 1002,58 1061,58 1105,58 1146,59 1198,62 1245,62 1245,47 1198,47 1147,44 1105,43 1061,43 1002,43 943,39 865,38 803,40 746,39 707,36 616,33 515,33 430,31 355,28 233,29 124,30 10,36" />
+                <Baseline points="11,51 124,45 233,44 355,43 430,46 515,48 616,48 706,51 745,54 803,55 865,53 942,54 1002,58 1061,58 1105,58 1146,59 1198,62 1245,62" />
+                <TextEquiv>
+                    <Unicode>pro Episcopo Norwiciensis Rex Thesaurio et Baronibus suis de scaccario, salutem. Cum nuper in curia nostra coram Justiciariis nostris de banco extiterit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_46" custom="readingOrder {index:1;}">
+                <Coords points="157,85 211,89 291,86 338,91 409,92 473,88 505,89 566,88 652,89 691,94 746,94 803,96 821,100 862,101 932,101 983,102 1040,104 1074,107 1138,109 1190,111 1233,110 1233,95 1190,96 1139,94 1075,92 1041,89 983,87 932,86 862,86 823,85 805,81 746,79 692,79 653,74 566,73 505,74 473,73 409,77 339,76 292,71 211,74 158,70" />
+                <Baseline points="157,85 211,89 291,86 338,91 409,92 473,88 505,89 566,88 652,89 691,94 746,94 803,96 821,100 862,101 932,101 983,102 1040,104 1074,107 1138,109 1190,111 1233,110" />
+                <TextEquiv>
+                    <Unicode>consideratum quod omnia temporalia Episcopi Norwyciensis Episcopatus predicti pro quibus idem Episcopus nobis fidelitatem fecit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_90" custom="readingOrder {index:2;}">
+                <Coords points="151,137 202,133 289,132 389,129 417,132 474,131 493,135 540,136 618,135 698,140 726,142 792,143 882,145 934,149 1009,153 1088,155 1143,156 1226,157 1226,142 1143,141 1088,140 1010,138 935,134 883,130 792,128 727,127 699,125 618,120 540,121 495,120 475,116 418,117 390,114 289,117 201,118 150,122" />
+                <Baseline points="151,137 202,133 289,132 389,129 417,132 474,131 493,135 540,136 618,135 698,140 726,142 792,143 882,145 934,149 1009,153 1088,155 1143,156 1226,157" />
+                <TextEquiv>
+                    <Unicode>pro quodam contemptu nobis facto in manum nostram seiserentur sive caperentur per quod per breve nostrum de iudicio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_128" custom="readingOrder {index:3;}">
+                <Coords points="161,183 224,182 303,185 416,182 487,185 588,182 617,184 701,189 779,192 854,195 962,197 1040,200 1115,202 1194,203 1236,201 1235,186 1194,188 1115,187 1040,185 962,182 854,180 780,177 702,174 618,169 588,167 487,170 416,167 303,170 224,167 161,168" />
+                <Baseline points="161,183 224,182 303,185 416,182 487,185 588,182 617,184 701,189 779,192 854,195 962,197 1040,200 1115,202 1194,203 1236,201" />
+                <TextEquiv>
+                    <Unicode>preceperimus vicecomiti nostro Norfolkie et Suffolkie quod omnia temporalia predicta in manum nostram seisiri sive capi faceret</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <Coords points="1255,215 8,215 8,3 1255,3" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

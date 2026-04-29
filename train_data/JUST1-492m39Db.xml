@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>kraken 5.2.8</Creator>
+    <Created>2024-08-16T15:52:41.821099+00:00</Created>
+    <LastChange>2024-12-26T03:49:30Z</LastChange>
+  </Metadata>
+  <Page imageFilename="JUST1-492m39Db.jpg" imageHeight="160" imageWidth="1135">
+    <TextRegion id="textblock_1">
+      <TextLine id="textblock_1_l1">
+        <Coords points="62.7317,67.4816 197.992,55.4584 359.38,44.4319 496.064,36.4504 614.441,25.4153 753.76,21.4061 842.03,15.3876 1105.81,13.3817 1106.06,47.5394 843.323,49.5374 755.413,55.5313 616.52,59.5282 498.645,70.5165 361.54,78.5227 200.669,89.5138 65.7561,101.506" />
+        <Baseline points="65,93 200,81 361,70 498,62 616,51 755,47 843,41 1106,39" />
+        <TextEquiv>
+          <Unicode>Dies datus est eis de audiendo judicio suo apud Westmonasterium a die Pasche in unum mensem eo quod judicum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="textblock_1_l2">
+        <Coords points="71.5257,99.3854 179.071,97.3938 289.617,91.4184 291.461,125.527 180.31,131.535 72.1581,133.538" />
+        <Baseline points="72,125 180,123 291,117" />
+        <TextEquiv>
+          <Unicode>nondum factum est etc.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    <Coords points="0,0 0,160 1135,160 1135,0" />
+      </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-01-09T20:15:55.538+01:00</Created>
+        <LastChange>2024-01-09T20:31:08.876+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="63214818" pageNr="8" tsid="144711621" status="FINAL" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=LRMTOCNMMYICUJKMESQKSFDH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JFSNNHWGJJMDSUMNQSYBESQY" imageId="51117287" />
+    </Metadata>
+    <Page imageFilename="memb2.jpg" imageWidth="800" imageHeight="600">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1708823410264" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <TextLine id="l_10" custom="readingOrder {index:0;}">
+                <Coords points="17,103 96,90 166,87 224,82 293,78 355,75 436,65 513,56 576,48 639,44 673,45 722,44 736,39 777,35 776,20 733,24 719,29 673,30 639,29 575,33 511,41 434,50 354,60 292,63 223,67 165,72 94,75 15,88" />
+                <Baseline points="17,103 96,90 166,87 224,82 293,78 355,75 436,65 513,56 576,48 639,44 673,45 722,44 736,39 777,35" />
+                <TextEquiv>
+                    <Unicode>Et predictus Walterus per Ricardum de Dorchestre attornatum suum venit. Et defendit ius suum quando etc. Et dixit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_40" custom="readingOrder {index:1;}">
+                <Coords points="22,141 61,135 134,130 191,126 208,125 273,121 339,118 375,114 417,113 431,107 509,102 516,97 564,95 608,91 639,88 674,88 686,87 706,83 743,80 787,78 786,63 742,65 704,68 684,72 673,73 638,73 607,76 563,80 511,83 504,88 428,92 414,98 374,99 338,103 272,106 207,110 190,111 133,115 59,120 20,126" />
+                <Baseline points="22,141 61,135 134,130 191,126 208,125 273,121 339,118 375,114 417,113 431,107 509,102 516,97 564,95 608,91 639,88 674,88 686,87 706,83 743,80 787,78" />
+                <TextEquiv>
+                    <Unicode>quod quidam Thomas de Anne proavus predicti Radulfi scilicet pater Alicie matris Roberti patris predicti Radulfi cuius heres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_82" custom="readingOrder {index:2;}">
+                <Coords points="25,177 73,173 86,170 142,169 196,163 260,159 338,152 409,146 447,146 483,144 535,139 607,132 647,132 689,128 759,126 759,111 688,113 646,117 606,117 534,124 482,129 447,131 408,131 337,137 259,144 195,148 141,154 84,155 71,158 24,162" />
+                <Baseline points="25,177 73,173 86,170 142,169 196,163 260,159 338,152 409,146 447,146 483,144 535,139 607,132 647,132 689,128 759,126" />
+                <TextEquiv>
+                    <Unicode>ipse est fuit seisitus de predicto manerio cum pertinenciis in dominico suo ut de feodo, qui quidem Thomas per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:3;}">
+                <Coords points="23,209 73,208 132,207 205,200 222,203 276,200 329,196 375,193 386,187 442,184 503,180 516,179 530,178 571,176 613,176 645,172 683,167 732,167 786,161 785,151 731,157 682,157 644,162 612,166 571,166 529,168 515,169 502,170 441,174 383,177 372,183 328,186 275,190 223,193 205,190 131,197 73,198 23,199" />
+                <Baseline points="23,209 73,208 132,207 205,200 222,203 276,200 329,196 375,193 386,187 442,184 503,180 516,179 530,178 571,176 613,176 645,172 683,167 732,167 786,161" />
+                <TextEquiv>
+                    <Unicode>nomen Thome de Anne Burgensis Dorcestrie per cartam suam dedit manerium predictum cum pertinenciis et alia maneria</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_95" custom="readingOrder {index:4;}">
+                <Coords points="19,249 58,247 99,242 134,242 188,239 207,239 255,240 271,235 325,232 393,229 435,223 496,217 531,215 553,216 629,208 664,204 681,205 756,201 762,201 762,191 756,191 681,195 664,194 628,198 553,206 531,205 495,207 434,213 392,219 325,222 269,225 254,230 207,229 188,229 134,232 98,232 57,237 18,239" />
+                <Baseline points="19,249 58,247 99,242 134,242 188,239 207,239 255,240 271,235 325,232 393,229 435,223 496,217 531,215 553,216 629,208 664,204 681,205 756,201 762,201" />
+                <TextEquiv>
+                    <Unicode>et tenementa per nomen capitalis manuagii sui cum curtilagio in Dorcestre una cum septem acris terre arabilis infra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_135" custom="readingOrder {index:5;}">
+                <Coords points="25,280 54,282 95,280 129,275 144,278 187,275 220,274 249,277 327,267 339,268 399,265 444,261 475,260 509,256 573,251 645,244 664,245 688,243 746,238 756,238 778,237 778,227 756,228 746,228 687,233 664,235 645,234 572,241 508,246 474,250 443,251 398,255 339,258 327,257 249,267 220,264 187,265 145,268 129,265 94,270 54,272 26,270" />
+                <Baseline points="25,280 54,282 95,280 129,275 144,278 187,275 220,274 249,277 327,267 339,268 399,265 444,261 475,260 509,256 573,251 645,244 664,245 688,243 746,238 756,238 778,237" />
+                <TextEquiv>
+                    <Unicode>muros et pratum quod vocatur Egglesham et maneriorum suorum de Wynterborne Germayn et Tynkelden cum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_179" custom="readingOrder {index:6;}">
+                <Coords points="25,321 81,318 146,313 180,314 241,312 301,309 349,306 418,302 451,297 471,299 531,295 559,289 600,289 616,286 678,280 727,275 778,270 777,260 726,265 677,270 615,276 599,279 558,279 530,285 471,289 451,287 417,292 348,296 300,299 241,302 180,304 146,303 80,308 24,311" />
+                <Baseline points="25,321 81,318 146,313 180,314 241,312 301,309 349,306 418,302 451,297 471,299 531,295 559,289 600,289 616,286 678,280 727,275 778,270" />
+                <TextEquiv>
+                    <Unicode>omnibus pertinenciis suis predictis Johanni de Farendon et Alicie habendum eisdem Johanni et Alicie et eorum heredibus et asslignatis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_217" custom="readingOrder {index:7;}">
+                <Coords points="31,358 54,358 117,354 173,349 252,346 312,344 384,341 440,333 496,331 526,327 574,321 599,322 660,320 706,315 748,312 779,312 779,302 748,302 705,305 659,310 599,312 574,311 525,317 495,321 439,323 383,331 312,334 252,336 172,339 116,344 54,348 31,348" />
+                <Baseline points="31,358 54,358 117,354 173,349 252,346 312,344 384,341 440,333 496,331 526,327 574,321 599,322 660,320 706,315 748,312 779,312" />
+                <TextEquiv>
+                    <Unicode>imperpetuum et obligavit se et heredes suos ad warrantizandum maneria et tenementa predicta cum pertinenciis predictis Johanni et Alicie et eor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_251" custom="readingOrder {index:8;}">
+                <Coords points="27,401 53,401 129,395 145,392 216,388 303,383 370,381 428,379 483,377 497,374 553,370 563,366 607,365 634,363 668,360 679,360 713,359 744,354 784,354 784,344 743,344 712,349 679,350 668,350 633,353 607,355 561,356 551,360 496,364 482,367 428,369 370,371 303,373 215,378 144,382 128,385 53,391 27,391" />
+                <Baseline points="27,401 53,401 129,395 145,392 216,388 303,383 370,381 428,379 483,377 497,374 553,370 563,366 607,365 634,363 668,360 679,360 713,359 744,354 784,354" />
+                <TextEquiv>
+                    <Unicode>heredibus et assignatis versus quoscumque imperpetuum que quidem Alicia obiit post cuius mortem predictus Johannes de predicto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_291" custom="readingOrder {index:9;}">
+                <Coords points="35,439 76,439 128,436 206,430 266,427 330,424 414,421 454,420 483,414 524,414 586,408 638,405 696,398 719,398 749,394 776,394 776,384 748,384 718,388 695,388 637,395 585,398 524,404 482,404 453,410 414,411 330,414 266,417 205,420 127,426 76,429 35,429" />
+                <Baseline points="35,439 76,439 128,436 206,430 266,427 330,424 414,421 454,420 483,414 524,414 586,408 638,405 696,398 719,398 749,394 776,394" />
+                <TextEquiv>
+                    <Unicode>manerio de Tynkelden cum pertinenciis feoffavit predictum Walterum et sic dixit quod si ipse ab aliquo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_325" custom="readingOrder {index:10;}">
+                <Coords points="36,479 82,476 150,470 194,469 255,466 300,464 322,461 387,460 413,459 438,455 532,452 570,451 631,448 701,441 732,439 782,434 781,424 731,429 700,431 630,438 570,441 532,442 437,445 412,449 387,450 321,451 299,454 255,456 194,459 149,460 81,466 35,469" />
+                <Baseline points="36,479 82,476 150,470 194,469 255,466 300,464 322,461 387,460 413,459 438,455 532,452 570,451 631,448 701,441 732,439 782,434" />
+                <TextEquiv>
+                    <Unicode>extraneo implacitatus fuerit de manerio predicto predictus Radulfus teneretur ut heres predicti Thome manerium predictum cum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_361" custom="readingOrder {index:11;}">
+                <Coords points="29,517 63,514 107,512 175,510 210,508 275,506 342,502 424,497 460,497 510,496 567,497 625,493 684,489 767,482 766,472 683,479 624,483 567,487 510,486 460,487 424,487 341,492 275,496 210,498 175,500 107,502 62,504 28,507" />
+                <Baseline points="29,517 63,514 107,512 175,510 210,508 275,506 342,502 424,497 460,497 510,496 567,497 625,493 684,489 767,482" />
+                <TextEquiv>
+                    <Unicode>pertinenciis eidem Waltero ut assignato predicti Johannis warrantizandum unde petit iudicium si predictus Radulfus actionem predictam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_393" custom="readingOrder {index:12;}">
+                <Coords points="32,552 66,552 121,551 168,551 264,548 333,540 439,537 458,537 480,536 567,534 668,527 686,528 779,519 778,509 686,518 668,517 567,524 480,526 458,527 439,527 332,530 263,538 168,541 121,541 66,542 32,542" />
+                <Baseline points="32,552 66,552 121,551 168,551 264,548 333,540 439,537 458,537 480,536 567,534 668,527 686,528 779,519" />
+                <TextEquiv>
+                    <Unicode>contra cartam predictam que warrantiam in se continet manutenere posset, et protulit tunc ibidem predictam cartam que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_421" custom="readingOrder {index:13;}">
+                <Coords points="33,587 65,587 132,586 171,584 223,585 253,584 253,574 223,575 171,574 132,576 65,577 33,577" />
+                <Baseline points="33,587 65,587 132,586 171,584 223,585 253,584" />
+                <TextEquiv>
+                    <Unicode>donum et warrantiam predicta testabatur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <Coords points="794,575 5,593 4,64 794,5" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
