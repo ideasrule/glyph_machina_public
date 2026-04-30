@@ -1,11 +1,6 @@
 import pandas as pd
-from torchvision.transforms import ToTensor, ToPILImage
-import torch
-from torch.utils.data import Dataset
-from PIL import Image, ImageOps
 from transformers import TrOCRProcessor, VisionEncoderDecoderModel, GenerationConfig
 from torchmetrics.text import CharErrorRate, WordErrorRate
-import os.path
 import sys
 from dataset import LineDatasetTrOCR
 

@@ -2,10 +2,6 @@
 
 import pandas as pd
 import torchvision.transforms as transforms
-from torchvision.transforms import ToTensor, ToPILImage
-import torch
-from torch.utils.data import Dataset
-from PIL import Image, ImageOps
 from transformers import TrOCRProcessor, VisionEncoderDecoderModel, GenerationConfig, Seq2SeqTrainer, Seq2SeqTrainingArguments, default_data_collator
 import evaluate
 from dataset import LineDatasetTrOCR

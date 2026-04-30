@@ -1,5 +1,3 @@
-from torch import nn, utils
-import pdb
 import torch
 import re
 import numpy as np
@@ -9,10 +7,7 @@ from torch.utils.data import Dataset
 import xml.etree.ElementTree as ET
 import os.path
 import sys
-from pyctcdecode import build_ctcdecoder
-import time
-import matplotlib.pyplot as plt
-from model import HTRModel, ALL_CHARS, NUM_TO_CHAR, CTC_DECODER, IMAGE_MEAN, IMAGE_STD
+from model import HTRModel, NUM_TO_CHAR, CTC_DECODER, IMAGE_MEAN, IMAGE_STD
 
 
 print("Performing HTR...")

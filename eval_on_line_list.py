@@ -1,22 +1,12 @@
-import argparse
-import glob
-import os
-import re
-import xml.etree.ElementTree as ET
-import pandas as pd
-
 import sys
 import numpy as np
 import torch
-from PIL import Image, ImageOps
-from torch import nn
-from torch.utils.data import DataLoader, Dataset
+from torch.utils.data import DataLoader
 from torchmetrics.text import CharErrorRate, WordErrorRate
 import torchvision.transforms.v2 as transforms
 from model import HTRModel, CTC_DECODER
 from dataset import LineImageDataset
-from pyctcdecode import build_ctcdecoder
-from model import NUM_TO_CHAR, CHAR_TO_NUM, IMAGE_MEAN, IMAGE_STD
+from model import CHAR_TO_NUM, IMAGE_MEAN, IMAGE_STD
 
 val_transform = transforms.Compose([
     transforms.ToTensor(),

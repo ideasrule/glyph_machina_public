@@ -1,12 +1,9 @@
 import xml.etree.ElementTree as ET
 import numpy as np
-import glob
 import cv2
 import os.path
 import scipy.interpolate
-import pdb
 import re
-import shutil
 import sys
 import pandas as pd
 

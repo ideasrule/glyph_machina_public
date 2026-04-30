@@ -1,26 +1,13 @@
-import pickle
-import matplotlib.pyplot as plt
-from torch import optim, nn, utils, Tensor
-from torchvision.transforms import ToTensor
+from torch import optim, nn, utils
 import pytorch_lightning as L
 from pytorch_lightning.callbacks import ModelCheckpoint
 from pytorch_lightning import loggers as pl_loggers
 import torch
 torch.manual_seed(42)
 print("Using GPU", torch.cuda.is_available())
-import pdb
-import copy
-import re
 import numpy as np
 from torchmetrics.text import CharErrorRate, WordErrorRate
 import torchvision.transforms.v2 as transforms
-from torchvision.io import read_image, ImageReadMode
-import PIL
-import xml.etree.ElementTree as ET
-import glob
-import os.path
-import hashlib
-import pandas as pd
 
 from dataset import LineImageDataset
 from model import HTRModel, NUM_TO_CHAR, CHAR_TO_NUM, IMAGE_MEAN, IMAGE_STD
