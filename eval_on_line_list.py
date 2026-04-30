@@ -33,10 +33,6 @@ def get_prediction(output):
     return beam_prediction, beam_logit_score
     
 
-def target_to_str(target):
-    target = np.atleast_1d(torch.squeeze(target).cpu().numpy())
-    return "".join(NUM_TO_CHAR[target[i].item()] for i in range(len(target)))
-
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print("Device:", device)
 
@@ -65,7 +61,7 @@ for xml_filename in df["xml_filename"].unique():
         with torch.no_grad():
             output = net(image)
         prediction, _ = get_prediction(output)
-        truth = target_to_str(target)
+        truth = row["text"]
         prediction = prediction.replace("u", "v").replace("U", "V").replace("i", "j").replace("I", "J")
         truth = truth.replace("u", "v").replace("U", "V").replace("i", "j").replace("I", "J")
         

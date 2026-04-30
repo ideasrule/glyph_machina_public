@@ -5,7 +5,9 @@ from kraken import blla
 import sys
 
 device = "cuda:0"
-model_filename = "seg.mlmodel"
+model_filename = sys.argv[1]
+image_filename = sys.argv[2]
+xml_filename = sys.argv[3]
 
 model = TorchVGSLModel.load_model(model_filename)
 model.to(device)
@@ -29,4 +31,4 @@ def segment_image(image_filename, output_filename):
         f.write(xml_contents)
 
 print("Identifying baselines...")
-segment_image(sys.argv[1], sys.argv[2])
+segment_image(image_filename, xml_filename)
