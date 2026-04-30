@@ -14,7 +14,10 @@ Most of these dependencies can be installed with:
 
     conda env create -f environment.yml
 
-We have also created a [Docker image](https://hub.docker.com/repository/docker/ideasrule/glyph_machina) with the full development environment needed to run all the code.  The image also contains emacs, X libraries, and the PageXML viewer and editor [visual-page-editor](https://github.com/buzzcauldron/visual-page-editor).  You can run the image locally, or on a virtual machine rented from vast.ai (public template [here](https://cloud.vast.ai/?ref_id=55359&creator_id=55359&name=Glyph%20Machina).
+We have also created a [Docker image](https://hub.docker.com/repository/docker/ideasrule/glyph_machina) with the full development environment needed to run all the code.  The image also contains emacs, X libraries, and the PageXML viewer and editor [visual-page-editor](https://github.com/buzzcauldron/visual-page-editor).  You can run the image locally, or on a virtual machine rented from vast.ai (public template [here](https://cloud.vast.ai/?ref_id=55359&creator_id=55359&name=Glyph%20Machina).  After logging in to the virtual machine, run:
+
+   conda activate glyph_machina
+   cd /workspace/glyph_machina_public/
 
 # Training
 To train the image segmentation neural network:
@@ -37,7 +40,7 @@ To train the handwriting recognition neural network:
 3. Dump all the training text into a file and train a bigram model using [KenLM](https://github.com/kpu/kenlm), which you must install beforehand:
 ```
 	awk -F',' '{print $4}' train_list.csv | tail -n +2 > all_training_text.txt
-	KENLM_DIR/bin/lmplz -o 2 < all_training_text.txt > bigram_model.arpa
+	lmplz -o 2 < all_training_text.txt > bigram_model.arpa
 ```
 4. Run "python eval_on_line_list.py best_HTR.net test_list.csv" to compute the CER and WER on every case in the test set.  This will use bigram_model.arpa.
 
