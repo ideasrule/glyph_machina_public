@@ -4,6 +4,8 @@ This repository contains the code necessary to reproduce the results in our pape
 2. The HTR model is first trained on the Latin transcriptions in the TRIDIS dataset, then fine-tuned on our dataset. This decreases the Character Error Rate by 0.8% (to 5.2%) and the Word Error Rate by 1.6% (to 16.2%).
 3. Actually, the HTR model is fine-tuned on a dataset 60% larger, consisting of transcriptions from a wider range of sources.  This further decreases the CER to 4.9% and the WER to 15.5%.
 
+**A NVIDIA GPU is required to run this code.**  Technically the code should work on a CPU (with minor modifications), but it will be unusably slow.
+
 
 # Dependencies
 If you want to retrain the models that make up the pipeline, you will need to install kraken 6 (not 7), pandas, pytorch, lightning, pyctcdecode, KenLM, torchmetrics, and PIL.  If you are interested in training or using the transformer-based TrOCR, you will also need to install transformers, datasets, evaluate, and accelerate.
@@ -12,7 +14,7 @@ Most of these dependencies can be installed with:
 
     conda env create -f environment.yml
 
-We have also created a [Docker image](https://hub.docker.com/repository/docker/ideasrule/glyph_machina) with the full development environment needed to run all the code.  The image also contains emacs, X libraries, and the PageXML viewer and editor [visual-page-editor](https://github.com/buzzcauldron/visual-page-editor).
+We have also created a [Docker image](https://hub.docker.com/repository/docker/ideasrule/glyph_machina) with the full development environment needed to run all the code.  The image also contains emacs, X libraries, and the PageXML viewer and editor [visual-page-editor](https://github.com/buzzcauldron/visual-page-editor).  You can run the image locally, or on a virtual machine rented from vast.ai (public template [here](https://cloud.vast.ai/?ref_id=55359&creator_id=55359&name=Glyph%20Machina).
 
 # Training
 To train the image segmentation neural network:
@@ -51,7 +53,7 @@ Of course, modify the model directory in the second step if you change the numbe
 
 To run handwriting recognition on an image:
 
-1. python run_segmenter.py image.JPG image.xml.  This uses seg.mlmodel.  We have found that setting threshold=0.10 and min_length=100 in kraken works better than the default of threshold=0.17 and min_length=5; however, kraken does not expose these parameters to the user.  You can leave the default values, hack kraken (KRAKEN_PATH/kraken/lib/segmentation.py:vectorize_lines) to change the default values, or use our [custom fork of kraken](https://github.com/ideasrule/kraken), which does expose these two arguments to the user.  Our Docker image contains a hacked version of kraken.
+1. python run_segmenter.py seg.mlmodel image.JPG image.xml.  This uses seg.mlmodel.  We have found that setting threshold=0.10 and min_length=100 in kraken works better than the default of threshold=0.17 and min_length=5; however, kraken does not expose these parameters to the user.  You can leave the default values, hack kraken (KRAKEN_PATH/kraken/lib/segmentation.py:vectorize_lines) to change the default values, or use our [custom fork of kraken](https://github.com/ideasrule/kraken), which does expose these two arguments to the user.  Our Docker image contains a hacked version of kraken.
 
 2. python run_line_image_generator.py image.xml > /dev/null
 3. python run_htr.py image.xml.  This uses best_HTR.net.
